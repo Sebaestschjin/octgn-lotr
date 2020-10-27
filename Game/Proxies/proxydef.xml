@@ -6,10 +6,6 @@
       <text color="#000000" size="18"/>
       <wordwrap height="20" width="180" shrinktofit="True"/>
     </block>
-    <block type="text" id="sidename">
-      <location x="23" y="75" rotate="270"/>
-      <text color="#000000" size="18"/>
-    </block>
     <block type="text" id="subname">
       <location x="70" y="46"/>
       <text color="#000000" size="13"/>
@@ -19,12 +15,12 @@
       <text color="#000000" size="16"/>
       <wordwrap height="20" width="235" align="center" valign="center" shrinktofit="True"/>
     </block>
-    <block type="text" id="types_pos">
-      <location x="100" y="290"/>
-      <text color="#000000" size="16"/>
-      <wordwrap height="20" width="200" align="center" valign="center" shrinktofit="True"/>
-    </block>    
     <block type="text" id="twilight">
+      <location x="18" y="18"/>
+      <text color="#000000" size="25"/>
+      <wordwrap height="45" width="45" align="center" valign="center"/>
+    </block>
+    <block type="text" id="twilight_shadow">
       <location x="18" y="18"/>
       <text color="#FFFFFF" size="25"/>
       <wordwrap height="45" width="45" align="center" valign="center"/>
@@ -44,71 +40,274 @@
       <text color="#FFFFFF" size="25"/>
       <wordwrap height="45" width="45" align="center" valign="center"/>
     </block>
+    <block type="text" id="site">
+      <location x="22" y="422"/>
+      <text color="#FFFFFF" size="25"/>
+      <wordwrap height="45" width="45" align="center" valign="center"/>
+    </block>
     <block type="text" id="gametext">
       <location x="80" y="330"/>
       <text color="#000000" size="16"/>
       <wordwrap height="126" width="250" />
-    </block>    
+    </block>
   </blocks>
-  <template src="Proxies/companion_shire.jpg" default="True">
+  <!-- Free People -->
+  <template src="Proxies/dwarven.jpg">
     <matches>
-      <match name="Card Type" value="Companion" />
-      <match name="Card Type" value="Companion • Man" />
+      <match name="Culture" value="Dwarven" />
     </matches>
     <textblocks>
-      <link block="name">
-        <property name="Name" />
-      </link>
-      <link block="subname">
-        <property name="Subname" />
-      </link>
-      <link block="types">
-        <property name="Card Type" />
-      </link>      
-      <link block="twilight">
-        <property name="Twilight" />
-      </link>
-      <link block="strength">
-        <property name="Strength" />
-      </link>
-      <link block="vitality">
-        <property name="Vitality" />
-      </link>
-      <link block="resistance">
-        <property name="Resistance" />
-      </link>
-      <link block="gametext">
-        <property name="Game Text" />
-      </link>      
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="resistance"><property name="Resistance" /></link>
+      <link block="gametext"><property name="Text" /></link>
     </textblocks>
   </template>
-  <!-- -->
-  <template src="Proxies/posession_gandalf.jpg" default="True">
+  <template src="Proxies/elven.jpg">
     <matches>
-      <match name="Card Type" value="Possession • Hand Weapon" />
+      <match name="Culture" value="Elven" />
     </matches>
     <textblocks>
-      <link block="sidename">
-        <property name="Name" />
-      </link>
-      <link block="types_pos">
-        <property name="Card Type" />
-      </link>      
-      <link block="twilight">
-        <property name="Twilight" />
-      </link>
-      <link block="strength">
-        <property name="Strength" />
-      </link>
-      <link block="vitality">
-        <property name="Vitality" />
-      </link>
-      <link block="resistance">
-        <property name="Resistance" />
-      </link>
-      <link block="gametext">
-        <property name="Game Text" />
-      </link>      
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="resistance"><property name="Resistance" /></link>
+      <link block="gametext"><property name="Text" /></link>
     </textblocks>
-  </template>  
+  </template>
+  <template src="Proxies/gandalf.jpg">
+    <matches>
+      <match name="Culture" value="Gandalf" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="resistance"><property name="Resistance" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/gollum.jpg">
+    <matches>
+      <match name="Culture" value="Gollum" />
+      <match name="Kind" value="Free People" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="resistance"><property name="Resistance" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/gondor.jpg">
+    <matches>
+      <match name="Culture" value="Gondor" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="resistance"><property name="Resistance" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/rohan.jpg">
+    <matches>
+      <match name="Culture" value="Rohan" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="resistance"><property name="Resistance" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/shire.jpg">
+    <matches>
+      <match name="Culture" value="Shire" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="resistance"><property name="Resistance" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <!-- Shadow -->
+  <template src="Proxies/dunland.jpg">
+    <matches>
+      <match name="Culture" value="Dunland" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight_shadow"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="site"><property name="Site" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/gollum_shadow.jpg">
+    <matches>
+      <match name="Culture" value="Gollum" />
+      <match name="Kind" value="Shadow" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight_shadow"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="site"><property name="Site" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/isengard.jpg">
+    <matches>
+      <match name="Culture" value="Isengard" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight_shadow"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="site"><property name="Site" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/men.jpg">
+    <matches>
+      <match name="Culture" value="Men" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight_shadow"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="site"><property name="Site" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/moria.jpg">
+    <matches>
+      <match name="Culture" value="Moria" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight_shadow"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="site"><property name="Site" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/orc.jpg">
+    <matches>
+      <match name="Culture" value="Orc" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight_shadow"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="site"><property name="Site" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/raider.jpg">
+    <matches>
+      <match name="Culture" value="Raider" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight_shadow"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="site"><property name="Site" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/sauron.jpg">
+    <matches>
+      <match name="Culture" value="Sauron" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight_shadow"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="site"><property name="Site" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/uruk-hai.jpg">
+    <matches>
+      <match name="Culture" value="Uruk-hai" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight_shadow"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="site"><property name="Site" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <template src="Proxies/wraith.jpg">
+    <matches>
+      <match name="Culture" value="Wraith" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="subname"><property name="Subname" /></link>
+      <link block="types"><property name="Type" /></link>
+      <link block="twilight_shadow"><property name="Twilight" /></link>
+      <link block="strength"><property name="Strength" /></link>
+      <link block="vitality"><property name="Vitality" /></link>
+      <link block="site"><property name="Site" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
 </templates>

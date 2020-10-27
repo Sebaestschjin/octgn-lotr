@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <game name="Lord of the Rings - The Trading Card Game"
-      description="The Lord of the Rings TCG"
-      version="1.1.1.4"
+      description="The Lord of the Rings TCG
+      &#xd;&#xd;&#xd;Icons made by Freepik from www.flaticon.com"
+      version="1.1.1.7"
       id="98d26dd0-7ff6-4d2c-a023-0bc916d3f001"
       tags="LotR"
       setsurl="http://www.example.org"
-      gameurl="http://www.example.org"
-      iconurl="https://raw.github.com/kellyelton/Standard-Playing-Cards-Octgn/master/src/images/icon.jpg"
-      authors="Codegenerathor"
+      gameurl="https://github.com/Sebaestschjin/octgn-lotr"
+      iconurl="https://raw.githubusercontent.com/Sebaestschjin/octgn-lotr/main/Game/Resources/icon.jpg"
+      authors="Sebaestschjin"
       octgnVersion="3.4.217.0"
       scriptVersion="3.1.0.2"
       markersize="25">
@@ -76,7 +77,7 @@
 
   <table name="Middle-Earth" visibility="undefined"
          width="800" height="650"
-         background="Resources/wood.jpg" backgroundStyle="uniformToFill">
+         background="Resources/background.jpg" backgroundStyle="uniformToFill">
     <cardactions menu="Add...">
       <cardaction menu="Damage"
                   shortcut="f1"
