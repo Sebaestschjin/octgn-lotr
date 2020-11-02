@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<game name="Lord of the Rings - The Trading Card Game"
+<game name="The Lord of the Rings - The Trading Card Game"
       description="The Lord of the Rings TCG
-      &#xd;&#xd;&#xd;Icons made by Freepik from www.flaticon.com"
-      version="1.1.1.7"
+      &#xd;&#xd;&#xd;Icons made by Freepik/srip from www.flaticon.com"
+      version="1.1.3.0"
       id="98d26dd0-7ff6-4d2c-a023-0bc916d3f001"
       tags="LotR"
       setsurl="http://www.example.org"
@@ -70,6 +70,7 @@
     <property name="Signet" type="String" />
     <property name="Text" type="String"/>
     <property name="Lore" type="String" />
+    <property name="Direction" type="String" />
     <size name="SiteCard"
           front="Resources/card.jpg" back="Resources/card_wide.jpg"
           width="88" height="63" cornerRadius="2" />
