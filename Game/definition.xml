@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <game name="The Lord of the Rings - The Trading Card Game"
       description="The Lord of the Rings TCG
       &#xd;&#xd;&#xd;Icons made by Freepik/srip from www.flaticon.com"
@@ -58,19 +58,20 @@
   <card front="Resources/card.jpg" back="Resources/card.jpg"
         width="63" height="88" cornerRadius="2">
     <property name="Subname" type="String" />
-    <property name="Kind" type="String" />
+    <property name="Kind" type="String" textKind="Enum" />
     <property name="Culture" type="String" textKind="Enum" />
     <property name="Twilight" type="Integer" />
-    <property name="Type" type="String" />
-    <property name="Rarity" type="String" />
-    <property name="Site" type="Integer" />
+    <property name="Type" type="String" textKind="Enum" />
+    <property name="Rarity" type="String" textKind="Enum" />
+    <property name="Site" type="String" />
     <property name="Strength" type="Integer" />
     <property name="Vitality" type="Integer" />
     <property name="Resistance" type="Integer" />
-    <property name="Signet" type="String" />
+    <property name="Signet" type="String" textKind="Enum" />
     <property name="Text" type="String"/>
     <property name="Lore" type="String" />
-    <property name="Direction" type="String" />
+    <property name="Direction" type="String" textKind="Enum" />
+    <property name="Ring-Bearer" type="String" />
     <property name="Block" type="String" />
     <size name="SiteCard"
           front="Resources/card.jpg" back="Resources/card_wide.jpg"
@@ -159,6 +160,11 @@
            visibility="all"
            icon="Resources/dead.png">
     </group>
+    <group name="Side-Deck" viewState="collapsed"
+           visibility="me"
+           ordered="False"
+           icon="Resources/deck.png">
+    </group>
   </player>
 
   <shared />
@@ -172,5 +178,6 @@
     <section name="Free People - Conditions" group="Deck" />
     <section name="Free People - Events" group="Deck" />
     <section name="Shadow" group="Deck" />
+    <section name="Side-Deck" group="Side-Deck" />
   </deck>
 </game>
