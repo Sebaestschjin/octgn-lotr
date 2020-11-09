@@ -2,7 +2,7 @@
 <game name="The Lord of the Rings - The Trading Card Game"
       description="The Lord of the Rings TCG
       &#xd;&#xd;&#xd;Icons made by Freepik/srip from www.flaticon.com"
-      version="1.1.3.0"
+      version="1.1.3.1"
       id="98d26dd0-7ff6-4d2c-a023-0bc916d3f001"
       tags="LotR"
       setsurl="http://www.example.org"
@@ -71,6 +71,7 @@
     <property name="Text" type="String"/>
     <property name="Lore" type="String" />
     <property name="Direction" type="String" />
+    <property name="Block" type="String" />
     <size name="SiteCard"
           front="Resources/card.jpg" back="Resources/card_wide.jpg"
           width="88" height="63" cornerRadius="2" />
@@ -166,6 +167,7 @@
     <section name="The One Ring" group="Hand" />
     <section name="Adventure Deck" group="Adventure Deck" />
     <section name="Free People - Companions" group="Deck" />
+    <section name="Free People - Allies" group="Deck" />
     <section name="Free People - Possessions" group="Deck" />
     <section name="Free People - Conditions" group="Deck" />
     <section name="Free People - Events" group="Deck" />
