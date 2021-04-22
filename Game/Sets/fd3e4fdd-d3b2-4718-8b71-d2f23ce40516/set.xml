@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.0.0" id="fd3e4fdd-d3b2-4718-8b71-d2f23ce40516" name="Special Cards" version="1.0" hidden="True">
+<cards>
+<card id="fb909fa6-1ed7-44f7-a214-77b9bf5ce90d" name="Twilight Pool" size="SiteCard">
+<property name="Twilight" value="0"/>
+<property name="Type" value="Site"/>
+<property name="Site" value="0"/>
+<property name="Text">Track the Twilight Pool here.</property>
+<property name="Direction" value="left"/>
+</card>
+</cards></set>
