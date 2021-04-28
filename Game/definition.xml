@@ -2,7 +2,7 @@
 <game name="The Lord of the Rings - The Trading Card Game"
       description="The Lord of the Rings TCG
       &#xd;&#xd;&#xd;Icons made by Freepik/srip from www.flaticon.com"
-      version="1.1.3.0"
+      version="1.1.4.0"
       id="98d26dd0-7ff6-4d2c-a023-0bc916d3f001"
       tags="LotR"
       setsurl="http://www.example.org"
@@ -11,15 +11,19 @@
       authors="Sebaestschjin"
       octgnVersion="3.4.217.0"
       scriptVersion="3.1.0.2"
-      markersize="25">
+      markersize="15">
 
   <scripts>
     <script src="Scripts/hand_actions.py" />
     <script src="Scripts/pile_actions.py" />
     <script src="Scripts/table_actions.py" />
+    <script src="Scripts/automation.py" />
   </scripts>
 
-  <events />
+  <events>
+    <event name="OnPlayerGlobalVariableChanged" action="on_player_global_cariable_changed" />
+    <event name="OnDeckLoaded" action="deck_loaded" />
+  </events>
 
   <sounds />
 
@@ -33,6 +37,8 @@
             src="Resources/damage.png" />
     <marker name="Burden" id="ad150c1d-4534-456b-a4bd-58bf67a26c3b"
             src="Resources/burden.png" />
+    <marker name="Twilight" id="e4fe7c68-73f2-4ea6-a311-f537088965eb"
+            src="Resources/twilight.png" />        
   </markers>
 
   <proxygen definitionsrc="Proxies/proxydef.xml" />
@@ -79,6 +85,8 @@
   <table name="Middle-Earth" visibility="undefined"
          width="800" height="650"
          background="Resources/background.jpg" backgroundStyle="uniformToFill">
+      <cardaction menu="Add Default Token" shortcut="Up" execute="add_general" />
+      <cardaction menu="Remove Default Token" shortcut="Down" execute="remove_general" />
     <cardactions menu="Add...">
       <cardaction menu="Damage"
                   shortcut="f1"
@@ -86,6 +94,11 @@
       <cardaction menu="Burden"
                   shortcut="f2"
                   execute="add_burden" />
+      <cardaction menu="Twilight"
+                  shortcut="f3"
+                  execute="add_twilight" />
+      <cardaction menu="Other..."
+                  execute="add_other" />
     </cardactions>
     <cardactions menu="Remove...">
       <cardaction menu="Damage"
@@ -94,6 +107,9 @@
       <cardaction menu="Burden"
                   shortcut="shift+f2"
                   execute="remove_burden" />
+	  <cardaction menu="Twilight"
+                  shortcut="shift+f3"
+                  execute="remove_twilight" />
     </cardactions>
     <!-- standard card actions -->
     <cardactions menu="Change Cards">
@@ -113,10 +129,12 @@
       <groupaction menu="Roll a 6-sided Die"
                    execute="roll_d6" />
     </groupactions>
+    <groupaction menu="Bid Burdens for First Player" execute="bid_burdens" showIf="notBid"/>
   </table>
 
-  <player summary="Hand:{#Hand}">
-    <group name="Hand" viewState="expanded"
+  <player summary="Hand:{#Hand} | Threats:{#Threats}">
+    <counter name="Threats" default="0" icon="Resources/threat.png" />
+	<group name="Hand" viewState="expanded"
            visibility="me"
            ordered="False"
            shortcut="ctrl+H"
@@ -158,6 +176,8 @@
            visibility="all"
            icon="Resources/dead.png">
     </group>
+    <globalvariable name="burdenBid" value="999" />
+    <globalvariable name="deckLoaded" value="No" />
   </player>
 
   <shared />
