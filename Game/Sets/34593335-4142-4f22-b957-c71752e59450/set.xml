@@ -12,7 +12,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1471cfef-708c-4873-bde9-0a8d1a316831" name="Gimli">
+      <card id="1471cfef-708c-4873-bde9-0a8d1a316831" name="Gimli's Pipe">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="1"/>
@@ -125,7 +125,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="68f23354-e7ed-42d1-b306-8869e652dff8" name="Cast It Into the Fire">
+      <card id="68f23354-e7ed-42d1-b306-8869e652dff8" name="Cast It Into the Fire!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="1"/>
@@ -591,7 +591,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="84ebdab9-6691-4c1b-9345-1b0b729bbec9" name="Can You Protect Me From Yourself">
+      <card id="84ebdab9-6691-4c1b-9345-1b0b729bbec9" name="Can You Protect Me From Yourself?">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="0"/>
@@ -1056,7 +1056,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5f15a279-f6df-4b29-8aee-4f67ba2c4d24" name="Get Off the Road">
+      <card id="5f15a279-f6df-4b29-8aee-4f67ba2c4d24" name="Get Off the Road!">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="0"/>
@@ -1270,7 +1270,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ce88749e-1ceb-4c66-b4ea-1ccc98dac674" name="Why Shouldn">
+      <card id="ce88749e-1ceb-4c66-b4ea-1ccc98dac674" name="Why Shouldn't I Keep It?">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="0"/>
@@ -1292,7 +1292,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9a51ca34-c15c-4743-9fbe-159ae4c6fee7" name="Frodo">
+      <card id="9a51ca34-c15c-4743-9fbe-159ae4c6fee7" name="Frodo's Pipe">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="1"/>

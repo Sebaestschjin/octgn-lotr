@@ -273,7 +273,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="45461c11-3116-4341-b96b-138588944d4e" name="Balin">
+      <card id="45461c11-3116-4341-b96b-138588944d4e" name="Balin's Tomb">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="P"/>
@@ -293,7 +293,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="153e76fb-8f09-4aaf-a24e-1c769115c365" name="Galadriel">
+      <card id="153e76fb-8f09-4aaf-a24e-1c769115c365" name="Galadriel's Glade">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="P"/>
@@ -314,7 +314,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="1eeaaa39-cb5d-4917-bbaf-b366968e0f5b" name="The Balrog">
-         <property name="Subname" value="Durin"/>
+         <property name="Subname" value="Durin's Bane"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Moria"/>
          <property name="Twilight" value="12"/>
@@ -654,7 +654,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ea9f1e98-8c65-4c9e-b690-71c3493d7d3e" name="Gimli">
+      <card id="ea9f1e98-8c65-4c9e-b690-71c3493d7d3e" name="Gimli's Helm">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="0"/>
@@ -704,7 +704,8 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="44c0af3a-73bb-4485-a383-87b52b988c59" name="Gandalf">
+      <card id="44c0af3a-73bb-4485-a383-87b52b988c59" name="Gandalf's Staff">
+         <property name="Subname" value="Walking Stick"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="2"/>
@@ -714,7 +715,6 @@
          <property name="Text">Bearer must be Gandalf. While you can spot 2 twilight tokens, Gandalf is damage +2.</property>
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Walking Stick"/>
       </card>
       <card id="029632c2-d7db-4844-aa19-7b0d2247bbb0" name="Eowyn">
          <property name="Subname" value="Sister-daughter of Theoden"/>
@@ -742,7 +742,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="01205eb0-878a-43ab-bac0-7eb2021f81d3" name="Aragorn">
+      <card id="01205eb0-878a-43ab-bac0-7eb2021f81d3" name="Aragorn's Bow">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -752,7 +752,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="93a79f41-d6e2-4e7e-98f6-8a6e4888b785" name="The Balrog">
+      <card id="93a79f41-d6e2-4e7e-98f6-8a6e4888b785" name="The Balrog's Sword">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Moria"/>
          <property name="Twilight" value="1"/>
@@ -961,7 +961,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="01cb6dc9-d888-4f41-a733-a20d19f4b5cd" name="Radagast">
+      <card id="01cb6dc9-d888-4f41-a733-a20d19f4b5cd" name="Radagast's Staff">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="1"/>
@@ -1001,7 +1001,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8091ca7f-5409-43b0-8ed9-44c39a6d6d8e" name="Tom Bombadil">
+      <card id="8091ca7f-5409-43b0-8ed9-44c39a6d6d8e" name="Tom Bombadil's Hat">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="1"/>
@@ -1067,7 +1067,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="40bd575f-466c-45d1-b36c-f7478182b099" name="Boromir">
-         <property name="Subname" value="Steward"/>
+         <property name="Subname" value="Steward's Heir"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="3"/>
@@ -1095,7 +1095,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="cdb4cf3c-417a-4733-bebc-af782127db59" name="Frodo">
-         <property name="Subname" value="Mr"/>
+         <property name="Subname" value="Mr. Underhill"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="0"/>
@@ -1284,7 +1284,8 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1720f05b-e291-4e1b-9fff-fcef9fb458c7" name="The Witch-king">
+      <card id="1720f05b-e291-4e1b-9fff-fcef9fb458c7" name="The Witch-king's Beast">
+         <property name="Subname" value="Fell Creature"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Wraith"/>
          <property name="Twilight" value="2"/>
@@ -1294,7 +1295,6 @@
          <property name="Text">Bearer must be a Nazgul. If bearer is The Witch-king, after all skirmishes and fierce skirmishes have been resolved, you may exert him twice to make him participate in one additional assignment and skirmish phase.</property>
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Fell Creature"/>
       </card>
       <card id="9296533b-53af-4b3a-8312-4277109a5a95" name="Ulaire Attea">
          <property name="Subname" value="Second of the Nine Riders"/>
@@ -1452,7 +1452,7 @@
       <card id="1ca53a67-e190-4324-ab68-809f07edf03a" name="Saruman">
          <property name="Subname" value="Agent of the Dark Lord"/>
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="4"/>
          <property name="Type" value="Minion • Wizard"/>
          <property name="Rarity" value="P"/>
@@ -1600,7 +1600,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="f2996be8-0257-4cc3-82eb-dde3663f06b7" name="Hama">
-         <property name="Subname" value="Captain of the King"/>
+         <property name="Subname" value="Captain of the King's Guard"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="2"/>
@@ -1970,7 +1970,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="fbeac17a-4e35-4b78-91ed-e7a17d19a0ef" name="Neekerbreekers">
+      <card id="fbeac17a-4e35-4b78-91ed-e7a17d19a0ef" name="Neekerbreekers' Bog">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="D"/>

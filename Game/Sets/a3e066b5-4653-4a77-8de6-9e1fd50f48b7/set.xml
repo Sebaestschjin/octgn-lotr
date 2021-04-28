@@ -25,7 +25,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ff7e5fbb-1c69-4a16-9b86-8dcdbbcaaf41" name="Thorin">
+      <card id="ff7e5fbb-1c69-4a16-9b86-8dcdbbcaaf41" name="Thorin's Harp">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="0"/>
@@ -35,7 +35,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8a9af90e-5d7c-43ed-a217-d044be298a8a" name="Arwen">
+      <card id="8a9af90e-5d7c-43ed-a217-d044be298a8a" name="Arwen's Bow">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="2"/>
@@ -46,7 +46,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="02fa8caa-561b-450d-87e7-157e72fe4c72" name="Arwen">
+      <card id="02fa8caa-561b-450d-87e7-157e72fe4c72" name="Arwen's Dagger">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="2"/>
@@ -114,7 +114,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b7392241-e37d-47ab-b909-445c69524062" name="Galadriel">
+      <card id="b7392241-e37d-47ab-b909-445c69524062" name="Galadriel's Silver Ewer">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="2"/>
@@ -284,7 +284,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="bf17df37-17d1-492f-ac56-28b4b41c4581" name="Radagast">
+      <card id="bf17df37-17d1-492f-ac56-28b4b41c4581" name="Radagast's Herb Bag">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="1"/>
@@ -473,7 +473,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="4788c008-7313-4877-8fc2-cf39dc967abb" name="Denethor">
+      <card id="4788c008-7313-4877-8fc2-cf39dc967abb" name="Denethor's Sword">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -494,7 +494,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5940f969-fd5a-4c02-9265-c0369996d6e1" name="Dunadan">
+      <card id="5940f969-fd5a-4c02-9265-c0369996d6e1" name="Dunadan's Bow">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="2"/>
@@ -516,7 +516,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="199ebb3b-6930-469d-927d-cd4a3779dfe8" name="Elendil">
+      <card id="199ebb3b-6930-469d-927d-cd4a3779dfe8" name="Elendil's Army">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="0"/>
@@ -541,7 +541,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b9bb5176-73ef-4804-8044-937b783675a2" name="Faramir">
+      <card id="b9bb5176-73ef-4804-8044-937b783675a2" name="Faramir's Company">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -561,7 +561,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="a7da16ba-2925-4195-828a-4daf0d2efd67" name="For Gondor">
+      <card id="a7da16ba-2925-4195-828a-4daf0d2efd67" name="For Gondor!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="0"/>
@@ -572,7 +572,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="f8d3b4c9-d1c2-46b2-b60a-8e6b53e68f1e" name="Gondorian Servant">
-         <property name="Subname" value="Denethor"/>
+         <property name="Subname" value="Denethor's Handman"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="0"/>
@@ -642,7 +642,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0dc37a4d-e6ec-4c16-a809-144178f42460" name="Soldier">
+      <card id="0dc37a4d-e6ec-4c16-a809-144178f42460" name="Soldier's Cache">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="2"/>
@@ -768,7 +768,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="86199c06-7649-411a-ab45-985cda8f5529" name="Henchman">
+      <card id="86199c06-7649-411a-ab45-985cda8f5529" name="Henchman's Dagger">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Men"/>
          <property name="Twilight" value="0"/>
@@ -843,7 +843,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="6ffd60e9-80b5-4e0f-8e8b-cf4e7b26a573" name="Ted Sandyman">
-         <property name="Subname" value="Chief"/>
+         <property name="Subname" value="Chief's Men's Ally"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Men"/>
          <property name="Twilight" value="1"/>
@@ -910,7 +910,8 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c53c7199-b76c-4776-ab5a-3b9bb5d96ae0" name="Gothmog">
+      <card id="c53c7199-b76c-4776-ab5a-3b9bb5d96ae0" name="Gothmog's Warg">
+         <property name="Subname" value="Leader's Mount"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Orc"/>
          <property name="Twilight" value="1"/>
@@ -921,7 +922,6 @@
          <property name="Text">Bearer must be an [Orc] Orc with strength 9 or less (or bearer must be Gothmog). Bearer is fierce. While bearer is Gothmog, he is damage +1 in fierce skirmishes.</property>
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Leader's Mount"/>
       </card>
       <card id="9d5471f0-584e-40df-8741-97eabd29968e" name="Grond">
          <property name="Subname" value="Forged With Black Steel"/>
@@ -1079,7 +1079,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="45d6648e-8203-4cd7-b54e-34f534eef044" name="Eomer">
+      <card id="45d6648e-8203-4cd7-b54e-34f534eef044" name="Eomer's Bow">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -1089,7 +1089,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2f9770d5-0264-4c36-b029-c0f1eddc6d1f" name="Erkenbrand">
+      <card id="2f9770d5-0264-4c36-b029-c0f1eddc6d1f" name="Erkenbrand's Horn">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="0"/>
@@ -1099,7 +1099,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="80c61bc4-118a-4f1f-a6f2-621711cab6f6" name="Erkenbrand">
+      <card id="80c61bc4-118a-4f1f-a6f2-621711cab6f6" name="Erkenbrand's Shield">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="0"/>
@@ -1109,7 +1109,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c7a3c310-37f3-43f5-a0c2-26f10e4b6920" name="Fall back to Helm">
+      <card id="c7a3c310-37f3-43f5-a0c2-26f10e4b6920" name="Fall back to Helm's Deep">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="3"/>
@@ -1133,7 +1133,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="4dee4861-2935-4776-9ea6-55b1a647143d" name="Gamling">
+      <card id="4dee4861-2935-4776-9ea6-55b1a647143d" name="Gamling's Horn">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="0"/>
@@ -1200,7 +1200,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c2526a74-d141-4ddc-a2e6-fad05eb729b6" name="A Dragon">
+      <card id="c2526a74-d141-4ddc-a2e6-fad05eb729b6" name="A Dragon's Tale">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="1"/>
@@ -1292,7 +1292,7 @@
       </card>
       <card id="0a958f6a-b4c7-4859-bae7-7da684756481" name="Cleaved">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="2"/>
          <property name="Type" value="Condition • Support Area"/>
          <property name="Rarity" value="R"/>
@@ -1303,7 +1303,7 @@
       </card>
       <card id="3732ec60-9f60-4f6c-9afb-b9b7150c8c85" name="Final Triumph">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="4"/>
          <property name="Type" value="Event • Skirmish"/>
          <property name="Rarity" value="R"/>
@@ -1313,7 +1313,7 @@
       </card>
       <card id="fb756f4c-097c-48fc-ac9c-478651c5f33d" name="Fury of the Evil Army">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="0"/>
          <property name="Type" value="Condition"/>
          <property name="Rarity" value="C"/>
@@ -1324,7 +1324,7 @@
       </card>
       <card id="970145ec-34c4-4c55-9c4e-5b3756c2f0d1" name="Ghastly Wound">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="2"/>
          <property name="Type" value="Event • Skirmish"/>
          <property name="Rarity" value="C"/>
@@ -1335,7 +1335,7 @@
       <card id="1440c206-f493-4ec7-b386-182334ed9b68" name="Lurtz">
          <property name="Subname" value="Halfling Hunter"/>
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="7"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="R"/>
@@ -1346,9 +1346,10 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9b3f6ebf-861a-4381-b128-98d865241ddc" name="Lurtz">
+      <card id="9b3f6ebf-861a-4381-b128-98d865241ddc" name="Lurtz's Bow">
+         <property name="Subname" value="Black-Fletch Bow"/>
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="1"/>
          <property name="Type" value="Possession • Ranged Weapon"/>
          <property name="Rarity" value="R"/>
@@ -1357,11 +1358,10 @@
          <property name="Text">Bearer must be an Uruk-hai. When you play this possession on Lurtz, you may draw a card. Archery: If bearer is Lurtz, discard 2 [Uruk-hai] cards from hand to exert an unbound companion.</property>
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Black-Fletch Bow"/>
       </card>
       <card id="c709140a-e8f0-48ba-b104-351ddf68e163" name="New Forges Built">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="0"/>
          <property name="Type" value="Event • Maneuver"/>
          <property name="Rarity" value="U"/>
@@ -1371,7 +1371,7 @@
       </card>
       <card id="87938eb8-d9c7-4a4c-9631-8b0d79d93eb4" name="Pikes Upon Pikes">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="2"/>
          <property name="Type" value="Condition • Support Area"/>
          <property name="Rarity" value="U"/>
@@ -1382,7 +1382,7 @@
       <card id="3530105a-c64f-413c-9423-46bd2fd2285b" name="Shagrat">
          <property name="Subname" value="Tower Captain"/>
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="5"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="R"/>
@@ -1395,7 +1395,7 @@
       </card>
       <card id="32f87690-531e-48e9-ae0e-884087933337" name="Tracking the Prize">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="2"/>
          <property name="Type" value="Condition • Support Area"/>
          <property name="Rarity" value="U"/>
@@ -1405,7 +1405,7 @@
       </card>
       <card id="b0f17e4a-c894-4814-83d3-a1b006a915f7" name="White Hand Attacker">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="3"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="C"/>
@@ -1418,7 +1418,7 @@
       </card>
       <card id="b7a52850-f947-4261-88b6-43d15981b655" name="White Hand Exorciser">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="2"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="C"/>
@@ -1431,7 +1431,7 @@
       </card>
       <card id="9ff17fb5-7300-492f-ace4-aa7032141d93" name="White Hand Marchers">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="4"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="R"/>
@@ -1444,7 +1444,7 @@
       </card>
       <card id="1e7eb3ca-9240-47d5-a1b9-cdd401dd67b7" name="White Hand Marshal">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="5"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="R"/>
@@ -1457,7 +1457,7 @@
       </card>
       <card id="a54c7f71-9b94-49e4-818c-b443175c2170" name="White Hand Mystic">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="4"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="C"/>
@@ -1470,7 +1470,7 @@
       </card>
       <card id="b727b5c2-2f74-4875-a985-4d809cc27ddd" name="White Hand Sieger">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="0"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="C"/>
@@ -1483,7 +1483,7 @@
       </card>
       <card id="50bb9ab9-8b56-43ef-8d92-1fbc3e8e18f3" name="White Hand Traveler">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="3"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="U"/>
@@ -1496,7 +1496,7 @@
       </card>
       <card id="bd740fa3-4fd2-426c-ab9f-497ea7dd6c49" name="White Hand Uruk">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="3"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="C"/>
@@ -1572,7 +1572,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0f3487a2-c517-4ae9-a924-59ac1a94a462" name="Steward">
+      <card id="0f3487a2-c517-4ae9-a924-59ac1a94a462" name="Steward's Tomb">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1590,7 +1590,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2b1d790b-dff2-4af5-a38a-0f357d29e1b2" name="Arwen">
+      <card id="2b1d790b-dff2-4af5-a38a-0f357d29e1b2" name="Arwen's Bow">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="2"/>
@@ -1601,7 +1601,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e831dcb9-5efc-4cdd-bdf1-32830a006ecb" name="Arwen">
+      <card id="e831dcb9-5efc-4cdd-bdf1-32830a006ecb" name="Arwen's Dagger">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="2"/>
@@ -1612,7 +1612,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9a7e6640-45ab-4caf-b1b9-92e94334622b" name="Galadriel">
+      <card id="9a7e6640-45ab-4caf-b1b9-92e94334622b" name="Galadriel's Silver Ewer">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="2"/>
@@ -1634,7 +1634,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b2edcb60-048f-418a-b1d2-2a99556805d7" name="Radagast">
+      <card id="b2edcb60-048f-418a-b1d2-2a99556805d7" name="Radagast's Herb Bag">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="1"/>
@@ -1670,7 +1670,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d4eda54c-3596-4aaa-b3f7-8a0eb17770d6" name="Denethor">
+      <card id="d4eda54c-3596-4aaa-b3f7-8a0eb17770d6" name="Denethor's Sword">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1709,7 +1709,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2a85a7b3-2343-4dfe-a47f-ee2ade58f3c2" name="Erkenbrand">
+      <card id="2a85a7b3-2343-4dfe-a47f-ee2ade58f3c2" name="Erkenbrand's Horn">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="0"/>
@@ -1719,7 +1719,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9ada5522-8807-4ec3-b103-ed064904e86a" name="Erkenbrand">
+      <card id="9ada5522-8807-4ec3-b103-ed064904e86a" name="Erkenbrand's Shield">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="0"/>
@@ -1784,7 +1784,7 @@
       <card id="8a969d44-881d-4310-8b27-a6acb4b69648" name="Shagrat">
          <property name="Subname" value="Tower Captain"/>
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="5"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="RF"/>
@@ -1817,7 +1817,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="a207f431-b17e-41c8-8a69-47239c02ce10" name="Radagast">
+      <card id="a207f431-b17e-41c8-8a69-47239c02ce10" name="Radagast's Herb Bag">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="1"/>
@@ -1839,7 +1839,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1e9842db-c4a0-479e-b545-0786cfb363a9" name="Denethor">
+      <card id="1e9842db-c4a0-479e-b545-0786cfb363a9" name="Denethor's Sword">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1864,7 +1864,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c8669a1e-1ba3-4771-b1a8-7735c8e02d43" name="Erkenbrand">
+      <card id="c8669a1e-1ba3-4771-b1a8-7735c8e02d43" name="Erkenbrand's Horn">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="0"/>
@@ -1874,7 +1874,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5306fdac-9322-4394-bcc9-a8473173ec4a" name="Erkenbrand">
+      <card id="5306fdac-9322-4394-bcc9-a8473173ec4a" name="Erkenbrand's Shield">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="0"/>

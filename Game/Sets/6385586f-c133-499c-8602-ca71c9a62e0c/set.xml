@@ -214,7 +214,7 @@
          <property name="Block" value="Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="dec04cf9-ddc5-49d7-b6cc-3a431976d9cf" name="Merry">
+      <card id="dec04cf9-ddc5-49d7-b6cc-3a431976d9cf" name="Merry's Dagger">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="1"/>
@@ -249,7 +249,7 @@
          <property name="Block" value="Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="06726de1-b03c-4eb8-b3d2-f16a2bddaf24" name="Pippin">
+      <card id="06726de1-b03c-4eb8-b3d2-f16a2bddaf24" name="Pippin's Dagger">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="1"/>

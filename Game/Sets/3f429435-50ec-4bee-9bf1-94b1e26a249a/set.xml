@@ -472,7 +472,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="7181368c-19ae-4e70-bf99-1c18cbd70f41" name="Traveler">
+      <card id="7181368c-19ae-4e70-bf99-1c18cbd70f41" name="Traveler's Homestead">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="3"/>
@@ -492,7 +492,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5a8975cd-b07b-46bb-9310-8fa3a1a1b310" name="Chasm">
+      <card id="5a8975cd-b07b-46bb-9310-8fa3a1a1b310" name="Chasm's Edge">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Gollum"/>
          <property name="Twilight" value="1"/>
@@ -581,7 +581,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1f4322f6-1b6a-46b5-9613-29ad3d941ef8" name="It">
+      <card id="1f4322f6-1b6a-46b5-9613-29ad3d941ef8" name="It's My Birthday">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Gollum"/>
          <property name="Twilight" value="0"/>
@@ -666,7 +666,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="64c7a099-728c-4491-b3ac-aad44b89bdd2" name="Aragorn">
-         <property name="Subname" value="Isildur"/>
+         <property name="Subname" value="Isildur's Heir"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="4"/>
@@ -823,7 +823,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="74d36bb8-be30-4aa0-8e1e-9ccb0c2aa99e" name="Kings">
+      <card id="74d36bb8-be30-4aa0-8e1e-9ccb0c2aa99e" name="Kings' Legacy">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="2"/>
@@ -853,7 +853,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="cb378bd2-c1d2-4b33-bfeb-91c0512bea9f" name="Stewards">
+      <card id="cb378bd2-c1d2-4b33-bfeb-91c0512bea9f" name="Stewards' Legacy">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="2"/>
@@ -917,7 +917,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="447056d2-b0e2-4dfd-b55d-425659932e0b" name="Staff of Saruman">
-         <property name="Subname" value="Fallen Istar"/>
+         <property name="Subname" value="Fallen Istar's Stave"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="2"/>
@@ -1486,7 +1486,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="d33154b7-fe47-40d5-a30e-8aaff0084d47" name="Hama">
-         <property name="Subname" value="Captain of the King"/>
+         <property name="Subname" value="Captain of the King's Guard"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="2"/>
@@ -1519,7 +1519,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="4e41b138-9d5d-4dd9-b474-73b538571067" name="King">
+      <card id="4e41b138-9d5d-4dd9-b474-73b538571067" name="King's Board">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -1565,7 +1565,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f066d151-e6d1-422c-bc62-56887819af41" name="Rider">
+      <card id="f066d151-e6d1-422c-bc62-56887819af41" name="Rider's Bow">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -1703,7 +1703,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0746732c-a014-424f-bb3f-4c14f66d2b1b" name="Don">
+      <card id="0746732c-a014-424f-bb3f-4c14f66d2b1b" name="Don't Let Go">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="1"/>
@@ -2073,7 +2073,7 @@
       </card>
       <card id="c8c3d3e4-4fee-49d5-a57e-6c5f4c7eca15" name="Uruk Rogue">
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="5"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="R"/>
@@ -2370,7 +2370,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="529ffea3-2b6f-4d95-bbc6-4abe0c8c73e5" name="Aragorn">
-         <property name="Subname" value="Isildur"/>
+         <property name="Subname" value="Isildur's Heir"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="4"/>
@@ -2602,7 +2602,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="f3408a61-cd4b-4b1d-9046-d2adac510c8a" name="Aragorn">
-         <property name="Subname" value="Isildur"/>
+         <property name="Subname" value="Isildur's Heir"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="4"/>

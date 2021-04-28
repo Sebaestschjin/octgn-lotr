@@ -739,7 +739,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0b4d008e-d9b4-44ba-b333-fb90b3108177" name="Gorbag">
+      <card id="0b4d008e-d9b4-44ba-b333-fb90b3108177" name="Gorbag's Sword">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Wraith"/>
          <property name="Twilight" value="2"/>
@@ -1109,7 +1109,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ca98d492-6452-4067-b1fc-2de8884b1c8f" name="Gothmog">
+      <card id="ca98d492-6452-4067-b1fc-2de8884b1c8f" name="Gothmog's Warg">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="1"/>
@@ -1209,7 +1209,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="da5e5b74-816b-4125-890e-fe45c3e3047a" name="The Ring is Mine">
+      <card id="da5e5b74-816b-4125-890e-fe45c3e3047a" name="The Ring is Mine!">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="0"/>
@@ -1438,7 +1438,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e13553d8-3cab-489d-ad3e-abc428001a62" name="Steward">
+      <card id="e13553d8-3cab-489d-ad3e-abc428001a62" name="Steward's Tomb">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

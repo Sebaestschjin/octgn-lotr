@@ -88,7 +88,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="85a9ac61-9d49-45a6-8b41-d175e541bc23" name="Gimli">
+      <card id="85a9ac61-9d49-45a6-8b41-d175e541bc23" name="Gimli's Armor">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="2"/>
@@ -98,7 +98,8 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="fb86c154-575a-4773-a8b3-55b9bef46be7" name="Gimli">
+      <card id="fb86c154-575a-4773-a8b3-55b9bef46be7" name="Gimli's Battle Axe">
+         <property name="Subname" value="Trusted Weapon"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="2"/>
@@ -108,7 +109,6 @@
          <property name="Text">Bearer must be a dwarf. While you can spot a threat, bearer is damage +1. While you can spot 2 threats, bearer is strength +1. While you can spot 3 threats, the fellowship archery total is +1.</property>
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Trusted Weapon"/>
       </card>
       <card id="4ac881e2-7bac-4617-8a15-94f6ef0a871e" name="Loyalty Unshaken">
          <property name="Kind" value="Free People"/>
@@ -383,7 +383,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c0ba2fb0-4c81-43ae-b702-01d6014d6453" name="Fool">
+      <card id="c0ba2fb0-4c81-43ae-b702-01d6014d6453" name="Fool's Hope">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="3"/>
@@ -423,7 +423,8 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0ffeb5e0-6ba6-443a-bc72-1ae5d663803d" name="Gandalf">
+      <card id="0ffeb5e0-6ba6-443a-bc72-1ae5d663803d" name="Gandalf's Staff">
+         <property name="Subname" value="Focus of Power"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="2"/>
@@ -433,7 +434,6 @@
          <property name="Text">Bearer must be Gandalf. While you can spot 4 twilight tokens, Gandalf is strength +1.</property>
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Focus of Power"/>
       </card>
       <card id="8d5812b1-e8c8-457e-befd-79b7dcab30e7" name="Glamdring">
          <property name="Subname" value="Elven Blade"/>
@@ -467,7 +467,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="02e3d7dd-cbe9-4c55-b5d0-9423fd6d5903" name="King">
+      <card id="02e3d7dd-cbe9-4c55-b5d0-9423fd6d5903" name="King's Advisor">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="2"/>
@@ -497,7 +497,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c1e3ea84-0677-4c3b-ba41-f8bf5665f9df" name="Numenor">
+      <card id="c1e3ea84-0677-4c3b-ba41-f8bf5665f9df" name="Numenor's Pride">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="1"/>
@@ -676,7 +676,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0b1f8368-84d5-43e7-8b42-73dee4af3225" name="It">
+      <card id="0b1f8368-84d5-43e7-8b42-73dee4af3225" name="It's Mine">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Gollum"/>
          <property name="Twilight" value="1"/>
@@ -796,7 +796,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f4b65fb0-8535-475b-9b37-6aeaf3296fab" name="Sneaking">
+      <card id="f4b65fb0-8535-475b-9b37-6aeaf3296fab" name="Sneaking!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gollum"/>
          <property name="Twilight" value="2"/>
@@ -883,7 +883,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="f8406672-904e-4596-bf32-f093940ba2fc" name="Anduril">
-         <property name="Subname" value="King"/>
+         <property name="Subname" value="King's Blade"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="3"/>
@@ -1024,7 +1024,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="ed97d5b1-56c3-47cc-b70e-17d1ad1c26b6" name="Faramir">
-         <property name="Subname" value="Wizard"/>
+         <property name="Subname" value="Wizard's Pupil"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="3"/>
@@ -1049,7 +1049,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1e29f273-7071-46d4-828d-cd52ba7546a1" name="Footman">
+      <card id="1e29f273-7071-46d4-828d-cd52ba7546a1" name="Footman's Armor">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1212,7 +1212,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="83b43f0f-3153-4604-96cb-48248f54e4e3" name="Knight">
+      <card id="83b43f0f-3153-4604-96cb-48248f54e4e3" name="Knight's Spear">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1234,7 +1234,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="4daaf5eb-379b-47da-85cb-42cc0c42fdf5" name="Madril">
-         <property name="Subname" value="Faramir"/>
+         <property name="Subname" value="Faramir's Aide"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="2"/>
@@ -1267,7 +1267,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="7e88d7e3-7ade-402b-b870-48879df76939" name="Pippin">
+      <card id="7e88d7e3-7ade-402b-b870-48879df76939" name="Pippin's Armor">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="0"/>
@@ -1279,7 +1279,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8e6eb09e-2b6f-4859-b4de-ffb0a5826971" name="Pippin">
+      <card id="8e6eb09e-2b6f-4859-b4de-ffb0a5826971" name="Pippin's Sword">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -2710,7 +2710,8 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1df8a87f-c4f7-44a3-8e6e-f3b9aed984e5" name="Eowyn">
+      <card id="1df8a87f-c4f7-44a3-8e6e-f3b9aed984e5" name="Eowyn's Sword">
+         <property name="Subname" value="Dernhelm's Blade"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -2720,7 +2721,6 @@
          <property name="Text">Bearer must be Eowyn. You may play this possession anytime you could play a skirmish event. When you play this possession, you may wound a minion Eowyn is skirmishing.</property>
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Dernhelm's Blade"/>
       </card>
       <card id="9816ad4f-ed85-4d08-be15-e17c90f9beb3" name="Fey He Seemed">
          <property name="Kind" value="Free People"/>
@@ -2733,7 +2733,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="d75d5bb4-e816-4088-abb7-25eb07cd025a" name="Firefoot">
-         <property name="Subname" value="Eomer"/>
+         <property name="Subname" value="Eomer's Steed"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -2838,7 +2838,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="88f98e9b-592f-480a-bd39-6328923f1930" name="Merry">
+      <card id="88f98e9b-592f-480a-bd39-6328923f1930" name="Merry's Armor">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="0"/>
@@ -2850,7 +2850,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8fde272c-0eea-45b9-aec7-c23cf5ccc4b5" name="Merry">
+      <card id="8fde272c-0eea-45b9-aec7-c23cf5ccc4b5" name="Merry's Sword">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -3660,7 +3660,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ce5379b9-1469-4ea8-8066-5b84e9f349ea" name="Sauron">
+      <card id="ce5379b9-1469-4ea8-8066-5b84e9f349ea" name="Sauron's Hatred">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="0"/>
@@ -3749,7 +3749,7 @@
          <property name="Ring-Bearer" value="True"/>
       </card>
       <card id="df64a12d-7257-4aef-b7ab-d491a6b338e6" name="Frodo">
-         <property name="Subname" value="Wicked Masster"/>
+         <property name="Subname" value="Wicked Masster!"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="0"/>
@@ -3978,7 +3978,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="958c021c-2b13-4311-b71a-2751356cac79" name="King">
+      <card id="958c021c-2b13-4311-b71a-2751356cac79" name="King's Tent">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

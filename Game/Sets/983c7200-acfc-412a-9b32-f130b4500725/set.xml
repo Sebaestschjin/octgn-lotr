@@ -59,7 +59,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="3ed79e41-1ff4-4ab9-b412-9e057099b17d" name="Fror">
-         <property name="Subname" value="Gimli"/>
+         <property name="Subname" value="Gimli's Kinsman"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="2"/>
@@ -166,7 +166,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b93a8749-7f73-45af-9a0d-c18fd8575912" name="What Are We Waiting For">
+      <card id="b93a8749-7f73-45af-9a0d-c18fd8575912" name="What Are We Waiting For?">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="1"/>
@@ -247,7 +247,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2da54fd8-4e49-4a94-82e5-d2d070b19c17" name="Gandalf">
+      <card id="2da54fd8-4e49-4a94-82e5-d2d070b19c17" name="Gandalf's Staff">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="2"/>
@@ -259,7 +259,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f54cc4cb-d0cc-4eac-bd24-503ce2c4e280" name="Gandalf">
+      <card id="f54cc4cb-d0cc-4eac-bd24-503ce2c4e280" name="Gandalf's Wisdom">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="0"/>
@@ -300,7 +300,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="edfde5d8-86db-4e7b-a2e7-6e71d655719f" name="Speak">
+      <card id="edfde5d8-86db-4e7b-a2e7-6e71d655719f" name="Speak &quot;Friend&quot; and Enter">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="1"/>
@@ -345,7 +345,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="581306ec-be01-4257-8ea5-57539450dfc7" name="You Cannot Pass">
+      <card id="581306ec-be01-4257-8ea5-57539450dfc7" name="You Cannot Pass!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="1"/>
@@ -492,7 +492,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="38d8d96d-4502-4a63-8262-96bf2d369282" name="Lurtz">
+      <card id="38d8d96d-4502-4a63-8262-96bf2d369282" name="Lurtz's Sword">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="1"/>
@@ -579,7 +579,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="a2243464-b8d9-4e71-af25-a60fbc42ee74" name="The Balrog">
+      <card id="a2243464-b8d9-4e71-af25-a60fbc42ee74" name="The Balrog's Sword">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Moria"/>
          <property name="Twilight" value="1"/>
@@ -592,7 +592,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="517bcb0e-893e-4b03-a787-6661aa6edd25" name="The Balrog">
-         <property name="Subname" value="Durin"/>
+         <property name="Subname" value="Durin's Bane"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Moria"/>
          <property name="Twilight" value="12"/>
@@ -636,7 +636,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3efe2beb-6428-4e00-ae83-3abbf9b6e3d3" name="Cave Troll">
+      <card id="3efe2beb-6428-4e00-ae83-3abbf9b6e3d3" name="Cave Troll's Chain">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Moria"/>
          <property name="Twilight" value="1"/>
@@ -1350,7 +1350,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="32fd1e58-1a99-4196-83fc-ba8c0226e789" name="O Elbereth">
+      <card id="32fd1e58-1a99-4196-83fc-ba8c0226e789" name="O Elbereth! Gilthoniel!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="1"/>
@@ -1374,7 +1374,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="ef0b123b-cb46-4908-8c2f-989041d4cfcd" name="Pippin">
-         <property name="Subname" value="Mr"/>
+         <property name="Subname" value="Mr. Took"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="1"/>

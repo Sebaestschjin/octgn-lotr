@@ -140,7 +140,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="bef9492e-f7fc-4a2b-b9c0-105322a65843" name="Legolas">
+      <card id="bef9492e-f7fc-4a2b-b9c0-105322a65843" name="Legolas' Sword">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="1"/>
@@ -773,7 +773,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="846fb45e-2752-4e9b-9b02-6fd03e7f54da" name="Sharku">
+      <card id="846fb45e-2752-4e9b-9b02-6fd03e7f54da" name="Sharku's Warg">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="5"/>
@@ -1326,7 +1326,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0d78cb37-fca3-4b65-9602-d98336f28008" name="I">
+      <card id="0d78cb37-fca3-4b65-9602-d98336f28008" name="I'd Make You Squeak">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="0"/>

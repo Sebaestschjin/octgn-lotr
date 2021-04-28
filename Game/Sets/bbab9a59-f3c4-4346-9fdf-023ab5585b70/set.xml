@@ -29,7 +29,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="73cb69c0-03c1-413a-8b8a-e5f1925fd30e" name="The Fortunes of Balin">
+      <card id="73cb69c0-03c1-413a-8b8a-e5f1925fd30e" name="The Fortunes of Balin's Folk">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="2"/>
@@ -219,7 +219,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="dae40055-ff29-4282-85c2-729ee3651e3d" name="Lorien">
+      <card id="dae40055-ff29-4282-85c2-729ee3651e3d" name="Lorien's Blessing">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="0"/>
@@ -293,7 +293,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="41d2d64d-9b3e-4278-ac7d-de19d664d222" name="Be Gone">
+      <card id="41d2d64d-9b3e-4278-ac7d-de19d664d222" name="Be Gone!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="2"/>
@@ -358,7 +358,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ba7d0ce5-ae29-4a80-a4bf-6ff2834e33c9" name="Mellon">
+      <card id="ba7d0ce5-ae29-4a80-a4bf-6ff2834e33c9" name="Mellon!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="4"/>
@@ -540,7 +540,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="073c69ee-b499-4e0d-bb69-df89246ae592" name="Not This Time">
+      <card id="073c69ee-b499-4e0d-bb69-df89246ae592" name="Not This Time!">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Gollum"/>
          <property name="Twilight" value="2"/>
@@ -642,7 +642,8 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="678de44a-607f-4928-a1e6-606553cf5303" name="Aragorn">
+      <card id="678de44a-607f-4928-a1e6-606553cf5303" name="Aragorn's Bow">
+         <property name="Subname" value="Ranger's Longbow"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -651,7 +652,6 @@
          <property name="Text">Bearer must be Aragorn. He is an archer. Archery: Add a threat to wound a minionstrength.</property>
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Ranger's Longbow"/>
       </card>
       <card id="80cee70d-8cd1-4862-b917-a203de4c6813" name="Damrod">
          <property name="Subname" value="Dunadan of Gondor"/>
@@ -692,7 +692,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="989c20ce-eb5d-4386-941c-3a9690a87d6a" name="Forth the Three Hunters">
+      <card id="989c20ce-eb5d-4386-941c-3a9690a87d6a" name="Forth the Three Hunters!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="2"/>
@@ -702,7 +702,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="cce82990-eb47-45d2-8d49-6bc50e8d6d01" name="Forth the Three Hunters">
+      <card id="cce82990-eb47-45d2-8d49-6bc50e8d6d01" name="Forth the Three Hunters!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="2"/>
@@ -712,7 +712,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ac1937cb-53f2-4a46-8ff5-3fc733864ecd" name="Forth the Three Hunters">
+      <card id="ac1937cb-53f2-4a46-8ff5-3fc733864ecd" name="Forth the Three Hunters!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="2"/>
@@ -806,7 +806,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="95c5f838-162b-4bb5-8619-af2cde2dc1ef" name="Ranger">
+      <card id="95c5f838-162b-4bb5-8619-af2cde2dc1ef" name="Ranger's Cloak">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1490,7 +1490,8 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c3885dc7-4638-47e0-8dc7-40a75e15c75d" name="Eomer">
+      <card id="c3885dc7-4638-47e0-8dc7-40a75e15c75d" name="Eomer's Spear">
+         <property name="Subname" value="Trusty Weapon"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -1500,7 +1501,6 @@
          <property name="Text">Bearer must be a [Rohan] Man. If bearer is Eomer and he is unwounded, he is damage +1 and resistance +1. Skirmish: If bearer is Eomer, discard this possession to wound a minion he is skirmishing.</property>
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Trusty Weapon"/>
       </card>
       <card id="ae5557ff-3fcb-4b40-b659-328f4e69b430" name="Eowyn">
          <property name="Subname" value="Willing Fighter"/>
@@ -1597,7 +1597,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1a13073f-54f4-4f18-9e4e-1b1a2efed744" name="Rider">
+      <card id="1a13073f-54f4-4f18-9e4e-1b1a2efed744" name="Rider's Mount">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -1951,7 +1951,8 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c9261b90-f565-4f1f-b360-b171fc895628" name="Lurtz">
+      <card id="c9261b90-f565-4f1f-b360-b171fc895628" name="Lurtz's Sword">
+         <property name="Subname" value="Mighty Longsword"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Uruk-hai"/>
          <property name="Twilight" value="3"/>
@@ -1961,7 +1962,6 @@
          <property name="Text">Bearer must be an [Uruk-hai] Uruk-hai. Bearer gains hunter 1 (While skirmishing a non-hunter character, this character is strength +1.) If bearer is Lurtz, he is fierce.</property>
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Mighty Longsword"/>
       </card>
       <card id="64435498-1f34-42d2-935b-1d99474723dd" name="Mauhur">
          <property name="Subname" value="Relentless Hunter"/>
@@ -2079,7 +2079,8 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e89ff26f-c611-48ac-8854-778143ee68da" name="Ugluk">
+      <card id="e89ff26f-c611-48ac-8854-778143ee68da" name="Ugluk's Sword">
+         <property name="Subname" value="Weapon of Command"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Uruk-hai"/>
          <property name="Twilight" value="2"/>
@@ -2089,7 +2090,6 @@
          <property name="Text">Bearer must be an [Uruk-hai] Uruk-hai. While you control 2 or more sites, bearer can not take wounds (except during skirmish phases). If bearer is Ugluk, he is damage +1.</property>
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Weapon of Command"/>
       </card>
       <card id="1252cee2-b51b-46cd-b903-6bc909cb7d23" name="Uruk Cavern Striker">
          <property name="Kind" value="Shadow"/>

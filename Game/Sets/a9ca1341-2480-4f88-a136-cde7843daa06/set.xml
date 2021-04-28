@@ -2,7 +2,7 @@
 <set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="a9ca1341-2480-4f88-a136-cde7843daa06" name="The Fellowship of the Ring" version="1.0">
    <cards>
       <card id="fb551228-5f0d-48d5-b418-c4aa25e27b1b" name="The One Ring">
-         <property name="Subname" value="Isildur"/>
+         <property name="Subname" value="Isildur's Bane"/>
          <property name="Type" value="The One Ring"/>
          <property name="Rarity" value="R"/>
          <property name="Strength" value="+1"/>
@@ -13,7 +13,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="29e55ed4-ed20-42fb-9eaa-eb2b49f7bc7b" name="The One Ring">
-         <property name="Subname" value="Isildur"/>
+         <property name="Subname" value="Isildur's Bane"/>
          <property name="Type" value="The One Ring"/>
          <property name="Rarity" value="R"/>
          <property name="Strength" value="+1"/>
@@ -188,7 +188,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="31c8a2a5-da7a-47ca-a00c-a09e7054e578" name="Gimli">
+      <card id="31c8a2a5-da7a-47ca-a00c-a09e7054e578" name="Gimli's Battle Axe">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="2"/>
@@ -200,7 +200,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="adcb1b87-e442-422e-88e0-d008920155b5" name="Gimli">
+      <card id="adcb1b87-e442-422e-88e0-d008920155b5" name="Gimli's Battle Axe">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="2"/>
@@ -212,7 +212,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="04918e0b-de8e-4dd4-8d58-4aaf04d70de1" name="Gimli">
+      <card id="04918e0b-de8e-4dd4-8d58-4aaf04d70de1" name="Gimli's Helm">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="0"/>
@@ -272,7 +272,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1f2de4fa-9336-4467-9c37-81a7c83e3b2d" name="Let Them Come">
+      <card id="1f2de4fa-9336-4467-9c37-81a7c83e3b2d" name="Let Them Come!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="2"/>
@@ -479,7 +479,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c65417eb-b05f-4fb1-8134-950caafc2aea" name="Curse Their Foul Feet">
+      <card id="c65417eb-b05f-4fb1-8134-950caafc2aea" name="Curse Their Foul Feet!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="0"/>
@@ -930,7 +930,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6200d802-cf71-4163-b693-f366e9eb40d5" name="Durin">
+      <card id="6200d802-cf71-4163-b693-f366e9eb40d5" name="Durin's Secret">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="2"/>
@@ -973,7 +973,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ce3ff373-bf5f-47f4-8a35-5dc3658ae5b8" name="Gandalf">
+      <card id="ce3ff373-bf5f-47f4-8a35-5dc3658ae5b8" name="Gandalf's Cart">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="1"/>
@@ -984,7 +984,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="21aa9fad-7e72-43db-8207-1ea1affc470b" name="Gandalf">
+      <card id="21aa9fad-7e72-43db-8207-1ea1affc470b" name="Gandalf's Pipe">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="0"/>
@@ -1198,7 +1198,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f4f7d379-8156-42f6-953d-d6a6ec2b529f" name="Aragorn">
+      <card id="f4f7d379-8156-42f6-953d-d6a6ec2b529f" name="Aragorn's Bow">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1209,7 +1209,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="768e81b7-4baf-42e0-855f-56e17e6b8f40" name="Aragorn">
+      <card id="768e81b7-4baf-42e0-855f-56e17e6b8f40" name="Aragorn's Pipe">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1231,7 +1231,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8b1d3345-a063-4d14-94b1-ff82c5bdfe42" name="Arwen">
+      <card id="8b1d3345-a063-4d14-94b1-ff82c5bdfe42" name="Arwen's Fate">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="0"/>
@@ -1313,7 +1313,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="dfb7e1ae-98d2-47eb-a151-0e0481bbab6b" name="Boromir">
+      <card id="dfb7e1ae-98d2-47eb-a151-0e0481bbab6b" name="Boromir's Cloak">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="0"/>
@@ -1368,7 +1368,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="063a144c-1e57-4122-8eed-a294c9886428" name="Elendil">
+      <card id="063a144c-1e57-4122-8eed-a294c9886428" name="Elendil's Valor">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="0"/>
@@ -1379,7 +1379,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9140d7db-5162-4b0a-a65c-2350f549e2ae" name="Eregion">
+      <card id="9140d7db-5162-4b0a-a65c-2350f549e2ae" name="Eregion's Trails">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1401,7 +1401,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c5b8fbd4-6a95-43e2-8162-cc256ab65bde" name="Gondor">
+      <card id="c5b8fbd4-6a95-43e2-8162-cc256ab65bde" name="Gondor's Vengeance">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="0"/>
@@ -1467,7 +1467,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="89a4546f-2ee6-4765-a7a2-5236618d24e0" name="Ranger">
+      <card id="89a4546f-2ee6-4765-a7a2-5236618d24e0" name="Ranger's Sword">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1479,7 +1479,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ffb3299e-9820-432d-a38d-ac12965d0c95" name="A Ranger">
+      <card id="ffb3299e-9820-432d-a38d-ac12965d0c95" name="A Ranger's Versatility">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1556,7 +1556,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c0307c47-f4b1-4e76-8e0a-244d50f2b62e" name="What Are They">
+      <card id="c0307c47-f4b1-4e76-8e0a-244d50f2b62e" name="What Are They?">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1633,7 +1633,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ef9e2f9f-c892-45ce-a186-69453bde7f59" name="Hunt Them Down">
+      <card id="ef9e2f9f-c892-45ce-a186-69453bde7f59" name="Hunt Them Down!">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="3"/>
@@ -1674,7 +1674,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d6985a39-ee8f-4d63-91ff-d739dcc2a444" name="Lurtz">
+      <card id="d6985a39-ee8f-4d63-91ff-d739dcc2a444" name="Lurtz's Battle Cry">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="1"/>
@@ -1685,7 +1685,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3d57ad36-1183-4433-9777-76985e35be7e" name="The Misadventure of Mr">
+      <card id="3d57ad36-1183-4433-9777-76985e35be7e" name="The Misadventure of Mr. Underhill">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="2"/>
@@ -1732,7 +1732,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="7346d792-4b0b-4481-8fe6-3ee35e7b1bf1" name="Saruman">
+      <card id="7346d792-4b0b-4481-8fe6-3ee35e7b1bf1" name="Saruman's Ambition">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="0"/>
@@ -1743,7 +1743,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f772fee6-3a45-42dd-8540-e244a1c20c4a" name="Saruman">
+      <card id="f772fee6-3a45-42dd-8540-e244a1c20c4a" name="Saruman's Chill">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="1"/>
@@ -1754,7 +1754,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c0af99ce-fb13-4b22-9191-4ebca2316a97" name="Saruman">
+      <card id="c0af99ce-fb13-4b22-9191-4ebca2316a97" name="Saruman's Frost">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="2"/>
@@ -1765,7 +1765,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="035fa1f7-323e-482b-bab7-4b93ad278e50" name="Saruman">
+      <card id="035fa1f7-323e-482b-bab7-4b93ad278e50" name="Saruman's Power">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="2"/>
@@ -1776,7 +1776,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3ee5fe4a-71b0-4bc3-9fc6-48fb00da450b" name="Saruman">
+      <card id="3ee5fe4a-71b0-4bc3-9fc6-48fb00da450b" name="Saruman's Reach">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="0"/>
@@ -1787,7 +1787,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d62ddd1d-0d45-434a-9694-00984b26cd70" name="Saruman">
+      <card id="d62ddd1d-0d45-434a-9694-00984b26cd70" name="Saruman's Snows">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="2"/>
@@ -1831,7 +1831,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0f02c8f6-25e0-41c4-a66a-18f4176217dc" name="Traitor">
+      <card id="0f02c8f6-25e0-41c4-a66a-18f4176217dc" name="Traitor's Voice">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="2"/>
@@ -2160,7 +2160,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="43882475-b2d0-49f7-9d3b-2c3f32cdf311" name="Cave Troll">
+      <card id="43882475-b2d0-49f7-9d3b-2c3f32cdf311" name="Cave Troll's Hammer">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Moria"/>
          <property name="Twilight" value="1"/>
@@ -2205,7 +2205,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="296715fe-a02f-4e15-9507-4e60a8c428db" name="Fool of a Took">
+      <card id="296715fe-a02f-4e15-9507-4e60a8c428db" name="Fool of a Took!">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Moria"/>
          <property name="Twilight" value="0"/>
@@ -2558,7 +2558,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="af0b0894-fa20-4233-b976-44505f44e3a5" name="Troll">
+      <card id="af0b0894-fa20-4233-b976-44505f44e3a5" name="Troll's Keyward">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Moria"/>
          <property name="Twilight" value="3"/>
@@ -2594,7 +2594,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1832c182-37d8-4fa8-9ac1-9ef9e2bf6102" name="What Is This New Devilry">
+      <card id="1832c182-37d8-4fa8-9ac1-9ef9e2bf6102" name="What Is This New Devilry?">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Moria"/>
          <property name="Twilight" value="2"/>
@@ -2726,7 +2726,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="13c2c3ec-3cd0-456d-a77b-25d27bccf0b8" name="In the Ringwraith">
+      <card id="13c2c3ec-3cd0-456d-a77b-25d27bccf0b8" name="In the Ringwraith's Wake">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Wraith"/>
          <property name="Twilight" value="0"/>
@@ -2737,7 +2737,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1c457c78-9d1d-4d8b-ae05-b09b675f1a41" name="The Master">
+      <card id="1c457c78-9d1d-4d8b-ae05-b09b675f1a41" name="The Master's Will">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Wraith"/>
          <property name="Twilight" value="1"/>
@@ -3105,7 +3105,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3cd4ad43-d7ef-418f-8da1-5f17a843dce4" name="The Dark Lord">
+      <card id="3cd4ad43-d7ef-418f-8da1-5f17a843dce4" name="The Dark Lord's Summons">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="1"/>
@@ -3248,7 +3248,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="77491ca7-adbb-469b-a9eb-749dbda8422d" name="Mordor">
+      <card id="77491ca7-adbb-469b-a9eb-749dbda8422d" name="Mordor's Strength">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="1"/>
@@ -3496,7 +3496,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="84eeb569-5e0c-46df-92ad-6e9c74449eb3" name="The Ring">
+      <card id="84eeb569-5e0c-46df-92ad-6e9c74449eb3" name="The Ring's Oppression">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="3"/>
@@ -3507,7 +3507,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="08cfe0c6-e352-4dd4-8106-5aec221fae17" name="Sauron">
+      <card id="08cfe0c6-e352-4dd4-8106-5aec221fae17" name="Sauron's Defenses">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="1"/>
@@ -3540,7 +3540,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8cfc4802-c13c-4ccd-a54c-2c24d3ba4aa1" name="Shadow">
+      <card id="8cfc4802-c13c-4ccd-a54c-2c24d3ba4aa1" name="Shadow's Reach">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="1"/>
@@ -3636,7 +3636,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="09a6ffc5-7e86-4da9-8cfe-4089b3cad12a" name="Bilbo">
+      <card id="09a6ffc5-7e86-4da9-8cfe-4089b3cad12a" name="Bilbo's Pipe">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="1"/>
@@ -3688,7 +3688,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="b9ab0464-b294-42e0-b757-cbf4a650b912" name="Frodo">
-         <property name="Subname" value="Old Bilbo"/>
+         <property name="Subname" value="Old Bilbo's Heir"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="0"/>
@@ -3720,7 +3720,7 @@
          <property name="Ring-Bearer" value="True"/>
       </card>
       <card id="11029e53-99aa-446e-952b-0236a2d92ebb" name="The Gaffer">
-         <property name="Subname" value="Sam"/>
+         <property name="Subname" value="Sam's Father"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="1"/>
@@ -3734,7 +3734,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="173226f7-83bd-4360-aa88-26c4ab83e97a" name="The Gaffer">
+      <card id="173226f7-83bd-4360-aa88-26c4ab83e97a" name="The Gaffer's Pipe">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="1"/>
@@ -3872,7 +3872,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="7db47c69-4bd1-45e4-b485-88490fb32734" name="Merry">
-         <property name="Subname" value="From O"/>
+         <property name="Subname" value="From O'er the Brandywine"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="1"/>
@@ -4066,7 +4066,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f92903c7-973b-4866-9a58-1b3283e06670" name="Thror">
+      <card id="f92903c7-973b-4866-9a58-1b3283e06670" name="Thror's Map">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="0"/>
@@ -4095,7 +4095,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="03fe11a0-1610-487a-bfb3-1e403b1c4902" name="Farmer Maggot">
+      <card id="03fe11a0-1610-487a-bfb3-1e403b1c4902" name="Farmer Maggot's Fields">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1"/>
@@ -4269,7 +4269,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d0b4001d-c237-4500-9acc-964117ab18bc" name="Frodo">
+      <card id="d0b4001d-c237-4500-9acc-964117ab18bc" name="Frodo's Bedroom">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4309,7 +4309,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0be87e46-cb61-423a-9869-c51fced41467" name="Balin">
+      <card id="0be87e46-cb61-423a-9869-c51fced41467" name="Balin's Tomb">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4389,7 +4389,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="46ef2f1d-5674-4424-8b29-ce0d1137f1df" name="Galadriel">
+      <card id="46ef2f1d-5674-4424-8b29-ce0d1137f1df" name="Galadriel's Glade">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>

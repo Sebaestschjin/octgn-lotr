@@ -33,7 +33,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="a187bdfe-75f8-417f-8b0a-43cf18b2a174" name="That">
+      <card id="a187bdfe-75f8-417f-8b0a-43cf18b2a174" name="That's Two!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="2"/>
@@ -329,7 +329,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c1b4b721-efda-416e-b504-6e592ba130b3" name="Sauron">
+      <card id="c1b4b721-efda-416e-b504-6e592ba130b3" name="Sauron's Might">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="0"/>
@@ -408,7 +408,7 @@
       <card id="758e8bf0-6f9d-4abe-bded-8b6684a53f44" name="Lurtz">
          <property name="Subname" value="Resilient Captain"/>
          <property name="Kind" value="Shadow"/>
-         <property name="Culture" value="Uruk-hai"/>
+         <property name="Culture" value="Uruk-Hai"/>
          <property name="Twilight" value="7"/>
          <property name="Type" value="Minion • Uruk-Hai"/>
          <property name="Rarity" value="P"/>

@@ -379,7 +379,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ec6d7d9a-a0da-418a-90cf-ff2a1eb8a119" name="Elessar">
+      <card id="ec6d7d9a-a0da-418a-90cf-ff2a1eb8a119" name="Elessar's Edict">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -485,7 +485,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c4120638-194b-4686-889b-518ef11330ef" name="Knight">
+      <card id="c4120638-194b-4686-889b-518ef11330ef" name="Knight's Mount">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1076,7 +1076,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="879b69eb-aff8-411b-93d3-7aba0baa1df7" name="Eowyn">
+      <card id="879b69eb-aff8-411b-93d3-7aba0baa1df7" name="Eowyn's Shield">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>

@@ -471,7 +471,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="baca7738-2991-477e-a300-d83d9a3b908d" name="Don">
+      <card id="baca7738-2991-477e-a300-d83d9a3b908d" name="Don't Follow the Lights">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gollum"/>
          <property name="Twilight" value="0"/>
@@ -482,7 +482,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3b8cdf4e-7f8d-4729-be19-4a779ccdf15d" name="Don">
+      <card id="3b8cdf4e-7f8d-4729-be19-4a779ccdf15d" name="Don't Look at Them">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gollum"/>
          <property name="Twilight" value="1"/>
@@ -580,7 +580,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="eee7ceed-aa82-4746-958d-af01a9a3e103" name="You">
+      <card id="eee7ceed-aa82-4746-958d-af01a9a3e103" name="You're a Liar and a Thief">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Gollum"/>
          <property name="Twilight" value="0"/>
@@ -772,8 +772,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3f7b5c5a-75a1-4820-a5f5-7c3b9f5c6fd6" name="Gnawing">
-         <property name="Subname" value="Biting"/>
+      <card id="3f7b5c5a-75a1-4820-a5f5-7c3b9f5c6fd6" name="Gnawing, Biting, Hacking, Burning!">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="2"/>
@@ -958,7 +957,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3358a6bf-c880-48ce-8e8f-d16301efb018" name="Durin">
+      <card id="3358a6bf-c880-48ce-8e8f-d16301efb018" name="Durin's Tower">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Moria"/>
          <property name="Twilight" value="0"/>
@@ -1360,7 +1359,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9ceac46a-28e0-4ad7-b94d-e3ccc4806952" name="Troll">
+      <card id="9ceac46a-28e0-4ad7-b94d-e3ccc4806952" name="Troll's Chain">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Sauron"/>
          <property name="Twilight" value="1"/>
@@ -1508,7 +1507,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5c2a3fc7-5776-4d75-af12-8118f41178ae" name="Saruman">
+      <card id="5c2a3fc7-5776-4d75-af12-8118f41178ae" name="Saruman's Laboratory">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1574,7 +1573,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f03bcb2f-1ce3-4082-a3dd-d559e5977f29" name="Don">
+      <card id="f03bcb2f-1ce3-4082-a3dd-d559e5977f29" name="Don't Look at Them">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gollum"/>
          <property name="Twilight" value="1"/>

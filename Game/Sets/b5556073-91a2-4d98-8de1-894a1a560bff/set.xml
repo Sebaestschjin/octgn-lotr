@@ -324,7 +324,8 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="True"/>
       </card>
-      <card id="6d96db49-bb1c-4493-a2df-584780a03f78" name="Faramir">
+      <card id="6d96db49-bb1c-4493-a2df-584780a03f78" name="Faramir's Bow">
+         <property name="Subname" value="Ithilien Longbow"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -333,7 +334,6 @@
          <property name="Text">Bearer must be a [Gondor] ranger. If bearer is Faramir, he is an archer. The site number of each minion skirmishing a [Gondor] ranger is +1. Skirmish: Exert bearer twice to exhaust a minion Faramir is skirmishing.</property>
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Ithilien Longbow"/>
       </card>
       <card id="59a54ff3-ebbd-48a5-8996-5c71ba56ecbe" name="Madril">
          <property name="Subname" value="Loyal Lieutenant"/>
@@ -394,7 +394,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="23a393c1-be22-437a-8b9e-b614850bb7d7" name="Soldier">
+      <card id="23a393c1-be22-437a-8b9e-b614850bb7d7" name="Soldier's Cache">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="2"/>
@@ -498,7 +498,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="4f48cdbc-523d-4605-b721-a653aab9e032" name="Grima">
+      <card id="4f48cdbc-523d-4605-b721-a653aab9e032" name="Grima's Dagger">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Men"/>
          <property name="Twilight" value="1"/>
@@ -509,7 +509,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b6cf7c7d-1725-4d7c-9d3b-7a2e0b70aaa3" name="In the Wild Men">
+      <card id="b6cf7c7d-1725-4d7c-9d3b-7a2e0b70aaa3" name="In the Wild Men's Wake">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Men"/>
          <property name="Twilight" value="1"/>
@@ -775,7 +775,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="bc70a3be-0814-4010-9d2a-52400e3fe1e1" name="Wildman">
+      <card id="bc70a3be-0814-4010-9d2a-52400e3fe1e1" name="Wildman's Oath">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Men"/>
          <property name="Twilight" value="2"/>
@@ -1072,7 +1072,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="25801f5e-353f-4979-be2c-38ba68ca3273" name="Rider">
+      <card id="25801f5e-353f-4979-be2c-38ba68ca3273" name="Rider's Gear">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Orc"/>
          <property name="Twilight" value="1"/>
@@ -1217,7 +1217,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="a9b1e7d9-27a3-4788-a283-123d7e6d708d" name="Theoden">
-         <property name="Subname" value="Northman"/>
+         <property name="Subname" value="Northman, King of Rohan"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="3"/>
@@ -1938,7 +1938,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="fcfe814a-379d-4ec6-bd29-ea187c287f39" name="Theoden">
-         <property name="Subname" value="Northman"/>
+         <property name="Subname" value="Northman, King of Rohan"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="3"/>
@@ -2058,7 +2058,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="e9a0ea9b-f17d-4b62-850d-87c1269d06c8" name="Theoden">
-         <property name="Subname" value="Northman"/>
+         <property name="Subname" value="Northman, King of Rohan"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="3"/>

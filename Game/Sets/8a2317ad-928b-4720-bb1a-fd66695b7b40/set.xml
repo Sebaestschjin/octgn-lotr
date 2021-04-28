@@ -97,7 +97,8 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0d64fed7-1d8b-447d-bcb2-1dc36e162ee1" name="Gimli">
+      <card id="0d64fed7-1d8b-447d-bcb2-1dc36e162ee1" name="Gimli's Battle Axe">
+         <property name="Subname" value="Vicious Weapon"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="2"/>
@@ -107,7 +108,6 @@
          <property name="Text">Bearer must be a Dwarf. Bearer gains muster. (At the start of the regroup phase, you may discard a card from hand to draw a card.) Skirmish: If bearer is Gimli and he is at a battleground site, exert him to wound a minion he is skirmishing.</property>
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Vicious Weapon"/>
       </card>
       <card id="afbe9f86-4ebc-496e-9bc1-f40c20d26bbe" name="Grimir">
          <property name="Subname" value="Dwarven Emissary"/>
@@ -221,7 +221,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="a0cc0781-394f-4d8b-a96c-a011c75808d0" name="The Lady">
+      <card id="a0cc0781-394f-4d8b-a96c-a011c75808d0" name="The Lady's Blessing">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="1"/>
@@ -259,7 +259,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d74cdb8c-13f2-47ba-8785-f2237abafefa" name="Legolas">
+      <card id="d74cdb8c-13f2-47ba-8785-f2237abafefa" name="Legolas' Bow">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Elven"/>
          <property name="Twilight" value="2"/>
@@ -394,7 +394,8 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b04031f2-9179-4f5d-8644-f1bf87fbbbdd" name="Gandalf">
+      <card id="b04031f2-9179-4f5d-8644-f1bf87fbbbdd" name="Gandalf's Staff">
+         <property name="Subname" value="Ash-Staff"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="2"/>
@@ -404,7 +405,6 @@
          <property name="Text">Bearer must be a Wizard. If bearer is Gandalf, he gains muster. (At the start of the regroup phase, you may discard a card from hand to draw a card.) Each time bearer wins a skirmish, choose a Shadow player who must wound a minion.</property>
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Ash-Staff"/>
       </card>
       <card id="b527a773-b584-429f-9c33-cbf7bc4ccfa3" name="Glamdring">
          <property name="Subname" value="Foe-hammer"/>
@@ -1842,7 +1842,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="712763e5-76f5-4a2b-ad37-55185d888333" name="Rider">
+      <card id="712763e5-76f5-4a2b-ad37-55185d888333" name="Rider's Spear">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -2898,7 +2898,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="35366a0e-1e16-4c89-9056-1d4995560c6b" name="Helm">
+      <card id="35366a0e-1e16-4c89-9056-1d4995560c6b" name="Helm's Gate">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2934,7 +2934,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="dc086df0-c2e7-485d-a83e-7f308cea75a2" name="Neekerbreekers">
+      <card id="dc086df0-c2e7-485d-a83e-7f308cea75a2" name="Neekerbreekers' Bog">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>

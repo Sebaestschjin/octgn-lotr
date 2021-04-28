@@ -1165,7 +1165,8 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f726e8aa-8c9d-4135-bd59-31d8030d45b8" name="Gandalf">
+      <card id="f726e8aa-8c9d-4135-bd59-31d8030d45b8" name="Gandalf's Staff">
+         <property name="Subname" value="Walking Stick"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="2"/>
@@ -1176,7 +1177,6 @@
          <property name="Lore">”'The staff in the hand of a Wizard may be more than a prop for age….'”</property>
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Walking Stick"/>
       </card>
       <card id="780c71b4-03c2-43b3-8e83-2bcd060a78ce" name="Grown Suddenly Tall">
          <property name="Kind" value="Free People"/>
@@ -1246,8 +1246,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="30a799d4-c51f-4f2f-b286-6429d596071f" name="Mithrandir">
-         <property name="Subname" value="Mithrandir"/>
+      <card id="30a799d4-c51f-4f2f-b286-6429d596071f" name="Mithrandir, Mithrandir!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="3"/>
@@ -1443,7 +1442,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="06e60ef9-de59-4e05-8d6b-1603ce30fb1a" name="Boromir">
+      <card id="06e60ef9-de59-4e05-8d6b-1603ce30fb1a" name="Boromir's Gauntlets">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1523,7 +1522,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2908820b-dee6-410f-8312-e05c72a96816" name="Faramir">
+      <card id="2908820b-dee6-410f-8312-e05c72a96816" name="Faramir's Bow">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1534,7 +1533,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2be11e58-d1b6-4465-8c4e-a725b7e28423" name="Faramir">
+      <card id="2be11e58-d1b6-4465-8c4e-a725b7e28423" name="Faramir's Cloak">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="0"/>
@@ -1676,7 +1675,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="539ed76d-dd26-46b2-b5d1-d225255decd4" name="Ranger">
+      <card id="539ed76d-dd26-46b2-b5d1-d225255decd4" name="Ranger's Bow">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1687,7 +1686,8 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c16ec7ae-df29-4c76-acd5-a09ef62ba483" name="Ranger">
+      <card id="c16ec7ae-df29-4c76-acd5-a09ef62ba483" name="Ranger's Sword">
+         <property name="Subname" value="Blade of Aragorn"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="1"/>
@@ -1698,7 +1698,6 @@
          <property name="Lore">”'I am not weaponless.'”</property>
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Blade of Aragorn"/>
       </card>
       <card id="f7aa469b-b929-4d35-9fe1-ede5f1aa3578" name="Ruins of Osgiliath">
          <property name="Kind" value="Free People"/>
@@ -1748,7 +1747,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c33103b1-0015-458f-87fc-55f5afb4e12f" name="Attack on Helm">
+      <card id="c33103b1-0015-458f-87fc-55f5afb4e12f" name="Attack on Helm's Deep">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="0"/>
@@ -2220,7 +2219,8 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="602f14db-700d-4ce0-9006-b524779a6414" name="Saruman">
+      <card id="602f14db-700d-4ce0-9006-b524779a6414" name="Saruman's Staff">
+         <property name="Subname" value="Wizard's Device"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="2"/>
@@ -2231,7 +2231,6 @@
          <property name="Lore">“His hand clutched his heavy black staff like a claw.”</property>
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Wizard's Device"/>
       </card>
       <card id="06b315dd-a6f4-470e-9801-ef9aa82f23d0" name="Still They Came">
          <property name="Kind" value="Shadow"/>
@@ -2274,7 +2273,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8ba1be01-1520-4340-95b3-6ef81d2233b5" name="Ugluk">
+      <card id="8ba1be01-1520-4340-95b3-6ef81d2233b5" name="Ugluk's Sword">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="1"/>
@@ -2286,7 +2285,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="c05ad1e7-2905-4983-80d4-a64aaa7989a0" name="Unferth">
-         <property name="Subname" value="Grima"/>
+         <property name="Subname" value="Grima's Bodyguard"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="2"/>
@@ -2757,7 +2756,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="4d783c7f-02d2-4bb4-ad15-d02cb0b50ad7" name="What Did You Discover">
+      <card id="4d783c7f-02d2-4bb4-ad15-d02cb0b50ad7" name="What Did You Discover?">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="1"/>
@@ -2768,7 +2767,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3d976764-c5b8-43e7-8549-247c6224e498" name="Where Has Grima Stowed It">
+      <card id="3d976764-c5b8-43e7-8549-247c6224e498" name="Where Has Grima Stowed It?">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Isengard"/>
          <property name="Twilight" value="2"/>
@@ -3486,7 +3485,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="058b2500-a327-4c3c-9692-b29a18cc2967" name="Eomer">
+      <card id="058b2500-a327-4c3c-9692-b29a18cc2967" name="Eomer's Spear">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -3545,7 +3544,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2cee5bb3-7b05-4823-bf91-10aac870e845" name="Eowyn">
+      <card id="2cee5bb3-7b05-4823-bf91-10aac870e845" name="Eowyn's Sword">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -3579,7 +3578,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="652b29fb-7807-4a0b-86a2-5763e9172084" name="Forth Eorlingas">
+      <card id="652b29fb-7807-4a0b-86a2-5763e9172084" name="Forth Eorlingas!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -3627,7 +3626,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0ca70842-d091-4299-a04f-678160e4fdce" name="Helm">
+      <card id="0ca70842-d091-4299-a04f-678160e4fdce" name="Helm! Helm!">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="2"/>
@@ -3688,7 +3687,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b04e0ddd-2ed0-4e3c-9007-2b1df55a515f" name="King">
+      <card id="b04e0ddd-2ed0-4e3c-9007-2b1df55a515f" name="King's Mail">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="2"/>
@@ -3728,7 +3727,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="7b9d9c30-1a30-493d-a9ed-7833fb2e1509" name="Rider">
+      <card id="7b9d9c30-1a30-493d-a9ed-7833fb2e1509" name="Rider's Mount">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -3739,7 +3738,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8103830f-b42c-495d-9357-d520bb81a439" name="Rider">
+      <card id="8103830f-b42c-495d-9357-d520bb81a439" name="Rider's Spear">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Rohan"/>
          <property name="Twilight" value="1"/>
@@ -3953,7 +3952,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="True"/>
       </card>
-      <card id="b159f87f-f8c0-4e4f-a50f-73a38f406cb1" name="Frodo">
+      <card id="b159f87f-f8c0-4e4f-a50f-73a38f406cb1" name="Frodo's Cloak">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="2"/>
@@ -4107,7 +4106,7 @@
          <property name="Ring-Bearer" value="False"/>
       </card>
       <card id="b6985bb0-f75e-4e85-96cc-5081a023eb4c" name="Sam">
-         <property name="Subname" value="Frodo"/>
+         <property name="Subname" value="Frodo's Gardener"/>
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="2"/>
@@ -4138,7 +4137,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="38cc4d0b-9d6c-4c3e-8c08-3d514670da05" name="Sam">
+      <card id="38cc4d0b-9d6c-4c3e-8c08-3d514670da05" name="Sam's Pack">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Shire"/>
          <property name="Twilight" value="0"/>
@@ -4457,7 +4456,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9c7ae4a4-b1ad-4c2c-b621-b157ffeb5eb1" name="Helm">
+      <card id="9c7ae4a4-b1ad-4c2c-b621-b157ffeb5eb1" name="Helm's Gate">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4537,7 +4536,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b24fe6b5-5103-4c47-97cc-960349176cec" name="King">
+      <card id="b24fe6b5-5103-4c47-97cc-960349176cec" name="King's Room">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4557,7 +4556,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b3673630-3ca2-44c3-939b-ca1fcb6bfee7" name="Wizard">
+      <card id="b3673630-3ca2-44c3-939b-ca1fcb6bfee7" name="Wizard's Vale">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

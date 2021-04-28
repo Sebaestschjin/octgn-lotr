@@ -75,7 +75,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="bb12b2bf-c277-4af9-a713-6e17ce2c6beb" name="His Father">
+      <card id="bb12b2bf-c277-4af9-a713-6e17ce2c6beb" name="His Father's Charge">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Dwarven"/>
          <property name="Twilight" value="1"/>
@@ -312,7 +312,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="58275d98-5d54-44bb-bdd7-4ffb2d715e73" name="Gandalf">
+      <card id="58275d98-5d54-44bb-bdd7-4ffb2d715e73" name="Gandalf's Hat">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gandalf"/>
          <property name="Twilight" value="0"/>
@@ -446,7 +446,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="4fde616a-6555-4f23-b0be-85808f90212a" name="There">
+      <card id="4fde616a-6555-4f23-b0be-85808f90212a" name="There's Another Way">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gollum"/>
          <property name="Twilight" value="0"/>
@@ -513,7 +513,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1068cc4c-f1ec-47c8-8e45-72a3eb85fb3e" name="Elendil">
+      <card id="1068cc4c-f1ec-47c8-8e45-72a3eb85fb3e" name="Elendil's Valor">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="0"/>
@@ -537,7 +537,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6778e7a0-d73d-43c6-90ca-36fe347d83e4" name="Faramir">
+      <card id="6778e7a0-d73d-43c6-90ca-36fe347d83e4" name="Faramir's Sword">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="2"/>
@@ -836,7 +836,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b4c0f826-2fa5-4b46-b37c-d330ca41ff23" name="Messenger">
+      <card id="b4c0f826-2fa5-4b46-b37c-d330ca41ff23" name="Messenger's Mount">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Men"/>
          <property name="Twilight" value="2"/>
@@ -1026,7 +1026,8 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="deebc47f-a684-403e-a1db-8d4fbe566129" name="Cave Troll">
+      <card id="deebc47f-a684-403e-a1db-8d4fbe566129" name="Cave Troll's Hammer">
+         <property name="Subname" value="Unwieldy Cudgel"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Orc"/>
          <property name="Twilight" value="2"/>
@@ -1036,7 +1037,6 @@
          <property name="Text">Bearer must be an [Orc] Troll. When you play this possession, the Free Peoples player must exert a companion for each lurker you spot.</property>
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Unwieldy Cudgel"/>
       </card>
       <card id="db7b62ac-517e-41d1-ac32-2e0a8a2cbba5" name="Goblin Aggressor">
          <property name="Kind" value="Shadow"/>
@@ -1258,7 +1258,8 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f3cbf390-caa8-46d4-9b14-3cb29f86da6f" name="Troll">
+      <card id="f3cbf390-caa8-46d4-9b14-3cb29f86da6f" name="Troll's Keyward">
+         <property name="Subname" value="Keeper of the Beast"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Orc"/>
          <property name="Twilight" value="3"/>
@@ -1270,7 +1271,6 @@
          <property name="Text">Lurker. (Skirmishes involving lurker minions must be resolved after any others.) Shadow: Exert Troll's Keyward and reveal your hand to add (1) for each [Orc] Troll revealed.</property>
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Keeper of the Beast"/>
       </card>
       <card id="2722bb71-9001-46d9-96f6-a21cb9edb550" name="Vile Goblin">
          <property name="Kind" value="Shadow"/>
@@ -1962,7 +1962,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1149e3da-0bb7-47ac-b58e-f79625398126" name="In the Ringwraith">
+      <card id="1149e3da-0bb7-47ac-b58e-f79625398126" name="In the Ringwraith's Wake">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Wraith"/>
          <property name="Twilight" value="0"/>
@@ -2003,7 +2003,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5055c7d6-c14c-4c81-946b-accd2d43def4" name="Sauron">
+      <card id="5055c7d6-c14c-4c81-946b-accd2d43def4" name="Sauron's Gaze">
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Wraith"/>
          <property name="Twilight" value="1"/>
@@ -2205,7 +2205,8 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b2b3acb9-c2e2-4d19-8304-86d75990e807" name="The Witch-king">
+      <card id="b2b3acb9-c2e2-4d19-8304-86d75990e807" name="The Witch-king's Beast">
+         <property name="Subname" value="Fell Creature"/>
          <property name="Kind" value="Shadow"/>
          <property name="Culture" value="Wraith"/>
          <property name="Twilight" value="2"/>
@@ -2215,7 +2216,6 @@
          <property name="Text">Bearer must be a Nazgul. If bearer is The Witch-king, after all skirmishes and fierce skirmishes have been resolved, you may exert him twice to make him participate in one additional assignment and skirmish phase.</property>
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
-         <property name="Subname" value="Fell Creature"/>
       </card>
       <card id="d1858c89-95e8-472f-9578-a7f4845f886e" name="The Angle">
          <property name="Twilight" value="0"/>
@@ -2360,7 +2360,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6da51c1e-f0f7-43de-a8ed-57b243bcc908" name="Faramir">
+      <card id="6da51c1e-f0f7-43de-a8ed-57b243bcc908" name="Faramir's Sword">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="2"/>
@@ -2575,7 +2575,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="bd1fb745-ce83-4a60-903f-d6ff9a4ffdd6" name="Faramir">
+      <card id="bd1fb745-ce83-4a60-903f-d6ff9a4ffdd6" name="Faramir's Sword">
          <property name="Kind" value="Free People"/>
          <property name="Culture" value="Gondor"/>
          <property name="Twilight" value="2"/>
