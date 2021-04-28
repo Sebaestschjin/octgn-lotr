@@ -1,2 +1,1510 @@
-<?xml version="1.0" encoding="utf-8"?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="34593335-4142-4f22-b957-c71752e59450" name="Realms of the Elf-lords" version="1.0"><cards><card id="77a5efff-abcb-48a8-b6ff-39fe8635ac70" name="Book of Mazarbul"><property name="Kind" value="Free People"/><property name="Culture" value="Dwarven"/><property name="Twilight" value="2"/><property name="Type" value="Possession"/><property name="Rarity" value="R"/><property name="Text">Tale. Bearer must be a Dwarf. At the start of each fellowship phase when the fellowship is at site 4 or higher, you may draw a card for each Dwarf companion.</property><property name="Lore">”'It seems to be a record of the fortunes of Balin's folk….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="1471cfef-708c-4873-bde9-0a8d1a316831" name="Gimli"><property name="Kind" value="Free People"/><property name="Culture" value="Dwarven"/><property name="Twilight" value="1"/><property name="Type" value="Possession • Pipe"/><property name="Rarity" value="U"/><property name="Text">Bearer must be Gimli. Fellowship: Exert Gimli to add 1 to the number of pipes you can spot.</property><property name="Lore">”'And certainly it was from Bree that the art of smoking the genuine weed spread in the recent centuries among Dwarves and such other folk….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="a774ba0f-afa6-438a-9bd6-ecc5f16d0871" name="Mines of Khazad-Dum"><property name="Kind" value="Free People"/><property name="Culture" value="Dwarven"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">Plays to your support area. Each time you play a [Dwarven] tale, you may heal a Dwarf companion.</property><property name="Lore">”'Moria! Moria! Wonder of the Northern world!'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="76eafc74-1dbd-4ed4-aa8b-135bce50c4a8" name="A Royal Welcome"><property name="Kind" value="Free People"/><property name="Culture" value="Dwarven"/><property name="Twilight" value="2"/><property name="Type" value="Condition"/><property name="Rarity" value="U"/><property name="Text">Plays to your support area. Regroup: Exert a Dwarf ally to heal a Dwarf companion.</property><property name="Lore">”'There is even a chance that Dwarves are there, and that in some deep hall of his fathers, Balin son of Fundin may be found.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="1d5964f4-b842-4e47-8628-5381618d106a" name="Song of Durin"><property name="Kind" value="Free People"/><property name="Culture" value="Dwarven"/><property name="Twilight" value="0"/><property name="Type" value="Condition"/><property name="Rarity" value="U"/><property name="Text">Tale. To play, exert a Dwarf. Plays to your support area. The twilight cost of each [Moria] weapon is +2. Fellowship: Discard this condition to discard up to 2 [Moria] conditions.</property><property name="Lore">“No harp is wrung, no hammer falls: / The darkness dwells in Durin's halls….”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="f9bbe3d6-9700-494a-938b-3f2dba1dc4e3" name="Storm of Argument"><property name="Kind" value="Free People"/><property name="Culture" value="Dwarven"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Fellowship: Reveal a card at random from an opponent's hand. Shuffle up to X [Dwarven] cards from your discard pile into your draw deck, where X is the twilight cost of the card revealed.</property><property name="Lore">”'I will be dead before I see the Ring in the hands of an Elf!'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="2f643135-7e91-4fa7-98bb-c6459548d5af" name="Arwen"><property name="Subname" value="Elven Rider"/><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="2"/><property name="Type" value="Companion • Elf"/><property name="Rarity" value="U"/><property name="Strength" value="6"/><property name="Vitality" value="3"/><property name="Resistance" value="6"/><property name="Signet" value="Frodo"/><property name="Text">Ranger. Response: If the Ring-bearer is about to take a wound, discard 3 cards from hand to prevent that wound.</property><property name="Lore">”'If I can cross the river, the power of my people will protect him.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="18994970-4f3c-4ed2-a506-faea47656ea3" name="Arwen"><property name="Subname" value="Lady Undomiel"/><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="2"/><property name="Type" value="Companion • Elf"/><property name="Rarity" value="R"/><property name="Strength" value="6"/><property name="Vitality" value="3"/><property name="Resistance" value="6"/><property name="Signet" value="Gandalf"/><property name="Text">While you can spot 3 [Elven] allies whose home is site 3, each minion skirmishing Arwen is strength -3.</property><property name="Lore">“Queenly she looked, and thought and knowledge were in her glance, as of one who has known many things that the years bring.”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="29565608-2b53-49c9-b367-bb8371d808ea" name="Beren and Luthien"><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="U"/><property name="Text">Tale. Plays to your support area. Skirmish: Exert an [Elven] ally to discard the bottom card of your draw deck. If that card is an [Elven] card, make a minion skirmishing an Elf strength -1.</property><property name="Lore">””</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="b20431d9-8754-4027-aadd-bd18b02816fc" name="Calaglin"><property name="Subname" value="Elf of Lorien"/><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="2"/><property name="Type" value="Ally • Home 6 • Elf"/><property name="Rarity" value="U"/><property name="Site" value="6"/><property name="Strength" value="3"/><property name="Vitality" value="3"/><property name="Text">Archer. Regroup: Exert Calaglin to wound a minion.</property><property name="Lore">”'We have been keeping watch on the rivers, ever since we saw a great troop of Orcs going north toward Moria….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="68f23354-e7ed-42d1-b306-8869e652dff8" name="Cast It Into the Fire"><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Maneuver: Spot an Elf to make each opponent discard a card from his or her hand. Draw a card for each card discarded in this way.</property><property name="Lore">”'It should have been cast then into Orodruin's fire nigh at hand where it was made.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="5454d0bb-b638-401b-bafc-afa31e0c9acf" name="Dinendal"><property name="Subname" value="Silent Scout"/><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="2"/><property name="Type" value="Ally • Home 6 • Elf"/><property name="Rarity" value="U"/><property name="Site" value="6"/><property name="Strength" value="3"/><property name="Vitality" value="3"/><property name="Text">Archer. Regroup: Exert Dinendal to remove (2).</property><property name="Lore">“He was almost certain that he could hear stealthy movements…. Not Elves; for the woodland folk were altogether noiseless in their movements.”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="340b95d2-e6b0-4fb0-829d-f27577130803" name="Elrond"><property name="Subname" value="Herald to Gil-galad"/><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="4"/><property name="Type" value="Ally • Home 3 • Elf"/><property name="Rarity" value="R"/><property name="Site" value="3"/><property name="Strength" value="8"/><property name="Vitality" value="4"/><property name="Text">At the start of each of your turns, you may spot an ally whose home is site 3 to heal that ally twice. Regroup: Exert Elrond twice to heal a companion.</property><property name="Lore">“Venerable he seemed as a king crowned with many winters, and yet hale as a tried warrior….”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="0029200a-5752-4799-a2d6-6cd9facd2dcc" name="Erestor"><property name="Subname" value="Chief Advisor to Elrond"/><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="2"/><property name="Type" value="Ally • Home 3 • Elf"/><property name="Rarity" value="C"/><property name="Site" value="3"/><property name="Strength" value="5"/><property name="Vitality" value="2"/><property name="Text">To play, spot an Elf. Response: If an Elf is about to take a wound from a [Sauron] minion or [Sauron] event, exert Erestor to prevent that wound.</property><property name="Lore">”'Then there are but two courses… to hide the Ring for ever, or to unmake it.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="741a540b-9eb1-4b90-8ee6-763afdf3af2e" name="Forests of Lothlorien"><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">Plays to your support area. Each time the fellowship moves, you may spot 3 [Elven] allies to wound a minion.</property><property name="Lore">””</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="6531bed4-6235-4a2d-91fe-7c9665515df1" name="Friends of Old"><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Fellowship: Reveal a card at random from an opponent's hand. Heal X [Elven] allies, where X is the twilight cost of the card revealed.</property><property name="Lore">”'You have been summoned here to answer the threat of Mordor.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="eae7d67c-833b-4362-8751-aa77e48b203e" name="Galadriel"><property name="Subname" value="Lady of the Golden Wood"/><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="3"/><property name="Type" value="Ally • Home 6 • Elf"/><property name="Rarity" value="R"/><property name="Site" value="6"/><property name="Strength" value="3"/><property name="Vitality" value="3"/><property name="Text">At the start of each of your turns, you may heal an Elf. Fellowship: Exert Galadriel to play the fellowship's next site if it is a forest (replacing opponent's site if necessary).</property><property name="Lore">”'There is in her and in this land no evil, unless a man bring it hither himself. Then let him beware!'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="45900020-82ad-4d79-82ac-af63efd45f7b" name="Galdor"><property name="Subname" value="Councilor From the West"/><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="2"/><property name="Type" value="Ally • Home 3 • Elf"/><property name="Rarity" value="U"/><property name="Site" value="3"/><property name="Strength" value="5"/><property name="Vitality" value="2"/><property name="Text">To play, spot an Elf. Regroup: Exert Galdor and spot a minion to return that minion to its owner's hand.</property><property name="Lore">”'My heart tells me that Sauron will expect us to take the western way, when he learns what has befallen. He soon will.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="e9e087b8-9f83-4953-b7a9-df3ee7f63f62" name="Gift of the Evenstar"><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">To play, spot Arwen. Bearer must be Aragorn. Skirmish: Exert Aragorn or discard 2 cards from hand to make a minion skirmishing Aragorn strength -1.</property><property name="Lore">”'It is mine to give to whom I will… like my heart.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="291f1259-176e-4c71-b4e9-5b67ae745480" name="Golradir"><property name="Subname" value="Councilor of Imladris"/><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="2"/><property name="Type" value="Ally • Home 3 • Elf"/><property name="Rarity" value="U"/><property name="Site" value="3"/><property name="Strength" value="4"/><property name="Vitality" value="3"/><property name="Text">To play, spot an Elf. Skirmish: Exert Golradir to make an Orc strength -1.</property><property name="Lore">Their stay at Rivendell provided the Fellowship with counsel from many sources.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="a572e0e4-9b47-4678-9a76-d2d8b9758c24" name="Long-knives of Legolas"><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="1"/><property name="Type" value="Possession • Hand Weapon"/><property name="Rarity" value="R"/><property name="Strength" value="+1"/><property name="Text">Bearer must be Legolas. Each Orc or Uruk-hai skirmishing Legolas is strength -2.</property><property name="Lore">Sharp, bone-handled knives defend the Elves of Mirkwood at close quarters.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="8ba4d2a6-2f24-4f0d-896f-b4960465c4db" name="Master of Healing"><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Fellowship or Regroup: Spot Elrond (or 2 [Elven] allies) to heal a companion or ally.</property><property name="Lore">”'Elrond has cured you: he has tended you for days, ever since you were brought in.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="278c11f7-4ed2-48e5-9d74-e85550757f86" name="Nenya"><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="0"/><property name="Type" value="Artifact • Ring"/><property name="Rarity" value="R"/><property name="Vitality" value="+1"/><property name="Text">Bearer must be Galadriel. At the start of each regroup phase, you may discard up to 2 cards from hand to draw the same number of cards.</property><property name="Lore">”'Verily it is in the land of L�rien upon the finger of Galadriel that one of the Three remains. This is Nenya, the Ring of Adamant, and I am its keeper.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="490ab2d8-9ac0-4288-ae1a-ffa153cad30d" name="Phial of Galadriel"><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="0"/><property name="Type" value="Possession"/><property name="Rarity" value="U"/><property name="Text">To play, exert an Elf. Bearer must be the Ring-bearer. Bearer's resistance is +2.</property><property name="Lore">”'May it be a light to you in dark places, when all other lights go out. Remember Galadriel and her Mirror!'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="0d743a40-0631-4ea3-97cf-5647426e7d6b" name="Saelbeth"><property name="Subname" value="Elven Councilor"/><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="2"/><property name="Type" value="Ally • Home 3 • Elf"/><property name="Rarity" value="U"/><property name="Site" value="3"/><property name="Strength" value="4"/><property name="Vitality" value="3"/><property name="Text">To play, spot an Elf. Skirmish: Exert Saelbeth to make an Uruk-hai strength -1.</property><property name="Lore">The wisdom of Saelbeth prepared the Company for the dangers they would face.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="05442507-d5de-4429-8d1c-98d017b2efa0" name="Something Draws Near"><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="U"/><property name="Text">Fellowship or Maneuver: Exert an Elf to discard an [Isengard] possession or [Isengard] artifact.</property><property name="Lore">”'We have hunted and slain many Orcs in the woods….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="98114031-086c-469e-bd0e-014768f08aab" name="Vilya"><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="0"/><property name="Type" value="Artifact • Ring"/><property name="Rarity" value="R"/><property name="Vitality" value="+1"/><property name="Text">Bearer must be Elrond. Maneuver: Exert Elrond twice and spot a Shadow condition to return that condition to its owner's hand.</property><property name="Lore">“Upon his finger was a ring of gold with a great blue stone, Vilya, mightiest of the Three.”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="7fbafac5-7ab6-4d85-afa6-c2ac3562f6b6" name="Voice of Nimrodel"><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="2"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Tale. Skirmish: Exert an Elf at a river or forest to cancel a skirmish involving that Elf.</property><property name="Lore">”'Beside the falls of Nimrodel, / By water clear and cool, / Her voice as falling silver fell / Into the shining pool.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="66bf69ba-5ed4-4d10-a864-045a533aa509" name="Betrayal of Isengard"><property name="Kind" value="Free People"/><property name="Culture" value="Gandalf"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">Plays to your support area. Each time an opponent draws a card (or takes a card into hand) during the Shadow phase, you may remove (1). Maneuver: Exert Gandalf to wound Saruman twice.</property><property name="Lore">”'There is only one Lord of the Ring.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="0bfb5b47-49c9-4b4c-bd88-0f4798d9f65e" name="Deep in Thought"><property name="Kind" value="Free People"/><property name="Culture" value="Gandalf"/><property name="Twilight" value="4"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Spell. Maneuver: Spot Gandalf and 4 twilight tokens to discard all Shadow conditions.</property><property name="Lore">“He was… trying to recall every memory of his former journey in the Mines, and considering anxiously the next course that he should take….”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="6f515799-9b23-4bd0-8bc2-ab14af1da864" name="Depart Silently"><property name="Kind" value="Free People"/><property name="Culture" value="Gandalf"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Stealth. Maneuver: At sites 1 to 5, spot Gandalf to prevent Hobbits from being assigned to skirmishes until the regroup phase. At any other site, spot Gandalf to make a Hobbit strength +3 until the regroup phase.</property><property name="Lore">”'Be careful, both of you.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="3cd1c2b3-bfd1-47ba-8b10-481700646beb" name="Fireworks"><property name="Kind" value="Free People"/><property name="Culture" value="Gandalf"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Spell. Fellowship: Spot Gandalf to shuffle up to 2 [Gandalf] or up to 2 [Shire] cards from your discard pile into your draw deck.</property><property name="Lore">”'The finest rockets ever seen: / they burst in stars of blue and green….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="b9a02509-8492-4b5d-85c8-c8dee4a76f50" name="His First Serious Check"><property name="Kind" value="Free People"/><property name="Culture" value="Gandalf"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Maneuver: Spot Gandalf to reveal a card at random from an opponent's hand. You may add (X) to discard that card, where X is the twilight cost of the card revealed.</property><property name="Lore">”…a false turn now might be disastrous.”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="0271aa28-3feb-430b-8d08-933010902a55" name="Narya"><property name="Kind" value="Free People"/><property name="Culture" value="Gandalf"/><property name="Twilight" value="0"/><property name="Type" value="Artifact • Ring"/><property name="Rarity" value="R"/><property name="Vitality" value="+1"/><property name="Text">Bearer must be Gandalf. At the start of each of your turns, you may add (3) to remove a burden.</property><property name="Lore">”'For this is the Ring of Fire, and with it you may rekindle hearts in a world that grows chill.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="cfc1765d-c580-4037-bd4f-1ad8f37028fb" name="Trust Me as You Once Did"><property name="Kind" value="Free People"/><property name="Culture" value="Gandalf"/><property name="Twilight" value="2"/><property name="Type" value="Condition"/><property name="Rarity" value="U"/><property name="Text">Plays to your support area. Skirmish: Exert Gandalf to make a companion strength +1 for each companion with the Gandalf signet you can spot (limit +3).</property><property name="Lore">”'Do not take me for some conjurer of cheap tricks! I am not trying to rob you. I am trying to help you.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="c9562890-88d7-4bea-9dec-aa8bff6c5dc5" name="Unknown Perils"><property name="Kind" value="Free People"/><property name="Culture" value="Gandalf"/><property name="Twilight" value="2"/><property name="Type" value="Condition"/><property name="Rarity" value="C"/><property name="Text">Plays to your support area. Response: If a companion is about to take a wound, spot 4 twilight tokens and exert Gandalf to prevent that wound.</property><property name="Lore">“Suddenly he stopped as if listening. Frodo became aware that all was very quiet, inside and outside.”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="ef4f7aa1-8a05-4849-8f1c-43d36032a966" name="Answering the Cries"><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="0"/><property name="Type" value="Condition"/><property name="Rarity" value="C"/><property name="Text">Plays to your support area. Skirmish: Discard a [Gondor] tale from hand to make a [Gondor] companion strength +2.</property><property name="Lore">“Drawing his bright sword and crying Elendil! Elendil! he crashed through the trees.”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="cc7e5fdb-40d8-42a8-8f54-524c7d08462d" name="Aragorn"><property name="Subname" value="Heir to the White City"/><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="4"/><property name="Type" value="Companion • Man"/><property name="Rarity" value="R"/><property name="Strength" value="8"/><property name="Vitality" value="4"/><property name="Resistance" value="6"/><property name="Signet" value="Frodo"/><property name="Text">Ranger. Each time the fellowship moves during the fellowship phase, remove (2).</property><property name="Lore">”'…his hood was cast back, and his dark hair was blowing in the wind, a light was in his eyes: a king returning from exile in his own land.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="f97de4c9-10a7-4771-8981-5c2fcfe78b8b" name="Banner of the White Tree"><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="R"/><property name="Text">Tale. Maneuver: Exert a [Gondor] companion to make that companion strength +3 and defender +1 until the regroup phase.</property><property name="Lore">”'Many Elves and many mighty Men, and many of their friends, had perished in the war.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="56dba8e5-0035-446f-bd52-44a37209fbf4" name="Citadel of Minas Tirith"><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">Plays to your support area. You may heal a [Gondor] companion at the end of each turn during which no companion or ally lost a skirmish.</property><property name="Lore">”'One day our paths will lead us there, and the Tower guards shall take up the call - The Lords of Gondor have returned.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="2e4f02e0-a1b5-403c-9f9d-2fff0aeaa8e2" name="Gondor Bowmen"><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="0"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">Tale. Plays to your support area. Archery: Exert a [Gondor] companion and discard this condition to make the fellowship archery total +2.</property><property name="Lore">Arrows of the Last Alliance brought death to Sauron's forces.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="0a2b2196-7ed8-46d1-92f7-f865a00ecdd1" name="Horn of Boromir"><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="0"/><property name="Type" value="Possession"/><property name="Rarity" value="R"/><property name="Text">Bearer must be Boromir. Maneuver: Exert Boromir and spot an ally. Until the regroup phase, that ally is strength +3 and participates in archery fire and skirmishes.</property><property name="Lore">“On a baldric he wore a great horn tipped with silver….”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="d8118c2d-a78b-46d0-853e-5782c625bc81" name="Might of Numenor"><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Tale. Maneuver: Spot a [Gondor] companion to reveal a card at random from an opponent's hand. Heal X companions, where X is the twilight cost of the card revealed.</property><property name="Lore">”'But the lords of Minas Tirith still fight on….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="0413ff62-e8cc-46b7-9b7c-016e7586f8dc" name="The Shards of Narsil"><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="1"/><property name="Type" value="Artifact"/><property name="Rarity" value="R"/><property name="Text">Plays to your support area. Fellowship: Stack a [Gondor] card from hand here. Fellowship: Add (1) to take a card stacked here into hand.</property><property name="Lore">”'…Narsil was broken and its light extinguished, and it had not yet been forged again.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="39a976ce-39aa-4fc8-814f-9a8e0e015cee" name="Some Who Resisted"><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="U"/><property name="Text">Tale. Maneuver: Spot a [Gondor] companion to make the twilight cost of each maneuver event +2.</property><property name="Lore">”'In the south the realm of Gondor long endured; and for a while its splendour grew….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="a783c8af-065f-46b1-9313-f01f639656ac" name="Still Sharp"><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="U"/><property name="Text">Skirmish: Spot The Shards of Narsil to make a [Gondor] companion strength +3 and damage +1.</property><property name="Lore">”'The shards of Narsil… the blade that cut the Ring from Sauron's hand.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="a56b9119-6836-468b-b976-9f5d2cfb997b" name="Voice of Rauros"><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="U"/><property name="Text">Maneuver: Exert Aragorn to make each companion with the Aragorn signet damage +1 until the regroup phase.</property><property name="Lore">“As he ran the cries came louder, but fainter now and desperately the horn was blowing.”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="dadd9afb-4419-4400-8a7d-3129d7114cc0" name="We Must Go Warily"><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Response: If the fellowship moves in the regroup phase, exert a [Gondor] companion twice to make each minion's twilight cost +1 until the next regroup phase.</property><property name="Lore">”'This is the lawn of Parth Galen: a fair place in the summer days of old. Let us hope that no evil has yet come here.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="f301c086-87f5-4320-a14c-01f464965e41" name="Abandoning Reason for Madness"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Shadow: Spot an [Isengard] minion to discard up to 3 cards from hand and draw an equal number of cards.</property><property name="Lore">”'And why not, Gandalf?… Why not? The Ruling Ring? If we could command that, then the power would pass to us.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="84ebdab9-6691-4c1b-9345-1b0b729bbec9" name="Can You Protect Me From Yourself"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="R"/><property name="Text">Maneuver: Spot an [Isengard] minion to exhaust Aragorn. The Free Peoples player may add 2 burdens to prevent this.</property><property name="Lore">”'Where is the Ring?'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="35c93c0d-ed33-4320-a11c-0b0f8013f697" name="Coming for the Ring"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="2"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Regroup: Reveal a card at random from the Free Peoples player's hand. Heal X [Isengard] minions, where X is the twilight cost of the card revealed.</property><property name="Lore">”'This evil cannot be concealed by the power of the Elves….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="f634bf88-348f-415a-bc80-6ac60d06296b" name="A Fell Voice on the Air"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">Plays to your support area. Shadow: Exert Saruman to play an [Isengard] weather condition from your discard pile. Its twilight cost is -2.</property><property name="Lore">”'He's trying to bring down the mountain!'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="7427633b-6d8b-42e2-ae44-257e4db98e9a" name="Hate and Anger"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="2"/><property name="Type" value="Event"/><property name="Rarity" value="U"/><property name="Text">Shadow: Spot an Uruk-hai and a [Moria] minion to draw 3 cards.</property><property name="Lore">The frenzy of Uruks is born of the fear of the very Goblins that work the pits.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="67f89781-ced3-4432-a118-06b544bb15b3" name="Hollowing of Isengard"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="4"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">To play, spot an [Isengard] Orc. Plays to your support area. Shadow: Discard this condition to add (3).</property><property name="Lore">”'Rip them all down!'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="bb5a84d9-379c-4b4e-be54-63abed96a498" name="Isengard Axe"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="0"/><property name="Type" value="Possession • Hand Weapon"/><property name="Rarity" value="C"/><property name="Strength" value="+2"/><property name="Text">Bearer must be an [Isengard] Orc. When you play this weapon, add (1).</property><property name="Lore">Axes eat into the forests of Isengard as well as the victims of Saruman's Orcs.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="f61c6782-f609-47f9-b9b9-5ec766e2e84e" name="Isengard Forger"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="2"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="C"/><property name="Site" value="4"/><property name="Strength" value="6"/><property name="Vitality" value="2"/><property name="Text">Shadow: Exert this minion to add (1).</property><property name="Lore">”'I looked on it and saw that, whereas it had once been green and fair, it was now filled with pits and forges.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="b47c5280-cf0d-4b20-9207-25b66948e848" name="Isengard Retainer"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="4"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="U"/><property name="Site" value="4"/><property name="Strength" value="8"/><property name="Vitality" value="3"/><property name="Text">Regroup: Exert this minion to make the Free Peoples player wound a companion.</property><property name="Lore">”'…the Eagles of the mountain went far and wide, and they saw many things: the gathering of wolves and the mustering of Orcs….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="663800d9-e476-4201-b9f4-7b1c4c23ba22" name="Isengard Servant"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="3"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="U"/><property name="Site" value="4"/><property name="Strength" value="7"/><property name="Vitality" value="3"/><property name="Text">Regroup: Exert this minion to make the Free Peoples player wound a companion.</property><property name="Lore">The servants of Isengard worked tirelessly to spread the influence of their master.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="7af91229-7816-413d-b47e-9bb2a0a53889" name="Isengard Shaman"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="1"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="C"/><property name="Site" value="4"/><property name="Strength" value="5"/><property name="Vitality" value="2"/><property name="Text">Response: If an [Isengard] Orc is about to take a wound, remove (2) to prevent that wound.</property><property name="Lore">”'Over all his works a dark smoke hung and wrapped itself about the sides of Orthanc.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="6cd5873a-46e4-4ec4-947f-24b6703f1406" name="Isengard Smith"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="4"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="U"/><property name="Site" value="4"/><property name="Strength" value="8"/><property name="Vitality" value="3"/><property name="Text">Regroup: Exert this minion to discard a weapon (or all Free Peoples possessions if you can spot 5 companions).</property><property name="Lore">”'No other folk make such a trampling….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="0d463b09-75f4-4f8a-a080-681d1a3b1bb6" name="Isengard Warrior"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="3"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="U"/><property name="Site" value="4"/><property name="Strength" value="7"/><property name="Vitality" value="3"/><property name="Text">While you can spot another [Isengard] Orc, no player may use archery special abilities. Regroup:Exert this minion and spot 3 wounds on the Ring-bearer to exert every companion.</property><property name="Lore">”'There is evil afoot in Isengard, and the West is no longer safe.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="a9f45102-5b04-42f9-8b2a-0beb3ebd4153" name="Isengard Worker"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="2"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="C"/><property name="Site" value="4"/><property name="Strength" value="5"/><property name="Vitality" value="3"/><property name="Text">Regroup: Exert this minion to make the Free Peoples player wound a companion.</property><property name="Lore">”'They were Elves once. Taken by the dark powers - tortured and mutilated….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="d259ff4a-42a3-4405-85d7-8e220773443c" name="One of You Must Do This"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Maneuver: Exert an [Isengard] minion to make the Free Peoples player exert X companions, where X is the number of these races you can spot in the fellowship: Dwarf, Elf, Man, and Wizard.</property><property name="Lore">”'And if we fail, what then? What happens when Sauron takes back what is his?'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="b18c2e8e-fdde-43fd-b31a-f758c625e9b4" name="Orc Commander"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="6"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="R"/><property name="Site" value="4"/><property name="Strength" value="11"/><property name="Vitality" value="4"/><property name="Text">Each other [Isengard] Orc is strength +1. Regroup: Exert Orc Commander to make the Free Peoples player wound a companion.</property><property name="Lore">”'It seems their delight to slash and beat down growing things that are not even in their way.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="f7560aef-a307-4b94-8b2b-4021b344e676" name="Orc Overseer"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="5"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="R"/><property name="Site" value="4"/><property name="Strength" value="10"/><property name="Vitality" value="4"/><property name="Text">Regroup: Exert Orc Overseer twice to exhaust a companion (except the Ring-bearer).</property><property name="Lore">”'What orders from Mordor, my Lord? What does the Eye command?'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="f2a622ed-a3fa-4b73-a0aa-68dd1b576856" name="Orthanc Berserker"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="5"/><property name="Type" value="Minion • Uruk-Hai"/><property name="Rarity" value="R"/><property name="Site" value="5"/><property name="Strength" value="11"/><property name="Vitality" value="3"/><property name="Text">Damage +1. Maneuver: Spot 5 burdens and exert Orthanc Berserker twice to exhaust a companion (except the Ring-bearer).</property><property name="Lore">The voice of Saruman compels his minions to stop at nothing to earn his favor.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="4bf1afa3-e4bf-4b91-8806-abd3c47cdfa6" name="The Palantir of Orthanc"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="0"/><property name="Type" value="Artifact • Palantir"/><property name="Rarity" value="R"/><property name="Text">To play, spot an [Isengard] minion. Plays to your support area. Shadow: Spot an [Isengard] minion and remove (1) to reveal a card at random from the Free Peoples player's hand. Place that card on top of that player's draw deck.</property><property name="Lore">”'Seven stars and seven stones….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="9aa89f33-95a3-4432-b025-5f409f4da9db" name="Saruman"><property name="Subname" value="Keeper of Isengard"/><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="4"/><property name="Type" value="Minion • Wizard"/><property name="Rarity" value="R"/><property name="Site" value="4"/><property name="Strength" value="8"/><property name="Vitality" value="4"/><property name="Text">Saruman may not take wounds during the archery phase and may not be assigned to a skirmish. Uruk-hai are fierce. Response: If an Uruk-hai is about to take a wound, exert Saruman to prevent that wound.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="fe0d757d-9990-4561-843b-69bd3a8e51bd" name="Saruman"><property name="Subname" value="Servant of the Eye"/><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="4"/><property name="Type" value="Minion • Wizard"/><property name="Rarity" value="C"/><property name="Site" value="4"/><property name="Strength" value="8"/><property name="Vitality" value="4"/><property name="Text">Saruman may not take wounds during the archery phase and may not be assigned to a skirmish. Assignment: Exert Saruman to assign an [Isengard] minion to a companion (except the Ring-bearer). That companion may exert to prevent this.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="3d3f61d6-e1cf-4376-8cf1-81bf6c0ae599" name="Servants to Saruman"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Skirmish: Make an [Isengard] Orc strength +2 (or +3 if you have fewer than 3 cards in hand).</property><property name="Lore">”'This is grievous news concerning Saruman… for we trusted him and he is deep in all our counsels.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="fab0ffc2-35b7-4399-9dcc-00bb42f721dd" name="Tower of Orthanc"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">To play, spot an [Isengard] minion. Plays to your support area. Each time the fellowship moves, you may spot an exhausted companion to add (3).</property><property name="Lore">””</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="d2ec1438-b42c-4a2a-a6a2-2fe42d08d1fd" name="Trapped and Alone"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="U"/><property name="Text">Plays to your support area. Each character skirmishing an [Isengard] Orc loses all damage bonuses from weapons.</property><property name="Lore">”'…I had no chance of escape, and my days were bitter.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="67cd6cd0-2a3a-4146-a996-442ddf870f5f" name="The Trees Are Strong"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="U"/><property name="Text">Regroup: Discard X [Isengard] Orcs to make the Free Peoples player wound X companions.</property><property name="Lore">”'Their roots go deep.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="e5c2e7aa-5145-4c29-b24f-64488dc98d0e" name="Uruk Raider"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="2"/><property name="Type" value="Minion • Uruk-Hai"/><property name="Rarity" value="C"/><property name="Site" value="5"/><property name="Strength" value="6"/><property name="Vitality" value="2"/><property name="Text">Damage +1. While an ally is in the dead pile, this minion is strength +3 and fierce.</property><property name="Lore">There is no safety where Saruman's emblem is shown.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="2081d4a1-9b9b-49d0-9826-fa2a9d87563d" name="Uruk Ravager"><property name="Kind" value="Shadow"/><property name="Culture" value="Isengard"/><property name="Twilight" value="4"/><property name="Type" value="Minion • Uruk-Hai"/><property name="Rarity" value="U"/><property name="Site" value="5"/><property name="Strength" value="9"/><property name="Vitality" value="2"/><property name="Text">Damage +1. When you play this minion, you may spot Saruman to add (2).</property><property name="Lore">”'…a ruined and terrible form of life.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="3e37f604-213b-4243-9d34-3e8f9566e091" name="Dangerous Gamble"><property name="Kind" value="Shadow"/><property name="Culture" value="Moria"/><property name="Twilight" value="2"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Shadow: Spot a [Moria] minion to reveal a card at random from the Free Peoples player's hand. Add (X), where X is the twilight cost of the card revealed.</property><property name="Lore">“Almost they began to hope that they would escape.”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="b9e06c7b-bbad-4b58-8ee5-f7d01ffcb241" name="Depths of Moria"><property name="Kind" value="Shadow"/><property name="Culture" value="Moria"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">To play, spot a [Moria] Orc. Plays to your support area. Each time the fellowship moves during the regroup phase, add (2).</property><property name="Lore">”…a great fissure had opened. Out of it a fierce red light came, and now and again flames licked at the brink…. Wisps of dark smoke wavered in the hot air.”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="6e2c194c-d1c5-40ed-8dc1-879605de96b6" name="Hide and Seek"><property name="Kind" value="Shadow"/><property name="Culture" value="Moria"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Search. Skirmish: Spot 2 [Shire] companions to make a [Moria] minion damage +1.</property><property name="Lore">”'Which way shall we go?'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="121c3bc7-30b0-4244-b064-68d34f2a6539" name="Malice"><property name="Kind" value="Shadow"/><property name="Culture" value="Moria"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="U"/><property name="Text">Archery: Spot a [Moria] Orc and a [Sauron] Orc to wound an archer.</property><property name="Lore">Fueled by Sauron's hatred of living things, Orcs searched for the Ring of Power.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="0dba8dbf-116d-4c68-a58e-fca8edc79890" name="Such a Little Thing"><property name="Kind" value="Shadow"/><property name="Culture" value="Moria"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="R"/><property name="Text">Maneuver: Spot a [Moria] minion to wound Boromir 3 times. The Free Peoples player may discard 2 Free Peoples possessions to prevent this.</property><property name="Lore">”'Boromir… give the Ring to Frodo.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="5af2bf4a-4e72-4641-aa2c-ea44014fdabc" name="Gates of the Dead City"><property name="Kind" value="Shadow"/><property name="Culture" value="Wraith"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">To play, spot a Nazgul. Plays to your support area. Each time a [Wraith] card adds a burden, the Free Peoples player must exert a companion.</property><property name="Lore">”'…and they took Minas Ithil and abode in it, and they made it into a place of dread….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="0a152397-cf1d-438e-88d1-e5bf981d1213" name="News of Mordor"><property name="Kind" value="Shadow"/><property name="Culture" value="Wraith"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="U"/><property name="Text">Skirmish: Spot an [Isengard] minion to make a Nazgul damage +1.</property><property name="Lore">”'Build me an army worthy of Mordor.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="b9c95d63-7dac-4a7b-ba7b-f1717dd327bb" name="The Ring Draws Them"><property name="Kind" value="Shadow"/><property name="Culture" value="Wraith"/><property name="Twilight" value="2"/><property name="Type" value="Condition"/><property name="Rarity" value="U"/><property name="Text">Plays to your support area. Each time the fellowship moves, add (1) for each burden you can spot. At the end of each of your Shadow phases, exert a Nazgul or discard this condition.</property><property name="Lore">”'If I move I shall be seen and hunted!'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="3375bc25-59c2-48cb-87a1-271bcb887372" name="They Will Never Stop Hunting You"><property name="Kind" value="Shadow"/><property name="Culture" value="Wraith"/><property name="Twilight" value="2"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Maneuver: Spot a Nazgul to reveal a card at random from the Free Peoples player's hand. Exert a companion bearing a ranged weapon X times, where X is the twilight cost of the card revealed.</property><property name="Lore">”'They're looking for Baggins, and if they mean well, then I'm a hobbit.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="e87070a3-edf1-47de-88cf-85eaef25ca94" name="Too Great and Terrible"><property name="Kind" value="Shadow"/><property name="Culture" value="Wraith"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="R"/><property name="Text">Maneuver: Spot a Nazgul to wound Gandalf twice. The Free Peoples player may discard 2 [Gandalf] cards from hand to prevent this.</property><property name="Lore">“His eyes flashed and his face was lit as by a fire within. 'Do not tempt me! For I do not wish to become like the Dark Lord himself.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="bb325d66-dae3-4afa-b1a3-55ed761246e1" name="Ulaire Otsea"><property name="Subname" value="Ringwraith in Twilight"/><property name="Kind" value="Shadow"/><property name="Culture" value="Wraith"/><property name="Twilight" value="4"/><property name="Type" value="Minion • Nazgul"/><property name="Rarity" value="U"/><property name="Site" value="3"/><property name="Strength" value="9"/><property name="Vitality" value="3"/><property name="Text">Twilight. Each time Ulaire Otsea wins a skirmish, you may exert him to transfer Blade Tip from your support area to the Ring-bearer.</property><property name="Lore">”'…at all times they smell the blood of living things, desiring and hating it.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="a3865715-5e31-47e3-8db7-a3b14eecedda" name="The Dark Lord Advances"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="2"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Regroup: Exert a [Sauron] minion to reveal a card at random from the Free Peoples player's hand. That player must discard X cards from hand, where X is the twilight cost of the card revealed.</property><property name="Lore">”'A power was there that we have not felt before.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="5f15a279-f6df-4b29-8aee-4f67ba2c4d24" name="Get Off the Road"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="U"/><property name="Text">Search. Shadow: Spot a [Sauron] minion and a Nazgul to make the Free Peoples player discard a card from the top of his or her deck for each burden you can spot.</property><property name="Lore">”'The Morgul-lord and his Black Riders have come forth. War is preparing!'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="eef8d98f-4d07-4e01-8ced-fb42ea7bd81e" name="Gleaming in the Snow"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="U"/><property name="Text">Regroup: Exert a [Sauron] Orc and spot a [Gondor] companion to add a burden.</property><property name="Lore">”'A Ring of Power looks after itself…. It may slip off treacherously, but its keeper never abandons it.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="8abf16b4-c338-4be5-896a-857f76c7465b" name="Hand of Sauron"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Maneuver: Exert a [Sauron] minion to make the Free Peoples player discard a card at random from his or her hand.</property><property name="Lore">”'The power of the Ring could not be undone.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="17dc0ba6-2633-496c-bcc3-46c8735ca4be" name="His Cruelty and Malice"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">Plays to your support area. Regroup: Exert a [Sauron] minion to make the Free Peoples player discard the top card from his or her draw deck.</property><property name="Lore">”'Into this Ring he poured his cruelty, his malice, and his will to dominate all life.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="25dfc177-b1ab-4e41-b825-058419ec38a1" name="Massing in the East"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="U"/><property name="Text">Regroup: Exert a [Sauron] minion to discard a card from the top of the Free Peoples player's draw deck for each of these races you can spot in the fellowship: Dwarf, Elf, Man, and Wizard.</property><property name="Lore">”'The power of the Black Land grows….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="97aa27b2-9321-46c8-8201-e038ae8abf66" name="Morgul Slayer"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="2"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="R"/><property name="Site" value="6"/><property name="Strength" value="7"/><property name="Vitality" value="2"/><property name="Text">Regroup: Exert this minion to wound a companion (except the Ring-bearer).</property><property name="Lore">”'Sauron was diminished, but not destroyed. His Ring was lost but not unmade.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="e567f757-cd33-4618-b004-ac9e5fed763f" name="Orc Butcher"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="2"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="C"/><property name="Site" value="6"/><property name="Strength" value="6"/><property name="Vitality" value="2"/><property name="Text">For each [Sauron] condition you can spot, this minion is strength +1.</property><property name="Lore">”'And yet we see that Sauron can torture and destroy the very hills.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="5e04f399-913e-4bb1-9afe-2b2418828cb1" name="Orc Guard"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="1"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="C"/><property name="Site" value="6"/><property name="Strength" value="5"/><property name="Vitality" value="2"/><property name="Text">Maneuver: Exert this minion and discard your [Sauron] condition to discard a Free Peoples condition.</property><property name="Lore">The malice of the Dark Tower thins the hopes of Men.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="b3ee39d8-f137-41c1-98cb-e0fd7a9e42a5" name="Orc Pillager"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="4"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="U"/><property name="Site" value="6"/><property name="Strength" value="10"/><property name="Vitality" value="3"/><property name="Text">For each Free Peoples card borne by a character this minion is skirmishing, that character is strength -1.</property><property name="Lore">Weapons of the West are often powerless against the threat of Sauron.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="6833257a-da4b-4f74-9938-466d03b62aa7" name="Orc Slayer"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="1"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="U"/><property name="Site" value="6"/><property name="Strength" value="5"/><property name="Vitality" value="2"/><property name="Text">Regroup: Exert this minion to wound a companion (except the Ring-bearer).</property><property name="Lore">“For it is a long tale, full of deeds great and terrible….”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="acdc82dc-aa71-453c-b856-f9d262fdfd24" name="Orc Swordsman"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="3"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="C"/><property name="Site" value="6"/><property name="Strength" value="9"/><property name="Vitality" value="3"/><property name="Text">While this minion bears a weapon, he is strength +2.</property><property name="Lore">”'Many evil things there are that your strong walls and bright swords do not stay.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="5561069b-d3aa-402f-bd61-33393ff9058c" name="Orc Trooper"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="4"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="R"/><property name="Site" value="6"/><property name="Strength" value="7"/><property name="Vitality" value="3"/><property name="Text">For each card in your hand, this minion is strength +1.</property><property name="Lore">The Dark Lord's power grows in unseen ways.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="d46ff82a-774b-4752-9590-8882cd7c06b7" name="Orc Veteran"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="4"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="U"/><property name="Site" value="6"/><property name="Strength" value="10"/><property name="Vitality" value="3"/><property name="Text">Skirmish: Discard your [Sauron] condition to make a character skirmishing this minion strength -1.</property><property name="Lore">”'There was war, and the land was laid waste….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="9f0dd46c-34ca-4292-883b-e2f593dadf9f" name="Orc Warrior"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="3"/><property name="Type" value="Minion • Orc"/><property name="Rarity" value="C"/><property name="Site" value="6"/><property name="Strength" value="9"/><property name="Vitality" value="3"/><property name="Text">Maneuver: Exert this minion and discard your [Sauron] condition to make the Free Peoples player discard the top 2 cards from his or her draw deck.</property><property name="Lore">“Orcs were multiplying again in the mountains.”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="29cfcb4d-6feb-404e-acbf-85fa06fd6aa3" name="Our List of Allies Grows Thin"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">To play, exert a [Sauron] minion. Plays to your support area. Each time the fellowship moves, add (1) for each ally you can spot.</property><property name="Lore">”'The enemy is moving…. His eye is fixed on Rivendell. And Saruman, you tell me, has betrayed us.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="ae4df81e-d1a3-4164-a1b1-a4b38d4a7b89" name="Terrible as the Dawn"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="R"/><property name="Text">Maneuver: Spot a [Sauron] minion to wound Galadriel 3 times. The Free Peoples player may discard 2 Elves to prevent this.</property><property name="Lore">”'In the place of the Dark Lord, you would have a Queen… All shall love me and despair!'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="ccca4691-776a-498d-b650-74ce4f224ab0" name="Tower of Barad-dur"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">To play, exert a [Sauron] minion. Plays to your support area. Each time the fellowship moves, the Free Peoples player must discard a card from hand.</property><property name="Lore">“The Dark Tower had been rebuilt, it was said. From there the power was spreading….”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="ce88749e-1ceb-4c66-b4ea-1ccc98dac674" name="Why Shouldn"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="R"/><property name="Text">Maneuver: Spot a [Sauron] minion to discard Bilbo. The Free Peoples player may discard 2 Free Peoples conditions to prevent this.</property><property name="Lore">”'No, wait, it's here in my pocket. Isn't that… isn't that odd now?'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="d4e267f0-dd76-408d-a978-08244fa449e8" name="Bill the Pony"><property name="Kind" value="Free People"/><property name="Culture" value="Shire"/><property name="Twilight" value="0"/><property name="Type" value="Possession"/><property name="Rarity" value="U"/><property name="Text">Bearer must be a Hobbit companion. The Shadow number of each site is -1. Discard Bill the Pony when at an underground site.</property><property name="Lore">”'That animal can nearly talk…. He gave me a look as plain as Mr. Pippin could speak….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="9a51ca34-c15c-4743-9fbe-159ae4c6fee7" name="Frodo"><property name="Kind" value="Free People"/><property name="Culture" value="Shire"/><property name="Twilight" value="1"/><property name="Type" value="Possession • Pipe"/><property name="Rarity" value="U"/><property name="Text">Bearer must be Frodo. Fellowship: Discard a pipeweed possession and spot X pipes to heal a companion with the Frodo signet X times.</property><property name="Lore">”'All the same, observations that I have made on my own many journeys south have convinced me that the weed itself is not native to our parts of the world.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="cb4b6da6-60e8-4e18-8008-4483d6bd9568" name="Frying Pan"><property name="Kind" value="Free People"/><property name="Culture" value="Shire"/><property name="Twilight" value="0"/><property name="Type" value="Possession • Hand Weapon"/><property name="Rarity" value="C"/><property name="Strength" value="+1"/><property name="Text">Bearer must be a Hobbit. Skirmish: Exert bearer to wound an Orc he or she is skirmishing.</property><property name="Lore">”'I think I'm getting the hang of this!'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="333c6249-f2fd-45da-89e2-e56865248744" name="Meant to Be Alone"><property name="Kind" value="Free People"/><property name="Culture" value="Shire"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Fellowship: Spot a Hobbit companion (except the Ring-bearer) to reveal a card at random from an opponent's hand. Remove (X), where X is the twilight cost of the card revealed.</property><property name="Lore">”'You are a Ring-bearer, Frodo… to bear a Ring of Power is to be alone.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="8ded54ee-814f-4271-9688-2a0de27ba43e" name="Melilot Brandybuck"><property name="Subname" value="Merry Dancer"/><property name="Kind" value="Free People"/><property name="Culture" value="Shire"/><property name="Twilight" value="1"/><property name="Type" value="Ally • Home 1 • Hobbit"/><property name="Rarity" value="R"/><property name="Site" value="1"/><property name="Strength" value="2"/><property name="Vitality" value="2"/><property name="Text">Response: If a burden is about to be added by a Shadow card, exert Melilot Brandybuck to prevent that burden.</property><property name="Lore">“Master Everard Took and Miss Melilot Brandybuck got on a table and with bells in their hands began to dance the Springle-ring: a pretty dance, but rather vigorous.”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="0f8cb479-92db-4acc-b1c2-0dcb24952cdb" name="Old Noakes"><property name="Subname" value="Purveyor of Wisdoms"/><property name="Kind" value="Free People"/><property name="Culture" value="Shire"/><property name="Twilight" value="1"/><property name="Type" value="Ally • Home 1 • Hobbit"/><property name="Rarity" value="C"/><property name="Site" value="1"/><property name="Strength" value="1"/><property name="Vitality" value="2"/><property name="Text">Each time a Shadow card makes you discard a card from hand, you may also discard a minion or Shadow condition.</property><property name="Lore">”'There's been some strange folk crossing the Shire - Dwarves and others of a less than savoury nature.'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="5ce5fee1-5186-4b84-9cf6-4565dc886e33" name="Seek and Hide"><property name="Kind" value="Free People"/><property name="Culture" value="Shire"/><property name="Twilight" value="1"/><property name="Type" value="Event"/><property name="Rarity" value="C"/><property name="Text">Stealth. Skirmish: Spot 2 [Shire] companions to make a minion lose all damage bonuses.</property><property name="Lore">A Hobbit's best friends in Moria are the very pillars that support its structure.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="357b369d-ccb5-4f9b-b9ff-1781aba58295" name="The Shire Countryside"><property name="Kind" value="Free People"/><property name="Culture" value="Shire"/><property name="Twilight" value="1"/><property name="Type" value="Condition"/><property name="Rarity" value="R"/><property name="Text">To play, spot 2 [Shire] companions. Plays to your support area. Each time you remove a burden (except by a Hobbit's game text), you may heal a companion.</property><property name="Lore">”'Life in the wide world goes on… scarcely even aware of the existence of hobbits….'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="e118fcb8-a6b4-4023-8d4d-a65b6101905c" name="Three Monstrous Trolls"><property name="Kind" value="Free People"/><property name="Culture" value="Shire"/><property name="Twilight" value="0"/><property name="Type" value="Condition"/><property name="Rarity" value="C"/><property name="Text">Tale. Plays to your support area. Response: If a Shadow card is about to add any number of twilight tokens, exert a Hobbit ally to prevent this.</property><property name="Lore">”'Great big nasty twenty foot high smelly things _- and they're arguing… arguing about how they were going to cook us!'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="ef47cd26-2923-443c-b3b7-fa76e51abb0b" name="Caras Galadhon"><property name="Twilight" value="3"/><property name="Type" value="Site"/><property name="Rarity" value="U"/><property name="Site" value="6"/><property name="Text">Forest. Sanctuary. While the fellowship is at Caras Galadhon, no more than one minion may be assigned to each skirmish.</property><property name="Direction" value="left"/><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="c7414953-a279-41d0-a750-0945547541de" name="Eregion Hills"><property name="Twilight" value="2"/><property name="Type" value="Site"/><property name="Rarity" value="U"/><property name="Site" value="4"/><property name="Text">When the fellowship moves to Eregion Hills, add a burden.</property><property name="Direction" value="right"/><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="8b77f4a5-4972-44ca-822a-26465ab21a00" name="Gates of Argonath"><property name="Twilight" value="8"/><property name="Type" value="Site"/><property name="Rarity" value="C"/><property name="Site" value="8"/><property name="Text">River. Maneuver events may not be played.</property><property name="Direction" value="right"/><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="624e2205-922b-4150-9a2e-fbdcb6684559" name="The Great River"><property name="Twilight" value="6"/><property name="Type" value="Site"/><property name="Rarity" value="C"/><property name="Site" value="7"/><property name="Text">River. While the fellowship is at The Great River, cards may not be played from draw decks or discard piles.</property><property name="Direction" value="right"/><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="7eca250b-8588-4372-941f-fac2ef1e9332" name="House of Elrond"><property name="Twilight" value="0"/><property name="Type" value="Site"/><property name="Rarity" value="U"/><property name="Site" value="3"/><property name="Text">Sanctuary. When the fellowship moves to House of Elrond, the Free Peoples player may spot 2 Elves to remove a burden.</property><property name="Direction" value="right"/><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="5b75021c-047a-4910-adef-a6ad065d48aa" name="Wastes of Emyn Muil"><property name="Twilight" value="9"/><property name="Type" value="Site"/><property name="Rarity" value="U"/><property name="Site" value="9"/><property name="Text">Maneuver: Spot 4 companions and exert your [Isengard] Orc to make the Free Peoples player wound a companion.</property><property name="Direction" value="left"/><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="40958263-ed0a-4743-ae30-78a726135ad0" name="Legolas"><property name="Subname" value="Son of Thranduil"/><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="2"/><property name="Type" value="Companion • Elf"/><property name="Rarity" value="P"/><property name="Strength" value="6"/><property name="Vitality" value="3"/><property name="Resistance" value="6"/><property name="Signet" value="Aragorn"/><property name="Text">Archer. While Legolas is at a river or forest, add 1 to the fellowship archery total.</property><property name="Lore">”'Praised be the bow of Galadriel, and the hand and eye of Legolas!… That was a mighty shot in the dark, my friend!'”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="b64fbc0b-8cab-4269-8044-a48d34b7a2b4" name="Boromir"><property name="Subname" value="Defender of Minas Tirith"/><property name="Kind" value="Free People"/><property name="Culture" value="Gondor"/><property name="Twilight" value="3"/><property name="Type" value="Companion • Man"/><property name="Rarity" value="P"/><property name="Strength" value="7"/><property name="Vitality" value="3"/><property name="Resistance" value="6"/><property name="Signet" value="Gandalf"/><property name="Text">Ranger. Fellowship: Add (2) to heal Boromir.</property><property name="Lore">”…seated a little apart was a tall man with a fair and noble face… proud and stern of glance.”</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="98111b7e-2bc0-41e9-b84b-8bcb97c112d4" name="Arwen"><property name="Subname" value="Elven Rider"/><property name="Kind" value="Free People"/><property name="Culture" value="Elven"/><property name="Twilight" value="2"/><property name="Type" value="Companion • Elf"/><property name="Rarity" value="M"/><property name="Strength" value="6"/><property name="Vitality" value="3"/><property name="Resistance" value="6"/><property name="Signet" value="Frodo"/><property name="Text">Ranger. Response: If the Ring-bearer is about to take a wound, discard 3 cards from hand to prevent that wound.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card><card id="0680dc18-d2d7-448a-8ac8-6942781f67fb" name="Hand of Sauron"><property name="Kind" value="Shadow"/><property name="Culture" value="Sauron"/><property name="Twilight" value="0"/><property name="Type" value="Event"/><property name="Rarity" value="M"/><property name="Text">Maneuver: Exert a [Sauron] minion to make the Free Peoples player discard a card at random from his or her hand.</property><property name="Block" value="Fellowship Movie"/><property name="Ring-Bearer" value="False"/></card></cards></set>
+<?xml version="1.0" ?>
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="34593335-4142-4f22-b957-c71752e59450" name="Realms of the Elf-lords" version="1.0">
+   <cards>
+      <card id="77a5efff-abcb-48a8-b6ff-39fe8635ac70" name="Book of Mazarbul">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Dwarven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Possession"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Tale. Bearer must be a Dwarf. At the start of each fellowship phase when the fellowship is at site 4 or higher, you may draw a card for each Dwarf companion.</property>
+         <property name="Lore">”'It seems to be a record of the fortunes of Balin's folk….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="1471cfef-708c-4873-bde9-0a8d1a316831" name="Gimli">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Dwarven"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Possession • Pipe"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Bearer must be Gimli. Fellowship: Exert Gimli to add 1 to the number of pipes you can spot.</property>
+         <property name="Lore">”'And certainly it was from Bree that the art of smoking the genuine weed spread in the recent centuries among Dwarves and such other folk….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="a774ba0f-afa6-438a-9bd6-ecc5f16d0871" name="Mines of Khazad-Dum">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Dwarven"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Plays to your support area. Each time you play a [Dwarven] tale, you may heal a Dwarf companion.</property>
+         <property name="Lore">”'Moria! Moria! Wonder of the Northern world!'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="76eafc74-1dbd-4ed4-aa8b-135bce50c4a8" name="A Royal Welcome">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Dwarven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Plays to your support area. Regroup: Exert a Dwarf ally to heal a Dwarf companion.</property>
+         <property name="Lore">”'There is even a chance that Dwarves are there, and that in some deep hall of his fathers, Balin son of Fundin may be found.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="1d5964f4-b842-4e47-8628-5381618d106a" name="Song of Durin">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Dwarven"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Tale. To play, exert a Dwarf. Plays to your support area. The twilight cost of each [Moria] weapon is +2. Fellowship: Discard this condition to discard up to 2 [Moria] conditions.</property>
+         <property name="Lore">“No harp is wrung, no hammer falls: / The darkness dwells in Durin's halls….”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="f9bbe3d6-9700-494a-938b-3f2dba1dc4e3" name="Storm of Argument">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Dwarven"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Fellowship: Reveal a card at random from an opponent's hand. Shuffle up to X [Dwarven] cards from your discard pile into your draw deck, where X is the twilight cost of the card revealed.</property>
+         <property name="Lore">”'I will be dead before I see the Ring in the hands of an Elf!'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="2f643135-7e91-4fa7-98bb-c6459548d5af" name="Arwen">
+         <property name="Subname" value="Elven Rider"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Companion • Elf"/>
+         <property name="Rarity" value="U"/>
+         <property name="Strength" value="6"/>
+         <property name="Vitality" value="3"/>
+         <property name="Resistance" value="6"/>
+         <property name="Signet" value="Frodo"/>
+         <property name="Text">Ranger. Response: If the Ring-bearer is about to take a wound, discard 3 cards from hand to prevent that wound.</property>
+         <property name="Lore">”'If I can cross the river, the power of my people will protect him.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="18994970-4f3c-4ed2-a506-faea47656ea3" name="Arwen">
+         <property name="Subname" value="Lady Undomiel"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Companion • Elf"/>
+         <property name="Rarity" value="R"/>
+         <property name="Strength" value="6"/>
+         <property name="Vitality" value="3"/>
+         <property name="Resistance" value="6"/>
+         <property name="Signet" value="Gandalf"/>
+         <property name="Text">While you can spot 3 [Elven] allies whose home is site 3, each minion skirmishing Arwen is strength -3.</property>
+         <property name="Lore">“Queenly she looked, and thought and knowledge were in her glance, as of one who has known many things that the years bring.”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="29565608-2b53-49c9-b367-bb8371d808ea" name="Beren and Luthien">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Tale. Plays to your support area. Skirmish: Exert an [Elven] ally to discard the bottom card of your draw deck. If that card is an [Elven] card, make a minion skirmishing an Elf strength -1.</property>
+         <property name="Lore">””</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="b20431d9-8754-4027-aadd-bd18b02816fc" name="Calaglin">
+         <property name="Subname" value="Elf of Lorien"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Ally • Home 6 • Elf"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="6"/>
+         <property name="Strength" value="3"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">Archer. Regroup: Exert Calaglin to wound a minion.</property>
+         <property name="Lore">”'We have been keeping watch on the rivers, ever since we saw a great troop of Orcs going north toward Moria….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="68f23354-e7ed-42d1-b306-8869e652dff8" name="Cast It Into the Fire">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Maneuver: Spot an Elf to make each opponent discard a card from his or her hand. Draw a card for each card discarded in this way.</property>
+         <property name="Lore">”'It should have been cast then into Orodruin's fire nigh at hand where it was made.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="5454d0bb-b638-401b-bafc-afa31e0c9acf" name="Dinendal">
+         <property name="Subname" value="Silent Scout"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Ally • Home 6 • Elf"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="6"/>
+         <property name="Strength" value="3"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">Archer. Regroup: Exert Dinendal to remove (2).</property>
+         <property name="Lore">“He was almost certain that he could hear stealthy movements…. Not Elves; for the woodland folk were altogether noiseless in their movements.”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="340b95d2-e6b0-4fb0-829d-f27577130803" name="Elrond">
+         <property name="Subname" value="Herald to Gil-galad"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Ally • Home 3 • Elf"/>
+         <property name="Rarity" value="R"/>
+         <property name="Site" value="3"/>
+         <property name="Strength" value="8"/>
+         <property name="Vitality" value="4"/>
+         <property name="Text">At the start of each of your turns, you may spot an ally whose home is site 3 to heal that ally twice. Regroup: Exert Elrond twice to heal a companion.</property>
+         <property name="Lore">“Venerable he seemed as a king crowned with many winters, and yet hale as a tried warrior….”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="0029200a-5752-4799-a2d6-6cd9facd2dcc" name="Erestor">
+         <property name="Subname" value="Chief Advisor to Elrond"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Ally • Home 3 • Elf"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="3"/>
+         <property name="Strength" value="5"/>
+         <property name="Vitality" value="2"/>
+         <property name="Text">To play, spot an Elf. Response: If an Elf is about to take a wound from a [Sauron] minion or [Sauron] event, exert Erestor to prevent that wound.</property>
+         <property name="Lore">”'Then there are but two courses… to hide the Ring for ever, or to unmake it.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="741a540b-9eb1-4b90-8ee6-763afdf3af2e" name="Forests of Lothlorien">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Plays to your support area. Each time the fellowship moves, you may spot 3 [Elven] allies to wound a minion.</property>
+         <property name="Lore">””</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="6531bed4-6235-4a2d-91fe-7c9665515df1" name="Friends of Old">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Fellowship: Reveal a card at random from an opponent's hand. Heal X [Elven] allies, where X is the twilight cost of the card revealed.</property>
+         <property name="Lore">”'You have been summoned here to answer the threat of Mordor.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="eae7d67c-833b-4362-8751-aa77e48b203e" name="Galadriel">
+         <property name="Subname" value="Lady of the Golden Wood"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="3"/>
+         <property name="Type" value="Ally • Home 6 • Elf"/>
+         <property name="Rarity" value="R"/>
+         <property name="Site" value="6"/>
+         <property name="Strength" value="3"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">At the start of each of your turns, you may heal an Elf. Fellowship: Exert Galadriel to play the fellowship's next site if it is a forest (replacing opponent's site if necessary).</property>
+         <property name="Lore">”'There is in her and in this land no evil, unless a man bring it hither himself. Then let him beware!'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="45900020-82ad-4d79-82ac-af63efd45f7b" name="Galdor">
+         <property name="Subname" value="Councilor From the West"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Ally • Home 3 • Elf"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="3"/>
+         <property name="Strength" value="5"/>
+         <property name="Vitality" value="2"/>
+         <property name="Text">To play, spot an Elf. Regroup: Exert Galdor and spot a minion to return that minion to its owner's hand.</property>
+         <property name="Lore">”'My heart tells me that Sauron will expect us to take the western way, when he learns what has befallen. He soon will.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="e9e087b8-9f83-4953-b7a9-df3ee7f63f62" name="Gift of the Evenstar">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">To play, spot Arwen. Bearer must be Aragorn. Skirmish: Exert Aragorn or discard 2 cards from hand to make a minion skirmishing Aragorn strength -1.</property>
+         <property name="Lore">”'It is mine to give to whom I will… like my heart.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="291f1259-176e-4c71-b4e9-5b67ae745480" name="Golradir">
+         <property name="Subname" value="Councilor of Imladris"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Ally • Home 3 • Elf"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="3"/>
+         <property name="Strength" value="4"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">To play, spot an Elf. Skirmish: Exert Golradir to make an Orc strength -1.</property>
+         <property name="Lore">Their stay at Rivendell provided the Fellowship with counsel from many sources.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="a572e0e4-9b47-4678-9a76-d2d8b9758c24" name="Long-knives of Legolas">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Possession • Hand Weapon"/>
+         <property name="Rarity" value="R"/>
+         <property name="Strength" value="+1"/>
+         <property name="Text">Bearer must be Legolas. Each Orc or Uruk-hai skirmishing Legolas is strength -2.</property>
+         <property name="Lore">Sharp, bone-handled knives defend the Elves of Mirkwood at close quarters.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="8ba4d2a6-2f24-4f0d-896f-b4960465c4db" name="Master of Healing">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Fellowship or Regroup: Spot Elrond (or 2 [Elven] allies) to heal a companion or ally.</property>
+         <property name="Lore">”'Elrond has cured you: he has tended you for days, ever since you were brought in.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="278c11f7-4ed2-48e5-9d74-e85550757f86" name="Nenya">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Artifact • Ring"/>
+         <property name="Rarity" value="R"/>
+         <property name="Vitality" value="+1"/>
+         <property name="Text">Bearer must be Galadriel. At the start of each regroup phase, you may discard up to 2 cards from hand to draw the same number of cards.</property>
+         <property name="Lore">”'Verily it is in the land of L�rien upon the finger of Galadriel that one of the Three remains. This is Nenya, the Ring of Adamant, and I am its keeper.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="490ab2d8-9ac0-4288-ae1a-ffa153cad30d" name="Phial of Galadriel">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Possession"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">To play, exert an Elf. Bearer must be the Ring-bearer. Bearer's resistance is +2.</property>
+         <property name="Lore">”'May it be a light to you in dark places, when all other lights go out. Remember Galadriel and her Mirror!'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="0d743a40-0631-4ea3-97cf-5647426e7d6b" name="Saelbeth">
+         <property name="Subname" value="Elven Councilor"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Ally • Home 3 • Elf"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="3"/>
+         <property name="Strength" value="4"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">To play, spot an Elf. Skirmish: Exert Saelbeth to make an Uruk-hai strength -1.</property>
+         <property name="Lore">The wisdom of Saelbeth prepared the Company for the dangers they would face.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="05442507-d5de-4429-8d1c-98d017b2efa0" name="Something Draws Near">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Fellowship or Maneuver: Exert an Elf to discard an [Isengard] possession or [Isengard] artifact.</property>
+         <property name="Lore">”'We have hunted and slain many Orcs in the woods….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="98114031-086c-469e-bd0e-014768f08aab" name="Vilya">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Artifact • Ring"/>
+         <property name="Rarity" value="R"/>
+         <property name="Vitality" value="+1"/>
+         <property name="Text">Bearer must be Elrond. Maneuver: Exert Elrond twice and spot a Shadow condition to return that condition to its owner's hand.</property>
+         <property name="Lore">“Upon his finger was a ring of gold with a great blue stone, Vilya, mightiest of the Three.”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="7fbafac5-7ab6-4d85-afa6-c2ac3562f6b6" name="Voice of Nimrodel">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Tale. Skirmish: Exert an Elf at a river or forest to cancel a skirmish involving that Elf.</property>
+         <property name="Lore">”'Beside the falls of Nimrodel, / By water clear and cool, / Her voice as falling silver fell / Into the shining pool.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="66bf69ba-5ed4-4d10-a864-045a533aa509" name="Betrayal of Isengard">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gandalf"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Plays to your support area. Each time an opponent draws a card (or takes a card into hand) during the Shadow phase, you may remove (1). Maneuver: Exert Gandalf to wound Saruman twice.</property>
+         <property name="Lore">”'There is only one Lord of the Ring.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="0bfb5b47-49c9-4b4c-bd88-0f4798d9f65e" name="Deep in Thought">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gandalf"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Spell. Maneuver: Spot Gandalf and 4 twilight tokens to discard all Shadow conditions.</property>
+         <property name="Lore">“He was… trying to recall every memory of his former journey in the Mines, and considering anxiously the next course that he should take….”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="6f515799-9b23-4bd0-8bc2-ab14af1da864" name="Depart Silently">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gandalf"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Stealth. Maneuver: At sites 1 to 5, spot Gandalf to prevent Hobbits from being assigned to skirmishes until the regroup phase. At any other site, spot Gandalf to make a Hobbit strength +3 until the regroup phase.</property>
+         <property name="Lore">”'Be careful, both of you.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="3cd1c2b3-bfd1-47ba-8b10-481700646beb" name="Fireworks">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gandalf"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Spell. Fellowship: Spot Gandalf to shuffle up to 2 [Gandalf] or up to 2 [Shire] cards from your discard pile into your draw deck.</property>
+         <property name="Lore">”'The finest rockets ever seen: / they burst in stars of blue and green….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="b9a02509-8492-4b5d-85c8-c8dee4a76f50" name="His First Serious Check">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gandalf"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Maneuver: Spot Gandalf to reveal a card at random from an opponent's hand. You may add (X) to discard that card, where X is the twilight cost of the card revealed.</property>
+         <property name="Lore">”…a false turn now might be disastrous.”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="0271aa28-3feb-430b-8d08-933010902a55" name="Narya">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gandalf"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Artifact • Ring"/>
+         <property name="Rarity" value="R"/>
+         <property name="Vitality" value="+1"/>
+         <property name="Text">Bearer must be Gandalf. At the start of each of your turns, you may add (3) to remove a burden.</property>
+         <property name="Lore">”'For this is the Ring of Fire, and with it you may rekindle hearts in a world that grows chill.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="cfc1765d-c580-4037-bd4f-1ad8f37028fb" name="Trust Me as You Once Did">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gandalf"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Plays to your support area. Skirmish: Exert Gandalf to make a companion strength +1 for each companion with the Gandalf signet you can spot (limit +3).</property>
+         <property name="Lore">”'Do not take me for some conjurer of cheap tricks! I am not trying to rob you. I am trying to help you.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="c9562890-88d7-4bea-9dec-aa8bff6c5dc5" name="Unknown Perils">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gandalf"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Plays to your support area. Response: If a companion is about to take a wound, spot 4 twilight tokens and exert Gandalf to prevent that wound.</property>
+         <property name="Lore">“Suddenly he stopped as if listening. Frodo became aware that all was very quiet, inside and outside.”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="ef4f7aa1-8a05-4849-8f1c-43d36032a966" name="Answering the Cries">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Plays to your support area. Skirmish: Discard a [Gondor] tale from hand to make a [Gondor] companion strength +2.</property>
+         <property name="Lore">“Drawing his bright sword and crying Elendil! Elendil! he crashed through the trees.”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="cc7e5fdb-40d8-42a8-8f54-524c7d08462d" name="Aragorn">
+         <property name="Subname" value="Heir to the White City"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Companion • Man"/>
+         <property name="Rarity" value="R"/>
+         <property name="Strength" value="8"/>
+         <property name="Vitality" value="4"/>
+         <property name="Resistance" value="6"/>
+         <property name="Signet" value="Frodo"/>
+         <property name="Text">Ranger. Each time the fellowship moves during the fellowship phase, remove (2).</property>
+         <property name="Lore">”'…his hood was cast back, and his dark hair was blowing in the wind, a light was in his eyes: a king returning from exile in his own land.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="f97de4c9-10a7-4771-8981-5c2fcfe78b8b" name="Banner of the White Tree">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Tale. Maneuver: Exert a [Gondor] companion to make that companion strength +3 and defender +1 until the regroup phase.</property>
+         <property name="Lore">”'Many Elves and many mighty Men, and many of their friends, had perished in the war.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="56dba8e5-0035-446f-bd52-44a37209fbf4" name="Citadel of Minas Tirith">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Plays to your support area. You may heal a [Gondor] companion at the end of each turn during which no companion or ally lost a skirmish.</property>
+         <property name="Lore">”'One day our paths will lead us there, and the Tower guards shall take up the call - The Lords of Gondor have returned.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="2e4f02e0-a1b5-403c-9f9d-2fff0aeaa8e2" name="Gondor Bowmen">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Tale. Plays to your support area. Archery: Exert a [Gondor] companion and discard this condition to make the fellowship archery total +2.</property>
+         <property name="Lore">Arrows of the Last Alliance brought death to Sauron's forces.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="0a2b2196-7ed8-46d1-92f7-f865a00ecdd1" name="Horn of Boromir">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Possession"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Bearer must be Boromir. Maneuver: Exert Boromir and spot an ally. Until the regroup phase, that ally is strength +3 and participates in archery fire and skirmishes.</property>
+         <property name="Lore">“On a baldric he wore a great horn tipped with silver….”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="d8118c2d-a78b-46d0-853e-5782c625bc81" name="Might of Numenor">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Tale. Maneuver: Spot a [Gondor] companion to reveal a card at random from an opponent's hand. Heal X companions, where X is the twilight cost of the card revealed.</property>
+         <property name="Lore">”'But the lords of Minas Tirith still fight on….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="0413ff62-e8cc-46b7-9b7c-016e7586f8dc" name="The Shards of Narsil">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Artifact"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Plays to your support area. Fellowship: Stack a [Gondor] card from hand here. Fellowship: Add (1) to take a card stacked here into hand.</property>
+         <property name="Lore">”'…Narsil was broken and its light extinguished, and it had not yet been forged again.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="39a976ce-39aa-4fc8-814f-9a8e0e015cee" name="Some Who Resisted">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Tale. Maneuver: Spot a [Gondor] companion to make the twilight cost of each maneuver event +2.</property>
+         <property name="Lore">”'In the south the realm of Gondor long endured; and for a while its splendour grew….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="a783c8af-065f-46b1-9313-f01f639656ac" name="Still Sharp">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Skirmish: Spot The Shards of Narsil to make a [Gondor] companion strength +3 and damage +1.</property>
+         <property name="Lore">”'The shards of Narsil… the blade that cut the Ring from Sauron's hand.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="a56b9119-6836-468b-b976-9f5d2cfb997b" name="Voice of Rauros">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Maneuver: Exert Aragorn to make each companion with the Aragorn signet damage +1 until the regroup phase.</property>
+         <property name="Lore">“As he ran the cries came louder, but fainter now and desperately the horn was blowing.”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="dadd9afb-4419-4400-8a7d-3129d7114cc0" name="We Must Go Warily">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Response: If the fellowship moves in the regroup phase, exert a [Gondor] companion twice to make each minion's twilight cost +1 until the next regroup phase.</property>
+         <property name="Lore">”'This is the lawn of Parth Galen: a fair place in the summer days of old. Let us hope that no evil has yet come here.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="f301c086-87f5-4320-a14c-01f464965e41" name="Abandoning Reason for Madness">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Shadow: Spot an [Isengard] minion to discard up to 3 cards from hand and draw an equal number of cards.</property>
+         <property name="Lore">”'And why not, Gandalf?… Why not? The Ruling Ring? If we could command that, then the power would pass to us.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="84ebdab9-6691-4c1b-9345-1b0b729bbec9" name="Can You Protect Me From Yourself">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Maneuver: Spot an [Isengard] minion to exhaust Aragorn. The Free Peoples player may add 2 burdens to prevent this.</property>
+         <property name="Lore">”'Where is the Ring?'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="35c93c0d-ed33-4320-a11c-0b0f8013f697" name="Coming for the Ring">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Regroup: Reveal a card at random from the Free Peoples player's hand. Heal X [Isengard] minions, where X is the twilight cost of the card revealed.</property>
+         <property name="Lore">”'This evil cannot be concealed by the power of the Elves….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="f634bf88-348f-415a-bc80-6ac60d06296b" name="A Fell Voice on the Air">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Plays to your support area. Shadow: Exert Saruman to play an [Isengard] weather condition from your discard pile. Its twilight cost is -2.</property>
+         <property name="Lore">”'He's trying to bring down the mountain!'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="7427633b-6d8b-42e2-ae44-257e4db98e9a" name="Hate and Anger">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Shadow: Spot an Uruk-hai and a [Moria] minion to draw 3 cards.</property>
+         <property name="Lore">The frenzy of Uruks is born of the fear of the very Goblins that work the pits.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="67f89781-ced3-4432-a118-06b544bb15b3" name="Hollowing of Isengard">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">To play, spot an [Isengard] Orc. Plays to your support area. Shadow: Discard this condition to add (3).</property>
+         <property name="Lore">”'Rip them all down!'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="bb5a84d9-379c-4b4e-be54-63abed96a498" name="Isengard Axe">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Possession • Hand Weapon"/>
+         <property name="Rarity" value="C"/>
+         <property name="Strength" value="+2"/>
+         <property name="Text">Bearer must be an [Isengard] Orc. When you play this weapon, add (1).</property>
+         <property name="Lore">Axes eat into the forests of Isengard as well as the victims of Saruman's Orcs.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="f61c6782-f609-47f9-b9b9-5ec766e2e84e" name="Isengard Forger">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="4"/>
+         <property name="Strength" value="6"/>
+         <property name="Vitality" value="2"/>
+         <property name="Text">Shadow: Exert this minion to add (1).</property>
+         <property name="Lore">”'I looked on it and saw that, whereas it had once been green and fair, it was now filled with pits and forges.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="b47c5280-cf0d-4b20-9207-25b66948e848" name="Isengard Retainer">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="4"/>
+         <property name="Strength" value="8"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">Regroup: Exert this minion to make the Free Peoples player wound a companion.</property>
+         <property name="Lore">”'…the Eagles of the mountain went far and wide, and they saw many things: the gathering of wolves and the mustering of Orcs….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="663800d9-e476-4201-b9f4-7b1c4c23ba22" name="Isengard Servant">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="3"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="4"/>
+         <property name="Strength" value="7"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">Regroup: Exert this minion to make the Free Peoples player wound a companion.</property>
+         <property name="Lore">The servants of Isengard worked tirelessly to spread the influence of their master.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="7af91229-7816-413d-b47e-9bb2a0a53889" name="Isengard Shaman">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="4"/>
+         <property name="Strength" value="5"/>
+         <property name="Vitality" value="2"/>
+         <property name="Text">Response: If an [Isengard] Orc is about to take a wound, remove (2) to prevent that wound.</property>
+         <property name="Lore">”'Over all his works a dark smoke hung and wrapped itself about the sides of Orthanc.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="6cd5873a-46e4-4ec4-947f-24b6703f1406" name="Isengard Smith">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="4"/>
+         <property name="Strength" value="8"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">Regroup: Exert this minion to discard a weapon (or all Free Peoples possessions if you can spot 5 companions).</property>
+         <property name="Lore">”'No other folk make such a trampling….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="0d463b09-75f4-4f8a-a080-681d1a3b1bb6" name="Isengard Warrior">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="3"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="4"/>
+         <property name="Strength" value="7"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">While you can spot another [Isengard] Orc, no player may use archery special abilities. Regroup:Exert this minion and spot 3 wounds on the Ring-bearer to exert every companion.</property>
+         <property name="Lore">”'There is evil afoot in Isengard, and the West is no longer safe.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="a9f45102-5b04-42f9-8b2a-0beb3ebd4153" name="Isengard Worker">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="4"/>
+         <property name="Strength" value="5"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">Regroup: Exert this minion to make the Free Peoples player wound a companion.</property>
+         <property name="Lore">”'They were Elves once. Taken by the dark powers - tortured and mutilated….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="d259ff4a-42a3-4405-85d7-8e220773443c" name="One of You Must Do This">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Maneuver: Exert an [Isengard] minion to make the Free Peoples player exert X companions, where X is the number of these races you can spot in the fellowship: Dwarf, Elf, Man, and Wizard.</property>
+         <property name="Lore">”'And if we fail, what then? What happens when Sauron takes back what is his?'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="b18c2e8e-fdde-43fd-b31a-f758c625e9b4" name="Orc Commander">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="6"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="R"/>
+         <property name="Site" value="4"/>
+         <property name="Strength" value="11"/>
+         <property name="Vitality" value="4"/>
+         <property name="Text">Each other [Isengard] Orc is strength +1. Regroup: Exert Orc Commander to make the Free Peoples player wound a companion.</property>
+         <property name="Lore">”'It seems their delight to slash and beat down growing things that are not even in their way.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="f7560aef-a307-4b94-8b2b-4021b344e676" name="Orc Overseer">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="5"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="R"/>
+         <property name="Site" value="4"/>
+         <property name="Strength" value="10"/>
+         <property name="Vitality" value="4"/>
+         <property name="Text">Regroup: Exert Orc Overseer twice to exhaust a companion (except the Ring-bearer).</property>
+         <property name="Lore">”'What orders from Mordor, my Lord? What does the Eye command?'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="f2a622ed-a3fa-4b73-a0aa-68dd1b576856" name="Orthanc Berserker">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="5"/>
+         <property name="Type" value="Minion • Uruk-Hai"/>
+         <property name="Rarity" value="R"/>
+         <property name="Site" value="5"/>
+         <property name="Strength" value="11"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">Damage +1. Maneuver: Spot 5 burdens and exert Orthanc Berserker twice to exhaust a companion (except the Ring-bearer).</property>
+         <property name="Lore">The voice of Saruman compels his minions to stop at nothing to earn his favor.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="4bf1afa3-e4bf-4b91-8806-abd3c47cdfa6" name="The Palantir of Orthanc">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Artifact • Palantir"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">To play, spot an [Isengard] minion. Plays to your support area. Shadow: Spot an [Isengard] minion and remove (1) to reveal a card at random from the Free Peoples player's hand. Place that card on top of that player's draw deck.</property>
+         <property name="Lore">”'Seven stars and seven stones….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="9aa89f33-95a3-4432-b025-5f409f4da9db" name="Saruman">
+         <property name="Subname" value="Keeper of Isengard"/>
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Minion • Wizard"/>
+         <property name="Rarity" value="R"/>
+         <property name="Site" value="4"/>
+         <property name="Strength" value="8"/>
+         <property name="Vitality" value="4"/>
+         <property name="Text">Saruman may not take wounds during the archery phase and may not be assigned to a skirmish. Uruk-hai are fierce. Response: If an Uruk-hai is about to take a wound, exert Saruman to prevent that wound.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="fe0d757d-9990-4561-843b-69bd3a8e51bd" name="Saruman">
+         <property name="Subname" value="Servant of the Eye"/>
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Minion • Wizard"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="4"/>
+         <property name="Strength" value="8"/>
+         <property name="Vitality" value="4"/>
+         <property name="Text">Saruman may not take wounds during the archery phase and may not be assigned to a skirmish. Assignment: Exert Saruman to assign an [Isengard] minion to a companion (except the Ring-bearer). That companion may exert to prevent this.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="3d3f61d6-e1cf-4376-8cf1-81bf6c0ae599" name="Servants to Saruman">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Skirmish: Make an [Isengard] Orc strength +2 (or +3 if you have fewer than 3 cards in hand).</property>
+         <property name="Lore">”'This is grievous news concerning Saruman… for we trusted him and he is deep in all our counsels.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="fab0ffc2-35b7-4399-9dcc-00bb42f721dd" name="Tower of Orthanc">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">To play, spot an [Isengard] minion. Plays to your support area. Each time the fellowship moves, you may spot an exhausted companion to add (3).</property>
+         <property name="Lore">””</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="d2ec1438-b42c-4a2a-a6a2-2fe42d08d1fd" name="Trapped and Alone">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Plays to your support area. Each character skirmishing an [Isengard] Orc loses all damage bonuses from weapons.</property>
+         <property name="Lore">”'…I had no chance of escape, and my days were bitter.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="67cd6cd0-2a3a-4146-a996-442ddf870f5f" name="The Trees Are Strong">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Regroup: Discard X [Isengard] Orcs to make the Free Peoples player wound X companions.</property>
+         <property name="Lore">”'Their roots go deep.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="e5c2e7aa-5145-4c29-b24f-64488dc98d0e" name="Uruk Raider">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Minion • Uruk-Hai"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="5"/>
+         <property name="Strength" value="6"/>
+         <property name="Vitality" value="2"/>
+         <property name="Text">Damage +1. While an ally is in the dead pile, this minion is strength +3 and fierce.</property>
+         <property name="Lore">There is no safety where Saruman's emblem is shown.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="2081d4a1-9b9b-49d0-9826-fa2a9d87563d" name="Uruk Ravager">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Isengard"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Minion • Uruk-Hai"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="5"/>
+         <property name="Strength" value="9"/>
+         <property name="Vitality" value="2"/>
+         <property name="Text">Damage +1. When you play this minion, you may spot Saruman to add (2).</property>
+         <property name="Lore">”'…a ruined and terrible form of life.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="3e37f604-213b-4243-9d34-3e8f9566e091" name="Dangerous Gamble">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Moria"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Shadow: Spot a [Moria] minion to reveal a card at random from the Free Peoples player's hand. Add (X), where X is the twilight cost of the card revealed.</property>
+         <property name="Lore">“Almost they began to hope that they would escape.”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="b9e06c7b-bbad-4b58-8ee5-f7d01ffcb241" name="Depths of Moria">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Moria"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">To play, spot a [Moria] Orc. Plays to your support area. Each time the fellowship moves during the regroup phase, add (2).</property>
+         <property name="Lore">”…a great fissure had opened. Out of it a fierce red light came, and now and again flames licked at the brink…. Wisps of dark smoke wavered in the hot air.”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="6e2c194c-d1c5-40ed-8dc1-879605de96b6" name="Hide and Seek">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Moria"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Search. Skirmish: Spot 2 [Shire] companions to make a [Moria] minion damage +1.</property>
+         <property name="Lore">”'Which way shall we go?'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="121c3bc7-30b0-4244-b064-68d34f2a6539" name="Malice">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Moria"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Archery: Spot a [Moria] Orc and a [Sauron] Orc to wound an archer.</property>
+         <property name="Lore">Fueled by Sauron's hatred of living things, Orcs searched for the Ring of Power.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="0dba8dbf-116d-4c68-a58e-fca8edc79890" name="Such a Little Thing">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Moria"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Maneuver: Spot a [Moria] minion to wound Boromir 3 times. The Free Peoples player may discard 2 Free Peoples possessions to prevent this.</property>
+         <property name="Lore">”'Boromir… give the Ring to Frodo.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="5af2bf4a-4e72-4641-aa2c-ea44014fdabc" name="Gates of the Dead City">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Wraith"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">To play, spot a Nazgul. Plays to your support area. Each time a [Wraith] card adds a burden, the Free Peoples player must exert a companion.</property>
+         <property name="Lore">”'…and they took Minas Ithil and abode in it, and they made it into a place of dread….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="0a152397-cf1d-438e-88d1-e5bf981d1213" name="News of Mordor">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Wraith"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Skirmish: Spot an [Isengard] minion to make a Nazgul damage +1.</property>
+         <property name="Lore">”'Build me an army worthy of Mordor.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="b9c95d63-7dac-4a7b-ba7b-f1717dd327bb" name="The Ring Draws Them">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Wraith"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Plays to your support area. Each time the fellowship moves, add (1) for each burden you can spot. At the end of each of your Shadow phases, exert a Nazgul or discard this condition.</property>
+         <property name="Lore">”'If I move I shall be seen and hunted!'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="3375bc25-59c2-48cb-87a1-271bcb887372" name="They Will Never Stop Hunting You">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Wraith"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Maneuver: Spot a Nazgul to reveal a card at random from the Free Peoples player's hand. Exert a companion bearing a ranged weapon X times, where X is the twilight cost of the card revealed.</property>
+         <property name="Lore">”'They're looking for Baggins, and if they mean well, then I'm a hobbit.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="e87070a3-edf1-47de-88cf-85eaef25ca94" name="Too Great and Terrible">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Wraith"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Maneuver: Spot a Nazgul to wound Gandalf twice. The Free Peoples player may discard 2 [Gandalf] cards from hand to prevent this.</property>
+         <property name="Lore">“His eyes flashed and his face was lit as by a fire within. 'Do not tempt me! For I do not wish to become like the Dark Lord himself.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="bb325d66-dae3-4afa-b1a3-55ed761246e1" name="Ulaire Otsea">
+         <property name="Subname" value="Ringwraith in Twilight"/>
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Wraith"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Minion • Nazgul"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="3"/>
+         <property name="Strength" value="9"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">Twilight. Each time Ulaire Otsea wins a skirmish, you may exert him to transfer Blade Tip from your support area to the Ring-bearer.</property>
+         <property name="Lore">”'…at all times they smell the blood of living things, desiring and hating it.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="a3865715-5e31-47e3-8db7-a3b14eecedda" name="The Dark Lord Advances">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Regroup: Exert a [Sauron] minion to reveal a card at random from the Free Peoples player's hand. That player must discard X cards from hand, where X is the twilight cost of the card revealed.</property>
+         <property name="Lore">”'A power was there that we have not felt before.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="5f15a279-f6df-4b29-8aee-4f67ba2c4d24" name="Get Off the Road">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Search. Shadow: Spot a [Sauron] minion and a Nazgul to make the Free Peoples player discard a card from the top of his or her deck for each burden you can spot.</property>
+         <property name="Lore">”'The Morgul-lord and his Black Riders have come forth. War is preparing!'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="eef8d98f-4d07-4e01-8ced-fb42ea7bd81e" name="Gleaming in the Snow">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Regroup: Exert a [Sauron] Orc and spot a [Gondor] companion to add a burden.</property>
+         <property name="Lore">”'A Ring of Power looks after itself…. It may slip off treacherously, but its keeper never abandons it.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="8abf16b4-c338-4be5-896a-857f76c7465b" name="Hand of Sauron">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Maneuver: Exert a [Sauron] minion to make the Free Peoples player discard a card at random from his or her hand.</property>
+         <property name="Lore">”'The power of the Ring could not be undone.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="17dc0ba6-2633-496c-bcc3-46c8735ca4be" name="His Cruelty and Malice">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Plays to your support area. Regroup: Exert a [Sauron] minion to make the Free Peoples player discard the top card from his or her draw deck.</property>
+         <property name="Lore">”'Into this Ring he poured his cruelty, his malice, and his will to dominate all life.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="25dfc177-b1ab-4e41-b825-058419ec38a1" name="Massing in the East">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Regroup: Exert a [Sauron] minion to discard a card from the top of the Free Peoples player's draw deck for each of these races you can spot in the fellowship: Dwarf, Elf, Man, and Wizard.</property>
+         <property name="Lore">”'The power of the Black Land grows….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="97aa27b2-9321-46c8-8201-e038ae8abf66" name="Morgul Slayer">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="R"/>
+         <property name="Site" value="6"/>
+         <property name="Strength" value="7"/>
+         <property name="Vitality" value="2"/>
+         <property name="Text">Regroup: Exert this minion to wound a companion (except the Ring-bearer).</property>
+         <property name="Lore">”'Sauron was diminished, but not destroyed. His Ring was lost but not unmade.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="e567f757-cd33-4618-b004-ac9e5fed763f" name="Orc Butcher">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="6"/>
+         <property name="Strength" value="6"/>
+         <property name="Vitality" value="2"/>
+         <property name="Text">For each [Sauron] condition you can spot, this minion is strength +1.</property>
+         <property name="Lore">”'And yet we see that Sauron can torture and destroy the very hills.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="5e04f399-913e-4bb1-9afe-2b2418828cb1" name="Orc Guard">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="6"/>
+         <property name="Strength" value="5"/>
+         <property name="Vitality" value="2"/>
+         <property name="Text">Maneuver: Exert this minion and discard your [Sauron] condition to discard a Free Peoples condition.</property>
+         <property name="Lore">The malice of the Dark Tower thins the hopes of Men.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="b3ee39d8-f137-41c1-98cb-e0fd7a9e42a5" name="Orc Pillager">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="6"/>
+         <property name="Strength" value="10"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">For each Free Peoples card borne by a character this minion is skirmishing, that character is strength -1.</property>
+         <property name="Lore">Weapons of the West are often powerless against the threat of Sauron.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="6833257a-da4b-4f74-9938-466d03b62aa7" name="Orc Slayer">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="6"/>
+         <property name="Strength" value="5"/>
+         <property name="Vitality" value="2"/>
+         <property name="Text">Regroup: Exert this minion to wound a companion (except the Ring-bearer).</property>
+         <property name="Lore">“For it is a long tale, full of deeds great and terrible….”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="acdc82dc-aa71-453c-b856-f9d262fdfd24" name="Orc Swordsman">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="3"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="6"/>
+         <property name="Strength" value="9"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">While this minion bears a weapon, he is strength +2.</property>
+         <property name="Lore">”'Many evil things there are that your strong walls and bright swords do not stay.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="5561069b-d3aa-402f-bd61-33393ff9058c" name="Orc Trooper">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="R"/>
+         <property name="Site" value="6"/>
+         <property name="Strength" value="7"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">For each card in your hand, this minion is strength +1.</property>
+         <property name="Lore">The Dark Lord's power grows in unseen ways.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="d46ff82a-774b-4752-9590-8882cd7c06b7" name="Orc Veteran">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="4"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="6"/>
+         <property name="Strength" value="10"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">Skirmish: Discard your [Sauron] condition to make a character skirmishing this minion strength -1.</property>
+         <property name="Lore">”'There was war, and the land was laid waste….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="9f0dd46c-34ca-4292-883b-e2f593dadf9f" name="Orc Warrior">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="3"/>
+         <property name="Type" value="Minion • Orc"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="6"/>
+         <property name="Strength" value="9"/>
+         <property name="Vitality" value="3"/>
+         <property name="Text">Maneuver: Exert this minion and discard your [Sauron] condition to make the Free Peoples player discard the top 2 cards from his or her draw deck.</property>
+         <property name="Lore">“Orcs were multiplying again in the mountains.”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="29cfcb4d-6feb-404e-acbf-85fa06fd6aa3" name="Our List of Allies Grows Thin">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">To play, exert a [Sauron] minion. Plays to your support area. Each time the fellowship moves, add (1) for each ally you can spot.</property>
+         <property name="Lore">”'The enemy is moving…. His eye is fixed on Rivendell. And Saruman, you tell me, has betrayed us.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="ae4df81e-d1a3-4164-a1b1-a4b38d4a7b89" name="Terrible as the Dawn">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Maneuver: Spot a [Sauron] minion to wound Galadriel 3 times. The Free Peoples player may discard 2 Elves to prevent this.</property>
+         <property name="Lore">”'In the place of the Dark Lord, you would have a Queen… All shall love me and despair!'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="ccca4691-776a-498d-b650-74ce4f224ab0" name="Tower of Barad-dur">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">To play, exert a [Sauron] minion. Plays to your support area. Each time the fellowship moves, the Free Peoples player must discard a card from hand.</property>
+         <property name="Lore">“The Dark Tower had been rebuilt, it was said. From there the power was spreading….”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="ce88749e-1ceb-4c66-b4ea-1ccc98dac674" name="Why Shouldn">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">Maneuver: Spot a [Sauron] minion to discard Bilbo. The Free Peoples player may discard 2 Free Peoples conditions to prevent this.</property>
+         <property name="Lore">”'No, wait, it's here in my pocket. Isn't that… isn't that odd now?'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="d4e267f0-dd76-408d-a978-08244fa449e8" name="Bill the Pony">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Shire"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Possession"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Bearer must be a Hobbit companion. The Shadow number of each site is -1. Discard Bill the Pony when at an underground site.</property>
+         <property name="Lore">”'That animal can nearly talk…. He gave me a look as plain as Mr. Pippin could speak….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="9a51ca34-c15c-4743-9fbe-159ae4c6fee7" name="Frodo">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Shire"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Possession • Pipe"/>
+         <property name="Rarity" value="U"/>
+         <property name="Text">Bearer must be Frodo. Fellowship: Discard a pipeweed possession and spot X pipes to heal a companion with the Frodo signet X times.</property>
+         <property name="Lore">”'All the same, observations that I have made on my own many journeys south have convinced me that the weed itself is not native to our parts of the world.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="cb4b6da6-60e8-4e18-8008-4483d6bd9568" name="Frying Pan">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Shire"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Possession • Hand Weapon"/>
+         <property name="Rarity" value="C"/>
+         <property name="Strength" value="+1"/>
+         <property name="Text">Bearer must be a Hobbit. Skirmish: Exert bearer to wound an Orc he or she is skirmishing.</property>
+         <property name="Lore">”'I think I'm getting the hang of this!'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="333c6249-f2fd-45da-89e2-e56865248744" name="Meant to Be Alone">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Shire"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Fellowship: Spot a Hobbit companion (except the Ring-bearer) to reveal a card at random from an opponent's hand. Remove (X), where X is the twilight cost of the card revealed.</property>
+         <property name="Lore">”'You are a Ring-bearer, Frodo… to bear a Ring of Power is to be alone.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="8ded54ee-814f-4271-9688-2a0de27ba43e" name="Melilot Brandybuck">
+         <property name="Subname" value="Merry Dancer"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Shire"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Ally • Home 1 • Hobbit"/>
+         <property name="Rarity" value="R"/>
+         <property name="Site" value="1"/>
+         <property name="Strength" value="2"/>
+         <property name="Vitality" value="2"/>
+         <property name="Text">Response: If a burden is about to be added by a Shadow card, exert Melilot Brandybuck to prevent that burden.</property>
+         <property name="Lore">“Master Everard Took and Miss Melilot Brandybuck got on a table and with bells in their hands began to dance the Springle-ring: a pretty dance, but rather vigorous.”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="0f8cb479-92db-4acc-b1c2-0dcb24952cdb" name="Old Noakes">
+         <property name="Subname" value="Purveyor of Wisdoms"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Shire"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Ally • Home 1 • Hobbit"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="1"/>
+         <property name="Strength" value="1"/>
+         <property name="Vitality" value="2"/>
+         <property name="Text">Each time a Shadow card makes you discard a card from hand, you may also discard a minion or Shadow condition.</property>
+         <property name="Lore">”'There's been some strange folk crossing the Shire - Dwarves and others of a less than savoury nature.'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="5ce5fee1-5186-4b84-9cf6-4565dc886e33" name="Seek and Hide">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Shire"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Stealth. Skirmish: Spot 2 [Shire] companions to make a minion lose all damage bonuses.</property>
+         <property name="Lore">A Hobbit's best friends in Moria are the very pillars that support its structure.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="357b369d-ccb5-4f9b-b9ff-1781aba58295" name="The Shire Countryside">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Shire"/>
+         <property name="Twilight" value="1"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="R"/>
+         <property name="Text">To play, spot 2 [Shire] companions. Plays to your support area. Each time you remove a burden (except by a Hobbit's game text), you may heal a companion.</property>
+         <property name="Lore">”'Life in the wide world goes on… scarcely even aware of the existence of hobbits….'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="e118fcb8-a6b4-4023-8d4d-a65b6101905c" name="Three Monstrous Trolls">
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Shire"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Condition"/>
+         <property name="Rarity" value="C"/>
+         <property name="Text">Tale. Plays to your support area. Response: If a Shadow card is about to add any number of twilight tokens, exert a Hobbit ally to prevent this.</property>
+         <property name="Lore">”'Great big nasty twenty foot high smelly things _- and they're arguing… arguing about how they were going to cook us!'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="ef47cd26-2923-443c-b3b7-fa76e51abb0b" name="Caras Galadhon">
+         <property name="Twilight" value="3"/>
+         <property name="Type" value="Site"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="6"/>
+         <property name="Text">Forest. Sanctuary. While the fellowship is at Caras Galadhon, no more than one minion may be assigned to each skirmish.</property>
+         <property name="Direction" value="left"/>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="c7414953-a279-41d0-a750-0945547541de" name="Eregion Hills">
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Site"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="4"/>
+         <property name="Text">When the fellowship moves to Eregion Hills, add a burden.</property>
+         <property name="Direction" value="right"/>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="8b77f4a5-4972-44ca-822a-26465ab21a00" name="Gates of Argonath">
+         <property name="Twilight" value="8"/>
+         <property name="Type" value="Site"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="8"/>
+         <property name="Text">River. Maneuver events may not be played.</property>
+         <property name="Direction" value="right"/>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="624e2205-922b-4150-9a2e-fbdcb6684559" name="The Great River">
+         <property name="Twilight" value="6"/>
+         <property name="Type" value="Site"/>
+         <property name="Rarity" value="C"/>
+         <property name="Site" value="7"/>
+         <property name="Text">River. While the fellowship is at The Great River, cards may not be played from draw decks or discard piles.</property>
+         <property name="Direction" value="right"/>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="7eca250b-8588-4372-941f-fac2ef1e9332" name="House of Elrond">
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Site"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="3"/>
+         <property name="Text">Sanctuary. When the fellowship moves to House of Elrond, the Free Peoples player may spot 2 Elves to remove a burden.</property>
+         <property name="Direction" value="right"/>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="5b75021c-047a-4910-adef-a6ad065d48aa" name="Wastes of Emyn Muil">
+         <property name="Twilight" value="9"/>
+         <property name="Type" value="Site"/>
+         <property name="Rarity" value="U"/>
+         <property name="Site" value="9"/>
+         <property name="Text">Maneuver: Spot 4 companions and exert your [Isengard] Orc to make the Free Peoples player wound a companion.</property>
+         <property name="Direction" value="left"/>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="40958263-ed0a-4743-ae30-78a726135ad0" name="Legolas">
+         <property name="Subname" value="Son of Thranduil"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Companion • Elf"/>
+         <property name="Rarity" value="P"/>
+         <property name="Strength" value="6"/>
+         <property name="Vitality" value="3"/>
+         <property name="Resistance" value="6"/>
+         <property name="Signet" value="Aragorn"/>
+         <property name="Text">Archer. While Legolas is at a river or forest, add 1 to the fellowship archery total.</property>
+         <property name="Lore">”'Praised be the bow of Galadriel, and the hand and eye of Legolas!… That was a mighty shot in the dark, my friend!'”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="b64fbc0b-8cab-4269-8044-a48d34b7a2b4" name="Boromir">
+         <property name="Subname" value="Defender of Minas Tirith"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Gondor"/>
+         <property name="Twilight" value="3"/>
+         <property name="Type" value="Companion • Man"/>
+         <property name="Rarity" value="P"/>
+         <property name="Strength" value="7"/>
+         <property name="Vitality" value="3"/>
+         <property name="Resistance" value="6"/>
+         <property name="Signet" value="Gandalf"/>
+         <property name="Text">Ranger. Fellowship: Add (2) to heal Boromir.</property>
+         <property name="Lore">”…seated a little apart was a tall man with a fair and noble face… proud and stern of glance.”</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="98111b7e-2bc0-41e9-b84b-8bcb97c112d4" name="Arwen">
+         <property name="Subname" value="Elven Rider"/>
+         <property name="Kind" value="Free People"/>
+         <property name="Culture" value="Elven"/>
+         <property name="Twilight" value="2"/>
+         <property name="Type" value="Companion • Elf"/>
+         <property name="Rarity" value="M"/>
+         <property name="Strength" value="6"/>
+         <property name="Vitality" value="3"/>
+         <property name="Resistance" value="6"/>
+         <property name="Signet" value="Frodo"/>
+         <property name="Text">Ranger. Response: If the Ring-bearer is about to take a wound, discard 3 cards from hand to prevent that wound.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+      <card id="0680dc18-d2d7-448a-8ac8-6942781f67fb" name="Hand of Sauron">
+         <property name="Kind" value="Shadow"/>
+         <property name="Culture" value="Sauron"/>
+         <property name="Twilight" value="0"/>
+         <property name="Type" value="Event"/>
+         <property name="Rarity" value="M"/>
+         <property name="Text">Maneuver: Exert a [Sauron] minion to make the Free Peoples player discard a card at random from his or her hand.</property>
+         <property name="Block" value="Fellowship Movie"/>
+         <property name="Ring-Bearer" value="False"/>
+      </card>
+   </cards>
+</set>
