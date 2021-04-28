@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="8ec30131-dd27-4e05-adf6-d208be06a26f" name="Promotional" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="8ec30131-dd27-4e05-adf6-d208be06a26f" name="Promotional" version="1.0">
    <cards>
       <card id="c97fd04e-ba34-417b-a692-fa8aa0276e73" name="The Lord of the Rings">
          <property name="Subname" value="Trading Card Game"/>

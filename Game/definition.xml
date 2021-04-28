@@ -2,7 +2,7 @@
 <game name="The Lord of the Rings - The Trading Card Game"
       description="The Lord of the Rings TCG
       &#xd;&#xd;&#xd;Icons made by Freepik/srip from www.flaticon.com"
-      version="1.1.4.0"
+      version="1.2.0.0"
       id="98d26dd0-7ff6-4d2c-a023-0bc916d3f001"
       tags="LotR"
       setsurl="http://www.example.org"
@@ -13,191 +13,191 @@
       scriptVersion="3.1.0.2"
       markersize="15">
 
-  <scripts>
-    <script src="Scripts/hand_actions.py" />
-    <script src="Scripts/pile_actions.py" />
-    <script src="Scripts/table_actions.py" />
-    <script src="Scripts/automation.py" />
-  </scripts>
+    <scripts>
+        <script src="Scripts/hand_actions.py"/>
+        <script src="Scripts/pile_actions.py"/>
+        <script src="Scripts/table_actions.py"/>
+        <script src="Scripts/automation.py"/>
+    </scripts>
 
-  <events>
-    <event name="OnPlayerGlobalVariableChanged" action="on_player_global_cariable_changed" />
-    <event name="OnDeckLoaded" action="deck_loaded" />
-  </events>
+    <events>
+        <event name="OnPlayerGlobalVariableChanged" action="on_player_global_variable_changed"/>
+        <event name="OnDeckLoaded" action="on_deck_loaded"/>
+    </events>
 
-  <sounds />
+    <sounds/>
 
-  <fonts />
+    <fonts/>
 
-  <symbols>
-  </symbols>
+    <symbols>
+    </symbols>
 
-  <markers>
-    <marker name="Damage" id="ca152f06-41cc-476a-be27-0bdd57f4b710"
-            src="Resources/damage.png" />
-    <marker name="Burden" id="ad150c1d-4534-456b-a4bd-58bf67a26c3b"
-            src="Resources/burden.png" />
-    <marker name="Twilight" id="e4fe7c68-73f2-4ea6-a311-f537088965eb"
-            src="Resources/twilight.png" />
-  </markers>
+    <markers>
+        <marker name="Damage" id="ca152f06-41cc-476a-be27-0bdd57f4b710"
+                src="Resources/damage.png"/>
+        <marker name="Burden" id="ad150c1d-4534-456b-a4bd-58bf67a26c3b"
+                src="Resources/burden.png"/>
+        <marker name="Twilight" id="e4fe7c68-73f2-4ea6-a311-f537088965eb"
+                src="Resources/twilight.png"/>
+    </markers>
 
-  <proxygen definitionsrc="Proxies/proxydef.xml" />
+    <proxygen definitionsrc="Proxies/proxydef.xml"/>
 
-  <phases>
-    <phase name="Fellowship" icon="Resources/deck.png" />
-    <phase name="Shadow" icon="Resources/deck.png" />
-    <phase name="Maneuver" icon="Resources/deck.png" />
-    <phase name="Archery" icon="Resources/deck.png" />
-    <phase name="Assignment" icon="Resources/deck.png" />
-    <phase name="Skirmish" icon="Resources/deck.png" />
-    <phase name="Regroup" icon="Resources/deck.png" />
-  </phases>
+    <phases>
+        <phase name="Fellowship" icon="Resources/deck.png"/>
+        <phase name="Shadow" icon="Resources/deck.png"/>
+        <phase name="Maneuver" icon="Resources/deck.png"/>
+        <phase name="Archery" icon="Resources/deck.png"/>
+        <phase name="Assignment" icon="Resources/deck.png"/>
+        <phase name="Skirmish" icon="Resources/deck.png"/>
+        <phase name="Regroup" icon="Resources/deck.png"/>
+    </phases>
 
-  <documents>
-    <document name="Game Rules" icon="Resources/deck.png" src="Documents/Comprehensive Rule Book.pdf"/>
-  </documents>
+    <documents>
+        <document name="Game Rules" icon="Resources/deck.png" src="Documents/Comprehensive Rule Book.pdf"/>
+    </documents>
 
-  <gameModes />
+    <gameModes/>
 
-  <globalvariables />
+    <globalvariables/>
 
-  <card front="Resources/card.jpg" back="Resources/card.jpg"
-        width="63" height="88" cornerRadius="2">
-    <property name="Subname" type="String" />
-    <property name="Kind" type="String" textKind="Enum" />
-    <property name="Culture" type="String" textKind="Enum" />
-    <property name="Twilight" type="Integer" />
-    <property name="Type" type="String" textKind="Enum" />
-    <property name="Rarity" type="String" textKind="Enum" />
-    <property name="Site" type="String" />
-    <property name="Strength" type="Integer" />
-    <property name="Vitality" type="Integer" />
-    <property name="Resistance" type="Integer" />
-    <property name="Signet" type="String" textKind="Enum" />
-    <property name="Text" type="String"/>
-    <property name="Lore" type="String" />
-    <property name="Direction" type="String" textKind="Enum" />
-    <property name="Ring-Bearer" type="String" />
-    <property name="Block" type="String" />
-    <size name="SiteCard"
-          front="Resources/card.jpg" back="Resources/card_wide.jpg"
-          width="88" height="63" cornerRadius="2" />
-  </card>
+    <card front="Resources/card.jpg" back="Resources/card.jpg"
+          width="63" height="88" cornerRadius="2">
+        <property name="Subname" type="String"/>
+        <property name="Kind" type="String" textKind="Enum"/>
+        <property name="Culture" type="String" textKind="Enum"/>
+        <property name="Twilight" type="Integer"/>
+        <property name="Type" type="String" textKind="Enum"/>
+        <property name="Rarity" type="String" textKind="Enum"/>
+        <property name="Site" type="String"/>
+        <property name="Strength" type="Integer"/>
+        <property name="Vitality" type="Integer"/>
+        <property name="Resistance" type="Integer"/>
+        <property name="Signet" type="String" textKind="Enum"/>
+        <property name="Text" type="String"/>
+        <property name="Lore" type="String"/>
+        <property name="Direction" type="String" textKind="Enum"/>
+        <property name="Ring-Bearer" type="String"/>
+        <property name="Block" type="String"/>
+        <size name="SiteCard"
+              front="Resources/card.jpg" back="Resources/card_wide.jpg"
+              width="88" height="63" cornerRadius="2"/>
+    </card>
 
-  <table name="Middle-Earth" visibility="undefined"
-         width="800" height="650"
-         background="Resources/background.jpg" backgroundStyle="uniformToFill">
-      <cardaction menu="Add Default Token" shortcut="Up" execute="add_general" />
-      <cardaction menu="Remove Default Token" shortcut="Down" execute="remove_general" />
-    <cardactions menu="Add...">
-      <cardaction menu="Damage"
-                  shortcut="f1"
-                  execute="add_damage" />
-      <cardaction menu="Burden"
-                  shortcut="f2"
-                  execute="add_burden" />
-      <cardaction menu="Twilight"
-                  shortcut="f3"
-                  execute="add_twilight" />
-      <cardaction menu="Other..."
-                  execute="add_other" />
-    </cardactions>
-    <cardactions menu="Remove...">
-      <cardaction menu="Damage"
-                  shortcut="shift+f1"
-                  execute="remove_damage" />
-      <cardaction menu="Burden"
-                  shortcut="shift+f2"
-                  execute="remove_burden" />
-	  <cardaction menu="Twilight"
-                  shortcut="shift+f3"
-                  execute="remove_twilight" />
-    </cardactions>
-    <!-- standard card actions -->
-    <cardactions menu="Change Cards">
-      <cardaction menu="Rotate Sideways/Upright"
-                  batchExecute="rotate_cards" />
-      <cardaction menu="Flip Face Up/Down"
-                  shortcut="ctrl+f"
-                  batchExecute="flip_cards" />
-      <cardaction menu="Add/Remove Highlight"
-                  shortcut="ctrl+A"
-                  batchExecute="highlight_cards" />
-    </cardactions>
-    <!-- standard table actions -->
-    <groupactions menu="Make a Decision">
-      <groupaction menu="Flip a Coin"
-                   execute="flip_coin" />
-      <groupaction menu="Roll a 6-sided Die"
-                   execute="roll_d6" />
-    </groupactions>
-    <groupaction menu="Bid Burdens for First Player" execute="bid_burdens" showIf="notBid"/>
-  </table>
+    <table name="Middle-Earth" visibility="undefined"
+           width="800" height="650"
+           background="Resources/background.jpg" backgroundStyle="uniformToFill">
+        <cardaction menu="Add Default Token" shortcut="Up" execute="add_default_marker"/>
+        <cardaction menu="Remove Default Token" shortcut="Down" execute="remove_default_marker"/>
+        <cardactions menu="Add...">
+            <cardaction menu="Damage"
+                        shortcut="f1"
+                        execute="add_damage"/>
+            <cardaction menu="Burden"
+                        shortcut="f2"
+                        execute="add_burden"/>
+            <cardaction menu="Twilight"
+                        shortcut="f3"
+                        execute="add_twilight"/>
+            <cardaction menu="Other..."
+                        execute="add_other"/>
+        </cardactions>
+        <cardactions menu="Remove...">
+            <cardaction menu="Damage"
+                        shortcut="shift+f1"
+                        execute="remove_damage"/>
+            <cardaction menu="Burden"
+                        shortcut="shift+f2"
+                        execute="remove_burden"/>
+            <cardaction menu="Twilight"
+                        shortcut="shift+f3"
+                        execute="remove_twilight"/>
+        </cardactions>
+        <!-- standard card actions -->
+        <cardactions menu="Change Cards">
+            <cardaction menu="Rotate Sideways/Upright"
+                        batchExecute="rotate_cards"/>
+            <cardaction menu="Flip Face Up/Down"
+                        shortcut="ctrl+f"
+                        batchExecute="flip_cards"/>
+            <cardaction menu="Add/Remove Highlight"
+                        shortcut="ctrl+A"
+                        batchExecute="highlight_cards"/>
+        </cardactions>
+        <!-- standard table actions -->
+        <groupactions menu="Make a Decision">
+            <groupaction menu="Flip a Coin"
+                         execute="flip_coin"/>
+            <groupaction menu="Roll a 6-sided Die"
+                         execute="roll_d6"/>
+        </groupactions>
+        <groupaction menu="Bid Burdens for First Player" execute="bid_burdens"/>
+    </table>
 
-  <player summary="Hand:{#Hand} | Threats:{#Threats}">
-    <counter name="Threats" default="0" icon="Resources/threat.png" />
-	<group name="Hand" viewState="expanded"
-           visibility="me"
-           ordered="False"
-           shortcut="ctrl+H"
-           icon="Resources/hand.png">
-      <cardaction menu="Discard Card"
-                  shortcut="del"
-                  execute="discard_card" />
-      <groupaction menu="Randomly Discard a Card"
-                   execute="discard_card_at_random" />
-    </group>
-    <group name="Deck" viewState="pile"
-           visibility="none"
-           ordered="True"
-           icon="Resources/deck.png">
-       <groupaction menu="Draw"
-                    shortcut="ctrl+D" default="True"
-                    execute="draw_card" />
-       <groupaction menu="Draw X Cards"
-                    shortcut="ctrl+shift+D"
-                    execute="draw_cards" />
-       <groupaction menu="Shuffle"
-                    shortcut="ctrl+S"
-                    execute="shuffle" />
-    </group>
-    <group name="Adventure Deck" viewState="pile"
-           visibility="me"
-           ordered="False"
-           icon="Resources/deck.png">
-    </group>
-    <group name="Discard" viewState="collapsed"
-           visibility="all"
-           ordered="False"
-           shortcut="del"
-           icon="Resources/discard.png">
-       <groupaction menu="Move All Cards to Deck"
-                    execute="allToDeck" />
-    </group>
-    <group name="Dead" viewState="collapsed"
-           visibility="all"
-           icon="Resources/dead.png">
-    </group>
-    <group name="Side-Deck" viewState="collapsed"
-           visibility="me"
-           ordered="False"
-           icon="Resources/deck.png">
-    </group>
-    <globalvariable name="burdenBid" value="999" />
-    <globalvariable name="deckLoaded" value="No" />
-  </player>
+    <player summary="Hand:{#Hand} | Threats:{#Threats}">
+        <counter name="Threats" default="0" icon="Resources/threat.png"/>
+        <group name="Hand" viewState="expanded"
+               visibility="me"
+               ordered="False"
+               shortcut="ctrl+H"
+               icon="Resources/hand.png">
+            <cardaction menu="Discard Card"
+                        shortcut="del"
+                        execute="discard_card"/>
+            <groupaction menu="Randomly Discard a Card"
+                         execute="discard_card_at_random"/>
+        </group>
+        <group name="Deck" viewState="pile"
+               visibility="none"
+               ordered="True"
+               icon="Resources/deck.png">
+            <groupaction menu="Draw"
+                         shortcut="ctrl+D" default="True"
+                         execute="draw_card"/>
+            <groupaction menu="Draw X Cards"
+                         shortcut="ctrl+shift+D"
+                         execute="draw_cards"/>
+            <groupaction menu="Shuffle"
+                         shortcut="ctrl+S"
+                         execute="shuffle"/>
+        </group>
+        <group name="Adventure Deck" viewState="pile"
+               visibility="me"
+               ordered="False"
+               icon="Resources/deck.png">
+        </group>
+        <group name="Discard" viewState="collapsed"
+               visibility="all"
+               ordered="False"
+               shortcut="del"
+               icon="Resources/discard.png">
+            <groupaction menu="Move All Cards to Deck"
+                         execute="allToDeck"/>
+        </group>
+        <group name="Dead" viewState="collapsed"
+               visibility="all"
+               icon="Resources/dead.png">
+        </group>
+        <group name="Side-Deck" viewState="collapsed"
+               visibility="me"
+               ordered="False"
+               icon="Resources/deck.png">
+        </group>
+        <globalvariable name="burdenBid" value="999"/>
+        <globalvariable name="deckLoaded" value="No"/>
+    </player>
 
-  <shared />
+    <shared/>
 
-  <deck>
-    <section name="The One Ring" group="Hand" />
-    <section name="Adventure Deck" group="Adventure Deck" />
-    <section name="Free People - Companions" group="Deck" />
-    <section name="Free People - Allies" group="Deck" />
-    <section name="Free People - Possessions" group="Deck" />
-    <section name="Free People - Conditions" group="Deck" />
-    <section name="Free People - Events" group="Deck" />
-    <section name="Shadow" group="Deck" />
-    <section name="Side-Deck" group="Side-Deck" />
-  </deck>
+    <deck>
+        <section name="The One Ring" group="Hand"/>
+        <section name="Adventure Deck" group="Adventure Deck"/>
+        <section name="Free People - Companions" group="Deck"/>
+        <section name="Free People - Allies" group="Deck"/>
+        <section name="Free People - Possessions" group="Deck"/>
+        <section name="Free People - Conditions" group="Deck"/>
+        <section name="Free People - Events" group="Deck"/>
+        <section name="Shadow" group="Deck"/>
+        <section name="Side-Deck" group="Side-Deck"/>
+    </deck>
 </game>

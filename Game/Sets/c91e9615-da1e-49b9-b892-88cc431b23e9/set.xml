@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="c91e9615-da1e-49b9-b892-88cc431b23e9" name="The Two Towers" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="c91e9615-da1e-49b9-b892-88cc431b23e9" name="The Two Towers" version="1.0">
    <cards>
       <card id="abeec779-8bf9-4406-b1d7-fc831b6493b1" name="The One Ring">
          <property name="Subname" value="Answer To All Riddles"/>

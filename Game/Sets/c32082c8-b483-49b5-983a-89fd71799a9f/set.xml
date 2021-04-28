@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="c32082c8-b483-49b5-983a-89fd71799a9f" name="Siege of Gondor" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="c32082c8-b483-49b5-983a-89fd71799a9f" name="Siege of Gondor" version="1.0">
    <cards>
       <card id="4ac53ca9-14e8-4460-9b82-ed9963f6de7e" name="Aggression">
          <property name="Kind" value="Free People"/>

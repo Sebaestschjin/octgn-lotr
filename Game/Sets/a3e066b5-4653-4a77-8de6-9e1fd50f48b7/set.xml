@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="a3e066b5-4653-4a77-8de6-9e1fd50f48b7" name="Treachery &amp; Deceit" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="a3e066b5-4653-4a77-8de6-9e1fd50f48b7" name="Treachery &amp; Deceit" version="1.0">
    <cards>
       <card id="c3bbe645-53bb-4fa3-8a4e-4ea902e3cb34" name="Gimli">
          <property name="Subname" value="Sprinter"/>

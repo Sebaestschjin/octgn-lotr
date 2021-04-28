@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="f87a7c1f-936a-477a-851b-c1dce35886cd" name="The Return of the King" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="f87a7c1f-936a-477a-851b-c1dce35886cd" name="The Return of the King" version="1.0">
    <cards>
       <card id="874ac25f-da6a-4521-b13b-ad0398d669ea" name="The One Ring">
          <property name="Subname" value="The Ruling Ring"/>

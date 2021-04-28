@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="34593335-4142-4f22-b957-c71752e59450" name="Realms of the Elf-lords" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="34593335-4142-4f22-b957-c71752e59450" name="Realms of the Elf-lords" version="1.0">
    <cards>
       <card id="77a5efff-abcb-48a8-b6ff-39fe8635ac70" name="Book of Mazarbul">
          <property name="Kind" value="Free People"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="0ba2bb97-c569-4ece-832a-2826e7612e23" name="Special Cards" version="1.0">
+   <cards>
+      <card id="fb909fa6-1ed7-44f7-a214-77b9bf5ce90d" name="Twilight Pool" size="SiteCard">
+         <property name="Text">Track the Twilight Pool here.</property>
+      </card>
+   </cards>
+</set>

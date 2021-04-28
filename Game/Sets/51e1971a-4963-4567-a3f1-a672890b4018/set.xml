@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="51e1971a-4963-4567-a3f1-a672890b4018" name="Mount Doom" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="51e1971a-4963-4567-a3f1-a672890b4018" name="Mount Doom" version="1.0">
    <cards>
       <card id="18f8ec4c-d558-4ac3-9bbe-664809eedc51" name="Great Day">
          <property name="Subname" value="Great Hour"/>

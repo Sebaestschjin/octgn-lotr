@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="983c7200-acfc-412a-9b32-f130b4500725" name="Mines of Moria" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="983c7200-acfc-412a-9b32-f130b4500725" name="Mines of Moria" version="1.0">
    <cards>
       <card id="d33a2385-afb6-4906-b002-ee4d2d585ad1" name="Beneath the Mountains">
          <property name="Kind" value="Free People"/>

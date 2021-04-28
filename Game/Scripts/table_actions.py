@@ -4,6 +4,12 @@ TwilightMarker = ('Twilight', 'e4fe7c68-73f2-4ea6-a311-f537088965eb')
 HighlightColor = "#ff0000"
 
 
+def add_default_marker(card, x=0, y=0):
+    marker_type = determine_default_marker(card)
+    if marker_type:
+        add_marker(card, marker_type)
+
+
 def add_damage(card, x=0, y=0):
     add_marker(card, DamageMarker)
 
@@ -14,6 +20,26 @@ def add_burden(card, x=0, y=0):
 
 def add_twilight(card, x=0, y=0):
     add_marker(card, TwilightMarker)
+
+
+def add_other(card, x=0, y=0):
+    mute()
+    marker, qty = askMarker()
+    if qty != 0:
+        card.markers[marker] = qty
+
+
+def add_marker(card, marker):
+    mute()
+    name = marker[0]
+    card.markers[marker] += 1
+    notify("{} adds a {} to {}.".format(me, name, card))
+
+
+def remove_default_marker(card, x=0, y=0):
+    marker_type = determine_default_marker(card)
+    if marker_type:
+        remove_marker(card, marker_type)
 
 
 def remove_damage(card, x=0, y=0):
@@ -27,34 +53,6 @@ def remove_burden(card, x=0, y=0):
 def remove_twilight(card, x=0, y=0):
     remove_marker(card, TwilightMarker)
 
-def check_card_marker(card):
-    if 'Ally' in card.type or 'Companion' in card.type or 'Minion' in card.Type:
-        return DamageMarker
-    elif "Twilight Pool" in card.name:
-        return TwilightMarker
-    else:
-        return "None"
-
-def add_general(card, x=0, y=0):
-    mute()
-    type = check_card_marker(card)
-    if type == "None": return
-    else:
-        add_marker(card, type)
-    
-def remove_general(card, x=0, y=0):
-    mute()
-    type = check_card_marker(card)
-    if type == "None": return
-    else:    
-        remove_marker(card, type)
-
-def add_marker(card, marker):
-    mute()
-    name = marker[0]
-    card.markers[marker] += 1
-    notify("{} adds a {} to {}.".format(me, name, card))
-
 
 def remove_marker(card, marker):
     mute()
@@ -64,12 +62,14 @@ def remove_marker(card, marker):
     card.markers[marker] -= 1
     notify("{} removes a {} from {}.".format(me, name, card))
 
-def add_other(card, x=0, y=0):
-    mute()
-    marker, qty = askMarker()
-    if qty == 0: return
-    card.markers[marker] = qty
-    
+
+def determine_default_marker(card):
+    if is_character(card):
+        return DamageMarker
+    elif is_twilight_tracker(card):
+        return TwilightMarker
+    return None
+
 
 def rotate_cards(cards, x=0, y=0):
     mute()
@@ -117,11 +117,19 @@ def roll_d6(group, x=0, y=0):
     n = rnd(1, 6)
     notify("{} rolls {} on a 6-sided die.".format(me, n))
 
-    
+
 def bid_burdens(group, x=0, y=0):
-    if int(me.getGlobalVariable("burdenBid")) == 999:
+    if did_not_bid(me):
         bid = askInteger("How much burden would you like to bid?", 0)
-        if bid == None: return
-        me.setGlobalVariable("burdenBid", str(bid))
+        if bid:
+            set_bid(me, bid)
     else:
         whisper("You've already bid for this game.")
+
+
+def is_character(card):
+    return 'Ally' in card.type or 'Companion' in card.type or 'Minion' in card.type
+
+
+def is_twilight_tracker(card):
+    return "Twilight Pool" in card.name

@@ -1,5 +1,6 @@
 Discard = "Discard"
 
+
 def discard_card(card):
     mute()
     card.moveTo(me.piles[Discard])

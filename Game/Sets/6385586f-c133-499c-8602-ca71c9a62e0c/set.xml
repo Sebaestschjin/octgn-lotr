@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="6385586f-c133-499c-8602-ca71c9a62e0c" name="Reflections" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="6385586f-c133-499c-8602-ca71c9a62e0c" name="Reflections" version="1.0">
    <cards>
       <card id="11f2b3b0-4559-48cb-b093-877acd275393" name="The One Ring">
          <property name="Subname" value="The Binding Ring"/>

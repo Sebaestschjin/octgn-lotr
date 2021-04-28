@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="b5556073-91a2-4d98-8de1-894a1a560bff" name="Rise of Saruman" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="b5556073-91a2-4d98-8de1-894a1a560bff" name="Rise of Saruman" version="1.0">
    <cards>
       <card id="49a422cc-3f10-4803-8de9-98f1bb841fdd" name="Armor of Khazad">
          <property name="Kind" value="Free People"/>

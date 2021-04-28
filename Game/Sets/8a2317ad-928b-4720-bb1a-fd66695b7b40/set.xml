@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="8a2317ad-928b-4720-bb1a-fd66695b7b40" name="Shadows" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="8a2317ad-928b-4720-bb1a-fd66695b7b40" name="Shadows" version="1.0">
    <cards>
       <card id="0d9c478f-5c04-43b5-be63-c39ccf68cea0" name="The One Ring">
          <property name="Subname" value="The Ring of Rings"/>

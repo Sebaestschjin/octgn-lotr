@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="a9ca1341-2480-4f88-a136-cde7843daa06" name="The Fellowship of the Ring" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="a9ca1341-2480-4f88-a136-cde7843daa06" name="The Fellowship of the Ring" version="1.0">
    <cards>
       <card id="fb551228-5f0d-48d5-b418-c4aa25e27b1b" name="The One Ring">
          <property name="Subname" value="Isildur's Bane"/>

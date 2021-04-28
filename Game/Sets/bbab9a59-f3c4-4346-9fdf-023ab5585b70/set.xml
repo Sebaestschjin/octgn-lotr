@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.1.3.2" id="bbab9a59-f3c4-4346-9fdf-023ab5585b70" name="The Hunters" version="1.0">
+<set gameId="98d26dd0-7ff6-4d2c-a023-0bc916d3f001" gameVersion="1.2.0.0" id="bbab9a59-f3c4-4346-9fdf-023ab5585b70" name="The Hunters" version="1.0">
    <cards>
       <card id="f368afa5-9068-4323-a970-30be16a43fc7" name="The One Ring">
          <property name="Subname" value="The Ring of Doom"/>
