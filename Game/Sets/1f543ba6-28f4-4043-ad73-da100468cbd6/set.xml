@@ -1559,7 +1559,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="bba2cd7d-58aa-4c8a-9a3a-3ba9748363d8" name="Hornburg Wall">
+      <card id="bba2cd7d-58aa-4c8a-9a3a-3ba9748363d8" name="Hornburg Wall" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1569,7 +1569,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="96a99383-75ef-4796-9c3f-247b0fcbfa07" name="Nan Curunir">
+      <card id="96a99383-75ef-4796-9c3f-247b0fcbfa07" name="Nan Curunir" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1579,7 +1579,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8b286d3c-6b3f-41b6-9916-141ebf886a61" name="Caverns of Isengard">
+      <card id="8b286d3c-6b3f-41b6-9916-141ebf886a61" name="Caverns of Isengard" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

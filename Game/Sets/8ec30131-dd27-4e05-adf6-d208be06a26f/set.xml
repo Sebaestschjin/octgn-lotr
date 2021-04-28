@@ -224,7 +224,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e2a5c15f-5e3a-4cab-8a2d-332ea36af60f" name="The Prancing Pony">
+      <card id="e2a5c15f-5e3a-4cab-8a2d-332ea36af60f" name="The Prancing Pony" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="P"/>
          <property name="Site" value="1"/>
@@ -253,7 +253,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b1b502e7-158f-4cbc-af92-0e9dae34d329" name="Council Courtyard">
+      <card id="b1b502e7-158f-4cbc-af92-0e9dae34d329" name="Council Courtyard" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="P"/>
@@ -273,7 +273,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="45461c11-3116-4341-b96b-138588944d4e" name="Balin's Tomb">
+      <card id="45461c11-3116-4341-b96b-138588944d4e" name="Balin's Tomb" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="P"/>
@@ -293,7 +293,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="153e76fb-8f09-4aaf-a24e-1c769115c365" name="Galadriel's Glade">
+      <card id="153e76fb-8f09-4aaf-a24e-1c769115c365" name="Galadriel's Glade" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="P"/>
@@ -1943,7 +1943,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2bda56c6-da97-4238-9de8-7beb48fc40b6" name="Buckland Homestead">
+      <card id="2bda56c6-da97-4238-9de8-7beb48fc40b6" name="Buckland Homestead" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="D"/>
@@ -1952,7 +1952,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="7a0e7265-1c1c-48a3-90f3-c32115648052" name="Caras Galadhon">
+      <card id="7a0e7265-1c1c-48a3-90f3-c32115648052" name="Caras Galadhon" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="D"/>
@@ -1961,7 +1961,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2eb0984d-3a78-4d7a-9dc7-ca46a067ac7f" name="Cavern Entrance">
+      <card id="2eb0984d-3a78-4d7a-9dc7-ca46a067ac7f" name="Cavern Entrance" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="D"/>
@@ -1970,7 +1970,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="fbeac17a-4e35-4b78-91ed-e7a17d19a0ef" name="Neekerbreekers' Bog">
+      <card id="fbeac17a-4e35-4b78-91ed-e7a17d19a0ef" name="Neekerbreekers' Bog" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="D"/>
@@ -2048,7 +2048,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9d526330-42d5-4dda-a7ea-671a85787d21" name="Breeding Pit of Isengard">
+      <card id="9d526330-42d5-4dda-a7ea-671a85787d21" name="Breeding Pit of Isengard" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="D"/>
@@ -2057,7 +2057,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0da935e2-2dc7-42dd-9ee7-daef87f2bd64" name="City of Kings">
+      <card id="0da935e2-2dc7-42dd-9ee7-daef87f2bd64" name="City of Kings" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="D"/>
@@ -2066,7 +2066,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="04b29b24-f99d-4497-9c24-811a3e46653c" name="Pinnacle of Zirakzigil">
+      <card id="04b29b24-f99d-4497-9c24-811a3e46653c" name="Pinnacle of Zirakzigil" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="D"/>
@@ -2075,7 +2075,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0deeb70a-963c-4bd4-a7a7-a0b815fd397a" name="The Prancing Pony">
+      <card id="0deeb70a-963c-4bd4-a7a7-a0b815fd397a" name="The Prancing Pony" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="D"/>
@@ -2084,7 +2084,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c060e5cc-bca3-4486-9034-2b6d6085c43a" name="Falls of Rauros">
+      <card id="c060e5cc-bca3-4486-9034-2b6d6085c43a" name="Falls of Rauros" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="D"/>
@@ -2093,7 +2093,7 @@
          <property name="Block" value=""/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="694c5663-ed29-4ff8-87ad-035faf1b47fe" name="Imladris">
+      <card id="694c5663-ed29-4ff8-87ad-035faf1b47fe" name="Imladris" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="D"/>

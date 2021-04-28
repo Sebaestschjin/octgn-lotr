@@ -1527,7 +1527,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="494a6beb-bbb2-4e5c-8668-42ab944fd0b4" name="Doorway to Doom">
+      <card id="494a6beb-bbb2-4e5c-8668-42ab944fd0b4" name="Doorway to Doom" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1536,7 +1536,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="694f5f17-f0bf-4678-981a-4c59b5911671" name="Foot of Mount Doom">
+      <card id="694f5f17-f0bf-4678-981a-4c59b5911671" name="Foot of Mount Doom" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1545,7 +1545,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e2bbf5f0-1c99-47b5-837c-54ee5ab6abbb" name="Mithlond">
+      <card id="e2bbf5f0-1c99-47b5-837c-54ee5ab6abbb" name="Mithlond" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1554,7 +1554,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="84ad4e1c-c5f4-4556-b417-f0caa13d2002" name="Morannon Plains">
+      <card id="84ad4e1c-c5f4-4556-b417-f0caa13d2002" name="Morannon Plains" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1563,7 +1563,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3b7dcbd4-2755-4df0-8307-86deb272254a" name="Sirannon Ruins">
+      <card id="3b7dcbd4-2755-4df0-8307-86deb272254a" name="Sirannon Ruins" size="SiteCard">
          <property name="Twilight" value="4"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1572,7 +1572,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0f3487a2-c517-4ae9-a924-59ac1a94a462" name="Steward's Tomb">
+      <card id="0f3487a2-c517-4ae9-a924-59ac1a94a462" name="Steward's Tomb" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1581,7 +1581,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="65f5d98d-27d6-455b-b6c8-b00f2a861b1f" name="Streets of Bree">
+      <card id="65f5d98d-27d6-455b-b6c8-b00f2a861b1f" name="Streets of Bree" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

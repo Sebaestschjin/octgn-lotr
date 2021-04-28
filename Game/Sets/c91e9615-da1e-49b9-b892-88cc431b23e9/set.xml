@@ -4203,7 +4203,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c8a1c54e-e890-43c9-b734-a0e181d75b50" name="East Wall of Rohan">
+      <card id="c8a1c54e-e890-43c9-b734-a0e181d75b50" name="East Wall of Rohan" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1T"/>
@@ -4212,7 +4212,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="fce19586-98a1-480f-b2ec-3a6816fe6658" name="Eastemnet Downs">
+      <card id="fce19586-98a1-480f-b2ec-3a6816fe6658" name="Eastemnet Downs" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1T"/>
@@ -4221,7 +4221,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="a670fc5d-4e3e-4995-8155-36cdbaeeae1c" name="Eastemnet Gullies">
+      <card id="a670fc5d-4e3e-4995-8155-36cdbaeeae1c" name="Eastemnet Gullies" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1T"/>
@@ -4230,7 +4230,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3ebd4262-6616-4466-8667-460681922ce8" name="Horse-country">
+      <card id="3ebd4262-6616-4466-8667-460681922ce8" name="Horse-country" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1T"/>
@@ -4239,7 +4239,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e5b6d19d-0fda-483f-88b9-929c2f879f3f" name="Plains of Rohan">
+      <card id="e5b6d19d-0fda-483f-88b9-929c2f879f3f" name="Plains of Rohan" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1T"/>
@@ -4248,7 +4248,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c4ce0abe-3844-44e4-928e-a4df3d42a80f" name="The Riddermark">
+      <card id="c4ce0abe-3844-44e4-928e-a4df3d42a80f" name="The Riddermark" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1T"/>
@@ -4257,7 +4257,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="7b6e340a-d7fe-493c-9d45-c5ec333bb855" name="Western Emyn Muil">
+      <card id="7b6e340a-d7fe-493c-9d45-c5ec333bb855" name="Western Emyn Muil" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1T"/>
@@ -4266,7 +4266,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="99a8cc0c-306c-4528-930a-2cf79e41c904" name="Derndingle">
+      <card id="99a8cc0c-306c-4528-930a-2cf79e41c904" name="Derndingle" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4276,7 +4276,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0046027d-4dfa-49f3-82f7-beba95e546a6" name="Eastfold">
+      <card id="0046027d-4dfa-49f3-82f7-beba95e546a6" name="Eastfold" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4286,7 +4286,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e2a31cd2-241b-4a65-a0f6-f3d2d9f3844e" name="Fangorn Forest">
+      <card id="e2a31cd2-241b-4a65-a0f6-f3d2d9f3844e" name="Fangorn Forest" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4296,7 +4296,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="34afd086-0b09-4fde-8a86-3b88f6ae9d44" name="Plains of Rohan Camp">
+      <card id="34afd086-0b09-4fde-8a86-3b88f6ae9d44" name="Plains of Rohan Camp" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4306,7 +4306,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="921ca762-ee45-439a-9767-32dc12e488b5" name="Rohirrim Village">
+      <card id="921ca762-ee45-439a-9767-32dc12e488b5" name="Rohirrim Village" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4316,7 +4316,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8f2a91eb-fbbb-4f43-9a29-58ba237a02c0" name="Uruk Camp">
+      <card id="8f2a91eb-fbbb-4f43-9a29-58ba237a02c0" name="Uruk Camp" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4326,7 +4326,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9739488d-b283-4296-a122-a2759d4efa31" name="Wold of Rohan">
+      <card id="9739488d-b283-4296-a122-a2759d4efa31" name="Wold of Rohan" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4336,7 +4336,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d08e2068-e6ff-4e4a-8858-f75507bb38b2" name="Barrows of Edoras">
+      <card id="d08e2068-e6ff-4e4a-8858-f75507bb38b2" name="Barrows of Edoras" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4346,7 +4346,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="68e7c7f6-5280-4136-8b26-c225852de96c" name="Golden Hall">
+      <card id="68e7c7f6-5280-4136-8b26-c225852de96c" name="Golden Hall" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4356,7 +4356,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9ef3aac7-93c7-4446-aada-e56a20ff512b" name="Stables">
+      <card id="9ef3aac7-93c7-4446-aada-e56a20ff512b" name="Stables" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4366,7 +4366,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="02bf837c-1cf5-4f19-b87f-f95df356dc0b" name="Streets of Edoras">
+      <card id="02bf837c-1cf5-4f19-b87f-f95df356dc0b" name="Streets of Edoras" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4376,7 +4376,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6421f80f-86d8-42cb-b708-ab8dc71f832c" name="Throne Room">
+      <card id="6421f80f-86d8-42cb-b708-ab8dc71f832c" name="Throne Room" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4386,7 +4386,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="98438d6f-1a2f-41bb-a262-ddf25d9990b6" name="Westemnet Plains">
+      <card id="98438d6f-1a2f-41bb-a262-ddf25d9990b6" name="Westemnet Plains" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4396,7 +4396,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e9b1dce2-31db-4686-b406-8900ea8de184" name="Ered Nimrais">
+      <card id="e9b1dce2-31db-4686-b406-8900ea8de184" name="Ered Nimrais" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4406,7 +4406,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0ee9142d-6ee4-47ba-b406-3ccf00a191fc" name="Westemnet Hills">
+      <card id="0ee9142d-6ee4-47ba-b406-3ccf00a191fc" name="Westemnet Hills" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4416,7 +4416,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6c51e52b-c817-43f6-9eb8-5b0fb927dd57" name="White Mountains">
+      <card id="6c51e52b-c817-43f6-9eb8-5b0fb927dd57" name="White Mountains" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4426,7 +4426,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b6a6919a-31a8-4d49-96a9-a176d9fd6b53" name="White Rocks">
+      <card id="b6a6919a-31a8-4d49-96a9-a176d9fd6b53" name="White Rocks" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4436,7 +4436,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1896df48-3aae-4d88-833d-bdca71b3155e" name="Deep of Helm">
+      <card id="1896df48-3aae-4d88-833d-bdca71b3155e" name="Deep of Helm" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4446,7 +4446,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2750fe62-5229-40c2-9bcc-c6d093215d9c" name="Deeping Wall">
+      <card id="2750fe62-5229-40c2-9bcc-c6d093215d9c" name="Deeping Wall" size="SiteCard">
          <property name="Twilight" value="7"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4456,7 +4456,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9c7ae4a4-b1ad-4c2c-b621-b157ffeb5eb1" name="Helm's Gate">
+      <card id="9c7ae4a4-b1ad-4c2c-b621-b157ffeb5eb1" name="Helm's Gate" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4466,7 +4466,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0963307d-c362-438a-a7f8-bed35344ec8f" name="Hornburg Courtyard">
+      <card id="0963307d-c362-438a-a7f8-bed35344ec8f" name="Hornburg Courtyard" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4476,7 +4476,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8866bcc2-9442-4312-b08a-6ad2773c4f05" name="Hornburg Parapet">
+      <card id="8866bcc2-9442-4312-b08a-6ad2773c4f05" name="Hornburg Parapet" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4486,7 +4486,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="af997389-2db1-4b33-a072-b7150484f797" name="Caves of Aglarond">
+      <card id="af997389-2db1-4b33-a072-b7150484f797" name="Caves of Aglarond" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4496,7 +4496,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2f7041a8-bcd4-46cb-bc93-5a67c87100b0" name="Great Hall">
+      <card id="2f7041a8-bcd4-46cb-bc93-5a67c87100b0" name="Great Hall" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4506,7 +4506,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e28a81ba-e871-4df2-acc8-c765e56e0f99" name="Hornburg Armory">
+      <card id="e28a81ba-e871-4df2-acc8-c765e56e0f99" name="Hornburg Armory" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4516,7 +4516,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="54d8df73-df6c-45eb-9406-494770aeb9f1" name="Cavern Entrance">
+      <card id="54d8df73-df6c-45eb-9406-494770aeb9f1" name="Cavern Entrance" size="SiteCard">
          <property name="Twilight" value="7"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4526,7 +4526,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="424d819c-bf3a-425b-b31d-dcf262042fa8" name="Hornburg Causeway">
+      <card id="424d819c-bf3a-425b-b31d-dcf262042fa8" name="Hornburg Causeway" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4536,7 +4536,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b24fe6b5-5103-4c47-97cc-960349176cec" name="King's Room">
+      <card id="b24fe6b5-5103-4c47-97cc-960349176cec" name="King's Room" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4546,7 +4546,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9c79e3bc-f261-46b7-bf00-482090433f2b" name="Ring of Isengard">
+      <card id="9c79e3bc-f261-46b7-bf00-482090433f2b" name="Ring of Isengard" size="SiteCard">
          <property name="Twilight" value="7"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4556,7 +4556,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b3673630-3ca2-44c3-939b-ca1fcb6bfee7" name="Wizard's Vale">
+      <card id="b3673630-3ca2-44c3-939b-ca1fcb6bfee7" name="Wizard's Vale" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4566,7 +4566,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0438300d-4803-4b6c-8ce0-c8c7f4e9ea1d" name="Fortress of Orthanc">
+      <card id="0438300d-4803-4b6c-8ce0-c8c7f4e9ea1d" name="Fortress of Orthanc" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4576,7 +4576,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2e38fdb2-4b98-42f3-a5d9-0553d96ff790" name="Orthanc Balcony">
+      <card id="2e38fdb2-4b98-42f3-a5d9-0553d96ff790" name="Orthanc Balcony" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4586,7 +4586,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b6b9cbc5-2afc-45f7-9fc1-005243f669b7" name="Orthanc Library">
+      <card id="b6b9cbc5-2afc-45f7-9fc1-005243f669b7" name="Orthanc Library" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4596,7 +4596,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="fa4f2ec2-68c3-4d8b-be87-671fb98d4d1b" name="Palantir Chamber">
+      <card id="fa4f2ec2-68c3-4d8b-be87-671fb98d4d1b" name="Palantir Chamber" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

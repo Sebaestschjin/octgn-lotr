@@ -3924,7 +3924,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c0cf0ae1-8eaa-46d3-b965-d7a85e01a30d" name="Dunharrow Plateau">
+      <card id="c0cf0ae1-8eaa-46d3-b965-d7a85e01a30d" name="Dunharrow Plateau" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1K"/>
@@ -3933,7 +3933,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b680ae07-2a8a-419b-ae5d-1757a7c0e50a" name="Edoras Hall">
+      <card id="b680ae07-2a8a-419b-ae5d-1757a7c0e50a" name="Edoras Hall" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1K"/>
@@ -3942,7 +3942,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f7834f52-da35-4601-ba4d-b1ff98897f8f" name="Isengard Ruined">
+      <card id="f7834f52-da35-4601-ba4d-b1ff98897f8f" name="Isengard Ruined" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1K"/>
@@ -3951,7 +3951,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5a860452-c7b7-48f1-9fc6-b20918cc7d44" name="Rohirrim Road">
+      <card id="5a860452-c7b7-48f1-9fc6-b20918cc7d44" name="Rohirrim Road" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1K"/>
@@ -3960,7 +3960,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="89125d4f-5657-4a0c-bd59-eb3cfd25212c" name="Sleeping Quarters">
+      <card id="89125d4f-5657-4a0c-bd59-eb3cfd25212c" name="Sleeping Quarters" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1K"/>
@@ -3969,7 +3969,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0c375e46-0fc2-4f4b-9c4a-793a9137c5fb" name="Steps of Edoras">
+      <card id="0c375e46-0fc2-4f4b-9c4a-793a9137c5fb" name="Steps of Edoras" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1K"/>
@@ -3978,7 +3978,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="958c021c-2b13-4311-b71a-2751356cac79" name="King's Tent">
+      <card id="958c021c-2b13-4311-b71a-2751356cac79" name="King's Tent" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -3988,7 +3988,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e1f9c671-2fd1-42c7-86d8-4ff909d09375" name="Rohirrim Camp">
+      <card id="e1f9c671-2fd1-42c7-86d8-4ff909d09375" name="Rohirrim Camp" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -3998,7 +3998,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5d78b68b-3a05-4cda-8f7c-ef121dd03433" name="West Road">
+      <card id="5d78b68b-3a05-4cda-8f7c-ef121dd03433" name="West Road" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4008,7 +4008,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="af7ceb39-3a58-4870-b026-ec566fe2de6d" name="Beacon of Minas Tirith">
+      <card id="af7ceb39-3a58-4870-b026-ec566fe2de6d" name="Beacon of Minas Tirith" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4018,7 +4018,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="952da070-630a-4dd6-a728-40d862cab34b" name="Hall of the Kings">
+      <card id="952da070-630a-4dd6-a728-40d862cab34b" name="Hall of the Kings" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4028,7 +4028,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="06ab636f-8350-44a0-9fc0-8b74a0902c8c" name="Tower of Ecthelion">
+      <card id="06ab636f-8350-44a0-9fc0-8b74a0902c8c" name="Tower of Ecthelion" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4038,7 +4038,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c04e4c53-ade2-4e9d-8cd1-e71bb790662b" name="Anduin Banks">
+      <card id="c04e4c53-ade2-4e9d-8cd1-e71bb790662b" name="Anduin Banks" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4048,7 +4048,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b793d2f6-8027-4b38-9a98-ab7915972dad" name="Osgiliath Fallen">
+      <card id="b793d2f6-8027-4b38-9a98-ab7915972dad" name="Osgiliath Fallen" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4058,7 +4058,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6badf85f-475c-42fa-8859-17a4d94867af" name="Pelennor Plain">
+      <card id="6badf85f-475c-42fa-8859-17a4d94867af" name="Pelennor Plain" size="SiteCard">
          <property name="Twilight" value="4"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4068,7 +4068,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ce6d1b97-ceb1-46a1-afe0-21f018fb3183" name="City Gates">
+      <card id="ce6d1b97-ceb1-46a1-afe0-21f018fb3183" name="City Gates" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4078,7 +4078,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="24f0a302-8606-4895-9974-2f2baab26808" name="Pelennor Flat">
+      <card id="24f0a302-8606-4895-9974-2f2baab26808" name="Pelennor Flat" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4088,7 +4088,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="89754a42-7234-4570-8152-7c1f00fd1fc3" name="Minas Tirith Fifth Circle">
+      <card id="89754a42-7234-4570-8152-7c1f00fd1fc3" name="Minas Tirith Fifth Circle" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4098,7 +4098,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="013dc8e9-afc1-48ae-a4ba-ea4fed8dd6c9" name="Minas Tirith First Circle">
+      <card id="013dc8e9-afc1-48ae-a4ba-ea4fed8dd6c9" name="Minas Tirith First Circle" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4108,7 +4108,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="df3de062-87a9-48d5-b73a-73e2c8c97450" name="Minas Tirith Fourth Circle">
+      <card id="df3de062-87a9-48d5-b73a-73e2c8c97450" name="Minas Tirith Fourth Circle" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4118,7 +4118,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="76d5dd67-9762-44f4-b918-0a20327df69b" name="Minas Tirith Second Circle">
+      <card id="76d5dd67-9762-44f4-b918-0a20327df69b" name="Minas Tirith Second Circle" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4128,7 +4128,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="22a7ccca-a5d7-4c01-ae77-f4f7d76ef6a9" name="Minas Tirith Seventh Circle">
+      <card id="22a7ccca-a5d7-4c01-ae77-f4f7d76ef6a9" name="Minas Tirith Seventh Circle" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4138,7 +4138,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="fe681a9d-eabb-450f-a981-3441fcf8386f" name="Minas Tirith Sixth Circle">
+      <card id="fe681a9d-eabb-450f-a981-3441fcf8386f" name="Minas Tirith Sixth Circle" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4148,7 +4148,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e3ed8e7f-bcaf-486e-b5fc-46eae1459d5a" name="Minas Tirith Third Circle">
+      <card id="e3ed8e7f-bcaf-486e-b5fc-46eae1459d5a" name="Minas Tirith Third Circle" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4158,7 +4158,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6b688e80-d7a1-4738-a682-8e1f765fbfc8" name="Osgiliath Crossing">
+      <card id="6b688e80-d7a1-4738-a682-8e1f765fbfc8" name="Osgiliath Crossing" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4168,7 +4168,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d83fb440-c1b0-45eb-8467-67aded1bc0b1" name="Pelennor Grassland">
+      <card id="d83fb440-c1b0-45eb-8467-67aded1bc0b1" name="Pelennor Grassland" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4178,7 +4178,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="72ec42a1-8c17-4ff4-900f-6642e1c265e7" name="Ruined Capitol">
+      <card id="72ec42a1-8c17-4ff4-900f-6642e1c265e7" name="Ruined Capitol" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4188,7 +4188,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="519ef230-2826-4b09-a655-984c9b955fb4" name="Cross Roads">
+      <card id="519ef230-2826-4b09-a655-984c9b955fb4" name="Cross Roads" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4198,7 +4198,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="cab55491-31e3-425a-8965-142913e771e4" name="Morgul Vale">
+      <card id="cab55491-31e3-425a-8965-142913e771e4" name="Morgul Vale" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4208,7 +4208,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6892083b-a4ac-4de0-8c70-a53844e3dbc9" name="Morgulduin">
+      <card id="6892083b-a4ac-4de0-8c70-a53844e3dbc9" name="Morgulduin" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4218,7 +4218,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9d66b9dd-faa7-4b6e-a7d5-d2faa025e1b8" name="Northern Ithilien">
+      <card id="9d66b9dd-faa7-4b6e-a7d5-d2faa025e1b8" name="Northern Ithilien" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4228,7 +4228,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f83ab5d9-c70b-4278-a24d-ab01746e0833" name="Dagorlad">
+      <card id="f83ab5d9-c70b-4278-a24d-ab01746e0833" name="Dagorlad" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4238,7 +4238,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e34dca5b-5866-4148-84df-2fe2ad60496d" name="Haunted Pass">
+      <card id="e34dca5b-5866-4148-84df-2fe2ad60496d" name="Haunted Pass" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4248,7 +4248,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0185a260-e12e-4e1c-974b-0d53c25bdd53" name="Narchost">
+      <card id="0185a260-e12e-4e1c-974b-0d53c25bdd53" name="Narchost" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4258,7 +4258,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="57202c6c-0428-42bc-ac8d-758a1202dce0" name="Slag Mounds">
+      <card id="57202c6c-0428-42bc-ac8d-758a1202dce0" name="Slag Mounds" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

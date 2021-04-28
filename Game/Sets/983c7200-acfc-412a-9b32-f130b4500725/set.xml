@@ -1438,7 +1438,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="7c8a397d-7d48-4067-a159-d952b3b7fd84" name="Hobbiton Party Field">
+      <card id="7c8a397d-7d48-4067-a159-d952b3b7fd84" name="Hobbiton Party Field" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1"/>
@@ -1447,7 +1447,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d4e66536-a10d-4af7-8087-75bacdfc14c8" name="Hobbiton Woods">
+      <card id="d4e66536-a10d-4af7-8087-75bacdfc14c8" name="Hobbiton Woods" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1"/>
@@ -1456,7 +1456,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3e4e802c-ad19-458f-b6cb-6d610193c1cf" name="Town Center">
+      <card id="3e4e802c-ad19-458f-b6cb-6d610193c1cf" name="Town Center" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
          <property name="Site" value="1"/>
@@ -1465,7 +1465,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="68ab2f5f-afc6-4a20-a080-7a972472105d" name="Great Chasm">
+      <card id="68ab2f5f-afc6-4a20-a080-7a972472105d" name="Great Chasm" size="SiteCard">
          <property name="Twilight" value="4"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1475,7 +1475,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0fae09bf-1309-4241-8caf-369dc26ff58d" name="Hollin">
+      <card id="0fae09bf-1309-4241-8caf-369dc26ff58d" name="Hollin" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
@@ -1485,7 +1485,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f54c54a1-f541-45fd-a2b9-4a2a13b3d30a" name="Valley of the Silverlode">
+      <card id="f54c54a1-f541-45fd-a2b9-4a2a13b3d30a" name="Valley of the Silverlode" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

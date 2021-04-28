@@ -2248,7 +2248,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="65e214f7-b418-4858-988f-ea6d7a5675fd" name="Anduin River">
+      <card id="65e214f7-b418-4858-988f-ea6d7a5675fd" name="Anduin River" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -2257,7 +2257,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b1c098d9-e899-4b27-8f1d-cb4f6cd41744" name="Breeding Pit of Isengard">
+      <card id="b1c098d9-e899-4b27-8f1d-cb4f6cd41744" name="Breeding Pit of Isengard" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -2266,7 +2266,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="439bfdcf-0d40-46a9-8790-d38cd413fb30" name="City Gates">
+      <card id="439bfdcf-0d40-46a9-8790-d38cd413fb30" name="City Gates" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2275,7 +2275,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="00c4f663-1025-46d6-aed7-8e0a637ddbbe" name="East Wall of Rohan">
+      <card id="00c4f663-1025-46d6-aed7-8e0a637ddbbe" name="East Wall of Rohan" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -2284,7 +2284,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="28953958-e16b-46f5-99e6-810674923437" name="Gate of Mordor">
+      <card id="28953958-e16b-46f5-99e6-810674923437" name="Gate of Mordor" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -2293,7 +2293,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="48e48464-e2f6-46e6-8d78-c1ebd8c8e561" name="Isengard Ruined">
+      <card id="48e48464-e2f6-46e6-8d78-c1ebd8c8e561" name="Isengard Ruined" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -2302,7 +2302,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b5772c7d-42e3-4abe-b5d9-c2ffa808fbcb" name="Mount Doom">
+      <card id="b5772c7d-42e3-4abe-b5d9-c2ffa808fbcb" name="Mount Doom" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="R"/>
@@ -2311,7 +2311,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2fa804e6-bd35-43fc-8375-f790c12d9cb8" name="Westfold Village">
+      <card id="2fa804e6-bd35-43fc-8375-f790c12d9cb8" name="Westfold Village" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -2540,7 +2540,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d30be92a-a976-40a6-9823-731f84a76601" name="Mount Doom">
+      <card id="d30be92a-a976-40a6-9823-731f84a76601" name="Mount Doom" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="RF"/>

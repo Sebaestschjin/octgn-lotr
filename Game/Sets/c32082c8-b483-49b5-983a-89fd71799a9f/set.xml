@@ -1426,7 +1426,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="4e45fa11-4a26-447b-85b0-a8b4032e74f3" name="The Dimholt">
+      <card id="4e45fa11-4a26-447b-85b0-a8b4032e74f3" name="The Dimholt" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1436,7 +1436,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8b8d8166-e893-4b8b-bf40-ff8620685f4a" name="City of the Dead">
+      <card id="8b8d8166-e893-4b8b-bf40-ff8620685f4a" name="City of the Dead" size="SiteCard">
          <property name="Twilight" value="4"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1446,7 +1446,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="683c2a14-4960-43a7-a1e3-18609abc7f8f" name="Crashed Gate">
+      <card id="683c2a14-4960-43a7-a1e3-18609abc7f8f" name="Crashed Gate" size="SiteCard">
          <property name="Twilight" value="7"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1456,7 +1456,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="49da1016-0b4d-49ba-9dd4-17a6a768193f" name="Osgiliath Channel">
+      <card id="49da1016-0b4d-49ba-9dd4-17a6a768193f" name="Osgiliath Channel" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

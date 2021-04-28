@@ -1389,7 +1389,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ef47cd26-2923-443c-b3b7-fa76e51abb0b" name="Caras Galadhon">
+      <card id="ef47cd26-2923-443c-b3b7-fa76e51abb0b" name="Caras Galadhon" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1399,7 +1399,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c7414953-a279-41d0-a750-0945547541de" name="Eregion Hills">
+      <card id="c7414953-a279-41d0-a750-0945547541de" name="Eregion Hills" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1409,7 +1409,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8b77f4a5-4972-44ca-822a-26465ab21a00" name="Gates of Argonath">
+      <card id="8b77f4a5-4972-44ca-822a-26465ab21a00" name="Gates of Argonath" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
@@ -1419,7 +1419,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="624e2205-922b-4150-9a2e-fbdcb6684559" name="The Great River">
+      <card id="624e2205-922b-4150-9a2e-fbdcb6684559" name="The Great River" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
@@ -1429,7 +1429,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="7eca250b-8588-4372-941f-fac2ef1e9332" name="House of Elrond">
+      <card id="7eca250b-8588-4372-941f-fac2ef1e9332" name="House of Elrond" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1439,7 +1439,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5b75021c-047a-4910-adef-a6ad065d48aa" name="Wastes of Emyn Muil">
+      <card id="5b75021c-047a-4910-adef-a6ad065d48aa" name="Wastes of Emyn Muil" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

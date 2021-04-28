@@ -1459,7 +1459,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="cc7a2837-1c19-4f86-9614-13d10ade411d" name="Rocks of Emyn Muil">
+      <card id="cc7a2837-1c19-4f86-9614-13d10ade411d" name="Rocks of Emyn Muil" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1T"/>
@@ -1468,7 +1468,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="876efcae-f7fa-4b2d-b8fc-8df14c8096db" name="Westfold">
+      <card id="876efcae-f7fa-4b2d-b8fc-8df14c8096db" name="Westfold" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1T"/>
@@ -1477,7 +1477,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="a89ec16f-e83e-48e2-b13f-36891eadc0e2" name="Meduseld">
+      <card id="a89ec16f-e83e-48e2-b13f-36891eadc0e2" name="Meduseld" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1487,7 +1487,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0b29c047-25cb-40f0-bbba-c963f1f52982" name="Hornburg Hall">
+      <card id="0b29c047-25cb-40f0-bbba-c963f1f52982" name="Hornburg Hall" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1497,7 +1497,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3919bc06-11bd-48f6-b5e5-9dcdc36a4a6d" name="Valley of Saruman">
+      <card id="3919bc06-11bd-48f6-b5e5-9dcdc36a4a6d" name="Valley of Saruman" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1507,7 +1507,7 @@
          <property name="Block" value="Towers Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5c2a3fc7-5776-4d75-af12-8118f41178ae" name="Saruman's Laboratory">
+      <card id="5c2a3fc7-5776-4d75-af12-8118f41178ae" name="Saruman's Laboratory" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

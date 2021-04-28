@@ -2736,7 +2736,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="4cda60cf-7c66-49c9-9f69-f3ff40b20718" name="Anduin Banks">
+      <card id="4cda60cf-7c66-49c9-9f69-f3ff40b20718" name="Anduin Banks" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -2745,7 +2745,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5e08456f-fcf6-4339-9763-dc3d7a46e9d0" name="Anduin Confluence">
+      <card id="5e08456f-fcf6-4339-9763-dc3d7a46e9d0" name="Anduin Confluence" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2754,7 +2754,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0a3def07-beeb-49c5-b780-fa00af6e61ce" name="Barazinbar">
+      <card id="0a3def07-beeb-49c5-b780-fa00af6e61ce" name="Barazinbar" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2763,7 +2763,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="cb3cf977-2ecb-4d93-bc80-ef06036fbcc5" name="Buckland Homestead">
+      <card id="cb3cf977-2ecb-4d93-bc80-ef06036fbcc5" name="Buckland Homestead" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2772,7 +2772,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5543ad33-fa28-4cef-97d9-9be31e89a0d3" name="Caras Galadhon">
+      <card id="5543ad33-fa28-4cef-97d9-9be31e89a0d3" name="Caras Galadhon" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2781,7 +2781,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8cedf2c0-e4ed-4962-9146-eef9e47c114f" name="Cavern Entrance">
+      <card id="8cedf2c0-e4ed-4962-9146-eef9e47c114f" name="Cavern Entrance" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2790,7 +2790,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9bb0f9a1-7193-445f-b18a-f23604c4e9c8" name="Chamber of Mazarbul">
+      <card id="9bb0f9a1-7193-445f-b18a-f23604c4e9c8" name="Chamber of Mazarbul" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2799,7 +2799,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="435c5499-276f-4b1f-8eae-a289c58b2fef" name="Crags of Emyn Muil">
+      <card id="435c5499-276f-4b1f-8eae-a289c58b2fef" name="Crags of Emyn Muil" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2808,7 +2808,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="ed42ef52-cadd-4740-8568-6ea1f64f1ac7" name="Dammed Gate-stream">
+      <card id="ed42ef52-cadd-4740-8568-6ea1f64f1ac7" name="Dammed Gate-stream" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -2817,7 +2817,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="abaec1eb-f60b-46dc-909e-8883d125e35a" name="East Road">
+      <card id="abaec1eb-f60b-46dc-909e-8883d125e35a" name="East Road" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2826,7 +2826,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b467ec0b-3af6-4846-8632-71ae957245e3" name="Ettenmoors">
+      <card id="b467ec0b-3af6-4846-8632-71ae957245e3" name="Ettenmoors" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2835,7 +2835,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="44592349-380f-4c71-b0e8-785b8fdd5f45" name="Expanding Marshland">
+      <card id="44592349-380f-4c71-b0e8-785b8fdd5f45" name="Expanding Marshland" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2844,7 +2844,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8efb90f8-fde4-4199-908d-1e3afdc3155d" name="Fangorn Glade">
+      <card id="8efb90f8-fde4-4199-908d-1e3afdc3155d" name="Fangorn Glade" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2853,7 +2853,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b35febc7-bd38-4000-896e-8b48c71ccd1a" name="Flats of Rohan">
+      <card id="b35febc7-bd38-4000-896e-8b48c71ccd1a" name="Flats of Rohan" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2862,7 +2862,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="40e2831e-3ad4-4de5-b941-f5120157c03c" name="Fortress of Orthanc">
+      <card id="40e2831e-3ad4-4de5-b941-f5120157c03c" name="Fortress of Orthanc" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2871,7 +2871,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f88517e1-51ca-4631-acac-51e685e101cf" name="Green Dragon Inn">
+      <card id="f88517e1-51ca-4631-acac-51e685e101cf" name="Green Dragon Inn" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2880,7 +2880,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d5678af0-21e0-4679-8e02-a2f7322f33dd" name="Harrowdale">
+      <card id="d5678af0-21e0-4679-8e02-a2f7322f33dd" name="Harrowdale" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2889,7 +2889,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9e9ffe40-7bd6-405a-9fb6-beb29983e315" name="Heights of Isengard">
+      <card id="9e9ffe40-7bd6-405a-9fb6-beb29983e315" name="Heights of Isengard" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -2898,7 +2898,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="35366a0e-1e16-4c89-9056-1d4995560c6b" name="Helm's Gate">
+      <card id="35366a0e-1e16-4c89-9056-1d4995560c6b" name="Helm's Gate" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2907,7 +2907,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e70c4839-2aad-44e9-9d7b-09c845298118" name="Mere of Dead Faces">
+      <card id="e70c4839-2aad-44e9-9d7b-09c845298118" name="Mere of Dead Faces" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -2916,7 +2916,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="529fb317-49ac-4a38-b888-d5637488928d" name="Moria Guardroom">
+      <card id="529fb317-49ac-4a38-b888-d5637488928d" name="Moria Guardroom" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2925,7 +2925,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="cdaba759-3674-4727-8554-a9bae01e5000" name="Moria Stairway">
+      <card id="cdaba759-3674-4727-8554-a9bae01e5000" name="Moria Stairway" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2934,7 +2934,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="dc086df0-c2e7-485d-a83e-7f308cea75a2" name="Neekerbreekers' Bog">
+      <card id="dc086df0-c2e7-485d-a83e-7f308cea75a2" name="Neekerbreekers' Bog" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2943,7 +2943,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="10b60ee8-3952-486f-9708-eb27b51ac0a6" name="North Undeep">
+      <card id="10b60ee8-3952-486f-9708-eb27b51ac0a6" name="North Undeep" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2952,7 +2952,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="175b0c97-281f-411a-bd04-2187594695ea" name="Old Forest Road">
+      <card id="175b0c97-281f-411a-bd04-2187594695ea" name="Old Forest Road" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2961,7 +2961,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="7fb68b74-b777-456f-84e8-19d758213537" name="Osgiliath Reclaimed">
+      <card id="7fb68b74-b777-456f-84e8-19d758213537" name="Osgiliath Reclaimed" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2970,7 +2970,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d88bff88-7511-4dd0-9384-a90ebc9d4a23" name="Pelennor Fields">
+      <card id="d88bff88-7511-4dd0-9384-a90ebc9d4a23" name="Pelennor Fields" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2979,7 +2979,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e33ed5b6-9fab-47f5-bb1f-a4c98d659a19" name="Pelennor Flat">
+      <card id="e33ed5b6-9fab-47f5-bb1f-a4c98d659a19" name="Pelennor Flat" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2988,7 +2988,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="fc6bb3a0-8e36-493a-aa96-fda270c5c252" name="Pinnacle of Zirakzigil">
+      <card id="fc6bb3a0-8e36-493a-aa96-fda270c5c252" name="Pinnacle of Zirakzigil" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -2997,7 +2997,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="5e5388ab-8c49-4949-9940-90456841b749" name="The Prancing Pony">
+      <card id="5e5388ab-8c49-4949-9940-90456841b749" name="The Prancing Pony" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -3006,7 +3006,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8d48bb8e-07ef-4794-9568-228c04eed742" name="Rohan Uplands">
+      <card id="8d48bb8e-07ef-4794-9568-228c04eed742" name="Rohan Uplands" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -3015,7 +3015,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="57dac549-0275-45f2-9be3-93b359f49737" name="Slag Mounds">
+      <card id="57dac549-0275-45f2-9be3-93b359f49737" name="Slag Mounds" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -3024,7 +3024,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="8e6e331f-3d0b-40ff-9df9-1cac7b3d81fd" name="Stables">
+      <card id="8e6e331f-3d0b-40ff-9df9-1cac7b3d81fd" name="Stables" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -3033,7 +3033,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6d71bd80-0242-4d78-a0cf-bb9d7e29c7c1" name="Trollshaw Forest">
+      <card id="6d71bd80-0242-4d78-a0cf-bb9d7e29c7c1" name="Trollshaw Forest" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -3042,7 +3042,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="503b5b24-a060-46af-b6da-c8981a3d4f4b" name="Valley of the Silverlode">
+      <card id="503b5b24-a060-46af-b6da-c8981a3d4f4b" name="Valley of the Silverlode" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -3051,7 +3051,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="859796e7-c70e-469b-8146-6026afd99577" name="Watch-tower of Cirith Ungol">
+      <card id="859796e7-c70e-469b-8146-6026afd99577" name="Watch-tower of Cirith Ungol" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -3060,7 +3060,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e23e47b9-60d0-408e-8ffb-90c1fd327c83" name="West Gate of Moria">
+      <card id="e23e47b9-60d0-408e-8ffb-90c1fd327c83" name="West Gate of Moria" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -3069,7 +3069,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c078476d-677c-43e7-97e0-9fd3e4a5ab91" name="Westemnet Village">
+      <card id="c078476d-677c-43e7-97e0-9fd3e4a5ab91" name="Westemnet Village" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -3078,7 +3078,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="710c3b72-9e76-490a-977a-36b230b9d462" name="Window on the West">
+      <card id="710c3b72-9e76-490a-977a-36b230b9d462" name="Window on the West" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>
@@ -3087,7 +3087,7 @@
          <property name="Block" value="War of the Ring"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="08569c42-997f-49fa-857e-02db69efea63" name="Woody-End">
+      <card id="08569c42-997f-49fa-857e-02db69efea63" name="Woody-End" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="S"/>

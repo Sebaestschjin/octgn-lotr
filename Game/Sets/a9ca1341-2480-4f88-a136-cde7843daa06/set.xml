@@ -4077,7 +4077,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="23365c50-39c8-4dd2-96ee-07eedefb5386" name="Bag End">
+      <card id="23365c50-39c8-4dd2-96ee-07eedefb5386" name="Bag End" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1"/>
@@ -4086,7 +4086,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="86219a9a-e80f-4126-b37a-437897cf30fd" name="East Road">
+      <card id="86219a9a-e80f-4126-b37a-437897cf30fd" name="East Road" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1"/>
@@ -4095,7 +4095,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="03fe11a0-1610-487a-bfb3-1e403b1c4902" name="Farmer Maggot's Fields">
+      <card id="03fe11a0-1610-487a-bfb3-1e403b1c4902" name="Farmer Maggot's Fields" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1"/>
@@ -4104,7 +4104,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="340d183e-65ed-42db-a545-8446ae3c4e00" name="Green Dragon Inn">
+      <card id="340d183e-65ed-42db-a545-8446ae3c4e00" name="Green Dragon Inn" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1"/>
@@ -4113,7 +4113,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2d8ea49c-2809-4bd3-9dcf-319fedde7141" name="Green Hill Country">
+      <card id="2d8ea49c-2809-4bd3-9dcf-319fedde7141" name="Green Hill Country" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1"/>
@@ -4122,7 +4122,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c982b41e-7b0a-44b3-ae0f-55799c2f4a09" name="The Prancing Pony">
+      <card id="c982b41e-7b0a-44b3-ae0f-55799c2f4a09" name="The Prancing Pony" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1"/>
@@ -4131,7 +4131,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="90a41ba5-c837-41e7-977c-49e9deea65ee" name="Shire Lookout Point">
+      <card id="90a41ba5-c837-41e7-977c-49e9deea65ee" name="Shire Lookout Point" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
          <property name="Site" value="1"/>
@@ -4140,7 +4140,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6ce67550-b771-40c7-a4e8-4d65db23755c" name="Westfarthing">
+      <card id="6ce67550-b771-40c7-a4e8-4d65db23755c" name="Westfarthing" size="SiteCard">
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
          <property name="Site" value="1"/>
@@ -4149,7 +4149,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f25c52ac-bf07-4042-b274-f1c258723b46" name="Bree Gate">
+      <card id="f25c52ac-bf07-4042-b274-f1c258723b46" name="Bree Gate" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4159,7 +4159,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="277dd226-d0fd-45e4-a502-97769c428862" name="Bree Streets">
+      <card id="277dd226-d0fd-45e4-a502-97769c428862" name="Bree Streets" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4169,7 +4169,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6d531951-5b31-468c-9768-47fbc24451d6" name="Breeland Forest">
+      <card id="6d531951-5b31-468c-9768-47fbc24451d6" name="Breeland Forest" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4179,7 +4179,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="a62962f1-1e3f-406e-a11b-39d0c614505b" name="Buckleberry Ferry">
+      <card id="a62962f1-1e3f-406e-a11b-39d0c614505b" name="Buckleberry Ferry" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4189,7 +4189,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="db4559d2-04c2-453c-b68c-10cd4357d5d6" name="Ettenmoors">
+      <card id="db4559d2-04c2-453c-b68c-10cd4357d5d6" name="Ettenmoors" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
@@ -4199,7 +4199,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="972497cb-1a93-4e92-91cc-1925f58201f6" name="Midgewater Marshes">
+      <card id="972497cb-1a93-4e92-91cc-1925f58201f6" name="Midgewater Marshes" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4209,7 +4209,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1c693af4-157c-4a69-b381-6f63e681938c" name="Midgewater Moors">
+      <card id="1c693af4-157c-4a69-b381-6f63e681938c" name="Midgewater Moors" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4219,7 +4219,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6dd6b510-24bb-4df4-a691-40cba0d8c811" name="Trollshaw Forest">
+      <card id="6dd6b510-24bb-4df4-a691-40cba0d8c811" name="Trollshaw Forest" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4229,7 +4229,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e6b9a0fa-e0c3-4cdd-aa28-a9e7cfe1b146" name="Weatherhills">
+      <card id="e6b9a0fa-e0c3-4cdd-aa28-a9e7cfe1b146" name="Weatherhills" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4239,7 +4239,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c6707f1a-ceae-4da5-bc3c-05d20bae3342" name="Weathertop">
+      <card id="c6707f1a-ceae-4da5-bc3c-05d20bae3342" name="Weathertop" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4249,7 +4249,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d82f68ec-bdb3-4146-a4d6-cca0e2b37c39" name="Council Courtyard">
+      <card id="d82f68ec-bdb3-4146-a4d6-cca0e2b37c39" name="Council Courtyard" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
@@ -4259,7 +4259,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9dc79cfd-0cbf-47a4-9fb6-34bb610b7bc0" name="Ford of Bruinen">
+      <card id="9dc79cfd-0cbf-47a4-9fb6-34bb610b7bc0" name="Ford of Bruinen" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4269,7 +4269,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d0b4001d-c237-4500-9acc-964117ab18bc" name="Frodo's Bedroom">
+      <card id="d0b4001d-c237-4500-9acc-964117ab18bc" name="Frodo's Bedroom" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4279,7 +4279,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="3cf1e766-7924-4282-8a81-431068c832b4" name="Rivendell Terrace">
+      <card id="3cf1e766-7924-4282-8a81-431068c832b4" name="Rivendell Terrace" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4289,7 +4289,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="609154b2-3ff2-4d34-a8de-c197d06225dc" name="Rivendell Valley">
+      <card id="609154b2-3ff2-4d34-a8de-c197d06225dc" name="Rivendell Valley" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4299,7 +4299,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1eed9a3b-6f6e-4cf0-a11d-2ebf26543c93" name="Rivendell Waterfall">
+      <card id="1eed9a3b-6f6e-4cf0-a11d-2ebf26543c93" name="Rivendell Waterfall" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4309,7 +4309,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0be87e46-cb61-423a-9869-c51fced41467" name="Balin's Tomb">
+      <card id="0be87e46-cb61-423a-9869-c51fced41467" name="Balin's Tomb" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4319,7 +4319,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="dfea51ad-f446-41d4-b275-0b0203b633ca" name="Dwarrowdelf Chamber">
+      <card id="dfea51ad-f446-41d4-b275-0b0203b633ca" name="Dwarrowdelf Chamber" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4329,7 +4329,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9ad368d6-1bde-4c79-b052-e7e4cf3ea897" name="Mithril Mine">
+      <card id="9ad368d6-1bde-4c79-b052-e7e4cf3ea897" name="Mithril Mine" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4339,7 +4339,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="209a2fd6-29be-459e-8bdf-033d40e9ac6b" name="Moria Lake">
+      <card id="209a2fd6-29be-459e-8bdf-033d40e9ac6b" name="Moria Lake" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
@@ -4349,7 +4349,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="b124fdca-a243-4035-9a50-9bbe60356555" name="Moria Stairway">
+      <card id="b124fdca-a243-4035-9a50-9bbe60356555" name="Moria Stairway" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4359,7 +4359,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="c231596b-2097-40de-95ff-09a7b3fe45cb" name="Pass of Caradhras">
+      <card id="c231596b-2097-40de-95ff-09a7b3fe45cb" name="Pass of Caradhras" size="SiteCard">
          <property name="Twilight" value="2"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4369,7 +4369,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2f3a794f-7713-43aa-a25d-20ba92dfbba8" name="The Bridge of Khazad-dum">
+      <card id="2f3a794f-7713-43aa-a25d-20ba92dfbba8" name="The Bridge of Khazad-dum" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
@@ -4379,7 +4379,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="1998224d-f4ca-4788-b46c-0b0f0b504529" name="Dimrill Dale">
+      <card id="1998224d-f4ca-4788-b46c-0b0f0b504529" name="Dimrill Dale" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4389,7 +4389,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="46ef2f1d-5674-4424-8b29-ce0d1137f1df" name="Galadriel's Glade">
+      <card id="46ef2f1d-5674-4424-8b29-ce0d1137f1df" name="Galadriel's Glade" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
@@ -4399,7 +4399,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="eaf368f7-d8b3-4b87-912d-853152a897ca" name="Lothlorien Woods">
+      <card id="eaf368f7-d8b3-4b87-912d-853152a897ca" name="Lothlorien Woods" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4409,7 +4409,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="40f8bfe9-13fc-47c3-8f1e-6c3f50ed4d5a" name="Anduin Confluence">
+      <card id="40f8bfe9-13fc-47c3-8f1e-6c3f50ed4d5a" name="Anduin Confluence" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4419,7 +4419,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="7b0808a0-17f3-4308-b45f-b107aa00e828" name="Anduin Wilderland">
+      <card id="7b0808a0-17f3-4308-b45f-b107aa00e828" name="Anduin Wilderland" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
@@ -4429,7 +4429,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="a27d1592-e4f6-4c2d-99d0-d41be87f411c" name="Silverlode Banks">
+      <card id="a27d1592-e4f6-4c2d-99d0-d41be87f411c" name="Silverlode Banks" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4439,7 +4439,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="168735f8-155f-47e0-9fc1-0194b4ec14ed" name="Anduin Banks">
+      <card id="168735f8-155f-47e0-9fc1-0194b4ec14ed" name="Anduin Banks" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
@@ -4449,7 +4449,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f25c40e7-07b2-4f1a-b7c3-6c7ed44d9022" name="Brown Lands">
+      <card id="f25c40e7-07b2-4f1a-b7c3-6c7ed44d9022" name="Brown Lands" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4459,7 +4459,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="f9672453-b5bc-4125-b43c-4b75863d198e" name="Pillars of the Kings">
+      <card id="f9672453-b5bc-4125-b43c-4b75863d198e" name="Pillars of the Kings" size="SiteCard">
          <property name="Twilight" value="6"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4469,7 +4469,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="d125c96b-614b-4982-9494-1ece792bcb63" name="Shores of Nen Hithoel">
+      <card id="d125c96b-614b-4982-9494-1ece792bcb63" name="Shores of Nen Hithoel" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4479,7 +4479,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="55f3f25e-dbc5-45c5-ba9b-5169b8f6c96a" name="Emyn Muil">
+      <card id="55f3f25e-dbc5-45c5-ba9b-5169b8f6c96a" name="Emyn Muil" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4489,7 +4489,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0f017b41-8160-405f-a85c-6b3430812a94" name="Slopes of Amon Hen">
+      <card id="0f017b41-8160-405f-a85c-6b3430812a94" name="Slopes of Amon Hen" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -4499,7 +4499,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6cdd530a-1873-4ec1-98d4-1e750381e17a" name="Summit of Amon Hen">
+      <card id="6cdd530a-1873-4ec1-98d4-1e750381e17a" name="Summit of Amon Hen" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="C"/>
@@ -4509,7 +4509,7 @@
          <property name="Block" value="Fellowship Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9e172186-5f49-44c9-b300-67e276da602c" name="Tol Brandir">
+      <card id="9e172186-5f49-44c9-b300-67e276da602c" name="Tol Brandir" size="SiteCard">
          <property name="Twilight" value="9"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

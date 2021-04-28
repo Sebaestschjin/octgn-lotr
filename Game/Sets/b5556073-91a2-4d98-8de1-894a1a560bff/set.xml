@@ -1743,7 +1743,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2dc9056d-97ea-42c4-8f9f-8a9637ffd767" name="Dol Guldur">
+      <card id="2dc9056d-97ea-42c4-8f9f-8a9637ffd767" name="Dol Guldur" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1752,7 +1752,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="37d1a403-fe24-49f9-a797-0f721caf9aa6" name="Falls of Rauros">
+      <card id="37d1a403-fe24-49f9-a797-0f721caf9aa6" name="Falls of Rauros" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1761,7 +1761,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="9252187a-e4a9-49c8-9468-df793fcae590" name="Imladris">
+      <card id="9252187a-e4a9-49c8-9468-df793fcae590" name="Imladris" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1770,7 +1770,7 @@
          <property name="Block" value="Hunters"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="2dfdac61-35e9-4fc5-998b-32e811603917" name="Nurn">
+      <card id="2dfdac61-35e9-4fc5-998b-32e811603917" name="Nurn" size="SiteCard">
          <property name="Twilight" value="1"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>

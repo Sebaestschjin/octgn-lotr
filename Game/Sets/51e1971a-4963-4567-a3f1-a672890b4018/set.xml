@@ -1418,7 +1418,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="6e7fd811-5786-47a8-ba89-0edf6d261270" name="Base of Mindolluin">
+      <card id="6e7fd811-5786-47a8-ba89-0edf6d261270" name="Base of Mindolluin" size="SiteCard">
          <property name="Twilight" value="0"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1428,7 +1428,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="998be88c-bc9f-489e-aef1-3bb780b240bc" name="Pelennor Prairie">
+      <card id="998be88c-bc9f-489e-aef1-3bb780b240bc" name="Pelennor Prairie" size="SiteCard">
          <property name="Twilight" value="3"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1438,7 +1438,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="e13553d8-3cab-489d-ad3e-abc428001a62" name="Steward's Tomb">
+      <card id="e13553d8-3cab-489d-ad3e-abc428001a62" name="Steward's Tomb" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
@@ -1448,7 +1448,7 @@
          <property name="Block" value="King Movie"/>
          <property name="Ring-Bearer" value="False"/>
       </card>
-      <card id="0655de62-3c3a-4795-bd2e-e7ad867aca8c" name="Watchers of Cirith Ungol">
+      <card id="0655de62-3c3a-4795-bd2e-e7ad867aca8c" name="Watchers of Cirith Ungol" size="SiteCard">
          <property name="Twilight" value="8"/>
          <property name="Type" value="Site"/>
          <property name="Rarity" value="U"/>
