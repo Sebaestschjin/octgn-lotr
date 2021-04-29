@@ -87,9 +87,10 @@
     <table name="Middle-Earth" visibility="undefined"
            width="800" height="650"
            background="Resources/background.jpg" backgroundStyle="uniformToFill">
-        <cardaction menu="Add Default Token" shortcut="Up" execute="add_default_marker"/>
-        <cardaction menu="Remove Default Token" shortcut="Down" execute="remove_default_marker"/>
         <cardactions menu="Add...">
+            <cardaction menu="Default Token"
+                        shortcut="Up"
+                        execute="add_default_marker"/>
             <cardaction menu="Damage"
                         shortcut="f1"
                         execute="add_damage"/>
@@ -103,6 +104,9 @@
                         execute="add_other"/>
         </cardactions>
         <cardactions menu="Remove...">
+            <cardaction menu="Remove Default Token"
+                        shortcut="Down"
+                        execute="remove_default_marker"/>
             <cardaction menu="Damage"
                         shortcut="shift+f1"
                         execute="remove_damage"/>
@@ -112,6 +116,8 @@
             <cardaction menu="Twilight"
                         shortcut="shift+f3"
                         execute="remove_twilight"/>
+            <cardaction menu="All Other"
+                        execute="remove_other"/>
         </cardactions>
         <!-- standard card actions -->
         <cardactions menu="Change Cards">
@@ -131,7 +137,7 @@
             <groupaction menu="Roll a 6-sided Die"
                          execute="roll_d6"/>
         </groupactions>
-        <groupaction menu="Bid Burdens for First Player" execute="bid_burdens"/>
+        <groupaction menu="Bid Burdens for First Player" execute="bid_burdens" showIf="has_not_bid"/>
     </table>
 
     <player summary="Hand:{#Hand} | Threats:{#Threats}">

@@ -19,8 +19,8 @@ def on_deck_loaded(args):
 
 
 def determine_starting_player():
-    if all_players(did_bid):
-        notify("{} has bid {} burden token(s).".format(me, get_bid(me))
+    if all_players(has_bid):
+        notify("{} has bid {} burden token(s).".format(me, get_bid(me)))
 
 
 def get_bid(player):
@@ -31,12 +31,12 @@ def set_bid(player, value):
     player.setGlobalVariable(BidVariable, str(value))
 
 
-def did_bid(player):
+def has_bid(player):
     return get_bid(player) != BidDefault
 
 
-def did_not_bid(group, x=0, y=0):
-    return not did_bid(me)
+def has_not_bid(group, x=0, y=0):
+    return not has_bid(me)
 
 
 def all_players(test):

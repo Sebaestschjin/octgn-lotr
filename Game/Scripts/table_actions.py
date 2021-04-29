@@ -1,6 +1,8 @@
 DamageMarker = ('Damage', 'ca152f06-41cc-476a-be27-0bdd57f4b710')
 BurdenMarker = ('Burden', 'ad150c1d-4534-456b-a4bd-58bf67a26c3b')
 TwilightMarker = ('Twilight', 'e4fe7c68-73f2-4ea6-a311-f537088965eb')
+ALL_MARKER = [DamageMarker, BurdenMarker, TwilightMarker]
+
 HighlightColor = "#ff0000"
 
 
@@ -52,6 +54,13 @@ def remove_burden(card, x=0, y=0):
 
 def remove_twilight(card, x=0, y=0):
     remove_marker(card, TwilightMarker)
+
+
+def remove_other(card, x=0, y=0):
+    mute()
+    for marker in card.markers:
+        if marker not in ALL_MARKER:
+            card.markers[marker] = 0
 
 
 def remove_marker(card, marker):
@@ -119,7 +128,7 @@ def roll_d6(group, x=0, y=0):
 
 
 def bid_burdens(group, x=0, y=0):
-    if did_not_bid(me):
+    if has_not_bid(me):
         bid = askInteger("How much burden would you like to bid?", 0)
         if bid:
             set_bid(me, bid)
